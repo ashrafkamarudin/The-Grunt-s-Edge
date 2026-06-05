@@ -82,7 +82,7 @@ He ate his stew and nodded at the right moments.
 
 *"—and the blacksmith's son. Don't even get me started. He looked at me today. You know the look. The one where they think they're being subtle but they're just being obvious and annoying. I'm going to give him a piece of my mind next time he tries it. See how he likes—"*
 
-On and on. The neighbour's wash line. The well water tasting funny. The stew was too salty today. Her father came home late and didn't say a word at dinner.
+On and on. The neighbour's wash line. The well water tasting funny. the rabbit was tough today. Her father came home late and didn't say a word at dinner.
 
 He didn't understand half of it. But her voice was steady and unhurried. She didn't seem to mind that he didn't answer. She filled the silence for both of them.
 
