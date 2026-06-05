@@ -56,7 +56,7 @@ Eric caught his name from the girl. *Kael.* Or maybe *Kaelen.* Something with a 
 
 The girl's name came easier. She said it herself, pointing at her chest, repeating it until he understood.
 
-*Lena.*
+*'Lena.'*
 
 ---
 
@@ -168,7 +168,7 @@ He said something Eric didn't catch. Lena answered sharply. The man replied, his
 
 Eric caught one word.
 
-*Stranger.*
+*'Stranger.'*
 
 Lena's voice rose. She pointed at Eric, then at the floor, then at the man. Her meaning was clear without translation: *He stays. This is my father's house. Not your business.*
 
@@ -260,7 +260,7 @@ The guilt was there, too. Sitting in his chest like a stone.
 
 He was eating their food. Warming by their fire. Taking up space in a house that barely had room for two. Lena's portions were already smaller than his. Winter was coming. The scarred man was right about one thing — Eric was an extra mouth, and food was going to run short.
 
-*I need to earn my keep. I need to learn faster. I need to figure out where I fit.*
+*'I need to earn my keep. I need to learn faster. I need to figure out where I fit.'*
 
 But for the first time since he opened his eyes in that forest, he had a name. He had people who knew it. He had a wall with a drying pelt and a bowl of stew and a fire that hadn't gone out.
 

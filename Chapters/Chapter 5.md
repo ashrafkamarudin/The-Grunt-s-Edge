@@ -158,7 +158,7 @@ No one argued.
 
 But the words hung in the air.
 
-*Something's changed.*
+*'Something's changed.'*
 
 No one spoke.
 
@@ -404,7 +404,7 @@ Outsider. No blood ties. Physically capable. Already dependent on their resource
 
 The only option that didn't break the village.
 
-*This is insane. You're volunteering to go to war and you don't even know what the war is.*
+*'This is insane. You're volunteering to go to war and you don't even know what the war is.'*
 
 The thought came from somewhere deeper. A voice that hadn't spoken in days. The modern part of him. The part that had never thrown a real punch, never held a weapon, never been in a fight that wasn't a schoolyard scuffle.
 
@@ -412,11 +412,11 @@ He'd watched war movies. Played video games. Read books about soldiers.
 
 That wasn't the same. That wasn't even close.
 
-*You're going to die.*
+*'You're going to die.'*
 
 He pushed the thought down.
 
-*Maybe. But if I stay, someone else dies. Someone who belongs here.*
+*'Maybe. But if I stay, someone else dies. Someone who belongs here.'*
 
 He stood up.
 
@@ -464,25 +464,25 @@ A small voice in the back of his head whispered: *You just volunteered to die.*
 
 He pushed it down.
 
-*It was the logical choice.*
+*'It was the logical choice.'*
 
-*That doesn't mean you have to be okay with it.*
+*'That doesn't mean you have to be okay with it.'*
 
-*I am okay with it.*
+*'I am okay with it.'*
 
-*No. No, I am okay with it.*
+*'No. No, I am okay with it.'*
 
 Both voices were his. They sat in his chest at the same time, pulling in opposite directions, neither willing to let go.
 
-*This is the right thing to do. Yes. This is.*
+*'This is the right thing to do. Yes. This is.'*
 
 He pressed his palms against his eyes until he saw colors.
 
-*I am okay with it. I have to be okay with it.*
+*'I am okay with it. I have to be okay with it.'*
 
 He said it again. Slower. Firmer.
 
-*I am okay with this.*
+*'I am okay with this.'*
 
 When he lowered his hands, the room was the same. The benches. The brazier. The door.
 

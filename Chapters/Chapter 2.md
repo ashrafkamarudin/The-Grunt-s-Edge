@@ -16,11 +16,11 @@ Not the cold nor the hunger. The *situation.*
 
 His breath shortened. His chest tightened. The rational part of his brain, the part that had spent fourteen years learning to analyse and plan and stay calm, was drowned out by a surge of pure animal panic.
 
-*I'm in another world!*
+*'I'm in another world!'*
 
 He sat up too fast. The world tilted. His vision swam.
 
-*Shit! I'm in another world and I don't know anything!*
+*'Shit! I'm in another world and I don't know anything!'*
 
 He scrambled to his feet. His legs were stiff and his muscles moved slow. He stumbled, caught himself on a tree trunk, and stood there breathing hard.
 
@@ -28,7 +28,7 @@ The forest stretched in every direction.
 
 Endless. Dark. Unfamiliar.
 
-*whaa... haa... which way? where do I —*
+*'whaa... haa... which way? where do I —'*
 
 His heart was hammering. He could hear the blood in his ears. The river was somewhere to his left, he could still hear it, but the river led where? He didn't know. He didn't know anything.
 
@@ -36,7 +36,7 @@ He started moving.
 
 Not in a direction. Just *moving*. His feet carried him through the underbrush, branches scraping his arms and chest, leaves slapping against his thighs. He tripped over a root and caught himself, kept going. His breath came in ragged gasps.
 
-*Stop. Think. Think...*
+*'Stop. Think. Think...'*
 
 But he couldn't. The panic had its claws in him. Six years old again, standing naked on a sidewalk in a world he didn't understand. Except this time he was twenty and the world was supposed to be *his*, but he didn't remember any of it.
 
@@ -62,17 +62,17 @@ He stayed there for a long time. Bent over. Gasping. Shivering now that he'd sto
 
 His head was pounding. His throat was raw. Every breath tasted like blood.
 
-*Tired.*
+*'Tired.'*
 
 The thought was simple. Childlike. There was no room left in his skull for complex panic. Just tired. And cold. The cold was still there.
 
-*The cold. Focus on the cold.*
+*'The cold. Focus on the cold.'*
 
 His skin was tight. His muscles were stiff. The shivering had settled into a steady tremor that wouldn't stop.
 
 Naked on the forest floor, exposed to the wind, he could feel his body losing heat with every minute he stayed still.
 
-*I need to move. Find shelter ... or something.*
+*'I need to move. Find shelter ... or something.'*
 
 No shelter. No dry leaves to burrow in. Nothing to start a fire with. Which meant the only option was to find people. Which meant the river.
 
@@ -90,11 +90,11 @@ The pain cut through the fog.
 
 He pushed himself up. Looked at his hands. The palms were scraped raw, tiny beads of blood welling up where the skin had broken. His knee was worse. A deep gash just below the kneecap, welling red, mixed with dirt and small stones.
 
-*haa... I'm bleeding.*
+*'haa... I'm bleeding.'*
 
 The thought was absurdly calm.
 
-*Great. Now I'm bloody too.*
+*'Great. Now I'm bloody too.'*
 
 He sat there on the cold ground, naked and bleeding, and felt the panic drain out of him. Not because he was okay. Because his body had simply run out of adrenaline.
 
@@ -102,11 +102,11 @@ He took a breath.
 
 Then another.
 
-*Okay.*
+*'Okay.'*
 
 He looked at the cut on his knee. The bleeding had slowed but the wound was dirty. Full of grit and small bits of leaf.
 
-*That's going to get infected. shit.*
+*'That's going to get infected. shit.'*
 
 He stood up. His knee throbbed. He put weight on it and winced. It held.
 
@@ -116,27 +116,27 @@ The river was still audible, maybe thirty meters away. He limped toward it.
 
 The bank was wide and rocky. The water moved fast, clear enough to see the dark shapes of stones beneath the surface.
 
-*Looks clean.*
+*'Looks clean.'*
 
 He stared at it.
 
-*Which means absolutely nothing.*
+*'Which means absolutely nothing.'*
 
 He didn't know what was in that water. Mud. Dead things. Who knew what. One bad sip and he'd be shitting himself to death before he ever found help.
 
 But dying of thirst would happen a lot faster.
 
-*Pick your poison.*
+*'Pick your poison.'*
 
 He cupped his hands and drank. The water was cold and clean-tasting. He drank until his throat stopped aching, then sat back on his heels and waited.
 
 Nothing happened. No immediate sickness. Good. That meant nothing.
 
-*Upstream or downstream.*
+*'Upstream or downstream.'*
 
 He looked at the current. Too tired to think properly. His brain kept slipping off the question.
 
-*Downstream. Lowlands. More people. Probably.*
+*'Downstream. Lowlands. More people. Probably.'*
 
 He didn't have a better reason.
 
@@ -162,11 +162,11 @@ The sun was fully up now, pale light filtering through the canopy. The air was m
 
 His head was starting to feel light. The edges of his vision flickered when he blinked.
 
-*Just a little further.*
+*'Just a little further.'*
 
-*ha... just a little further Eric.*
+*'ha... just a little further Eric.'*
 
-*You can do it... you need to.*
+*'You can do it... you need to.'*
 
 The path curved around a thicket of bushes, and then he saw it.
 
@@ -202,7 +202,7 @@ Then he looked closer.
 
 The well was on the opposite side. The fields were planted differently. The houses had a slightly different shape to their roofs.
 
-*Same, but not.*
+*'Same, but not.'*
 
 He stood there, naked and bleeding, staring at a village that could have been his home if someone had redrawn it from memory with small mistakes.
 
@@ -214,7 +214,7 @@ He didn't feel himself fall. One moment he was standing, the next he was on his 
 
 He tried to get up. His arms wouldn't move.
 
-*No. No, I'm almost —*
+*'No. No, I'm almost —'*
 
 Footsteps. Voices. Distant, like they were coming from the end of a long tunnel.
 
@@ -224,7 +224,7 @@ He tried to lift his head. It felt like it weighed a hundred pounds.
 
 A shape appeared above him. A face. Old. Wrinkled. A beard. The voice said something in a language he hadn't heard since he was six years old. The words were familiar, but they came at him like sounds through deep water.
 
-*gods... boy... blanket... quick...*
+*'gods... boy... blanket... quick...'*
 
 He caught the meaning, barely. Enough to know it was aimed at someone else and that help was coming.
 
@@ -244,33 +244,33 @@ And then, slowly, the panic began to creep back in.
 
 His heart started to race. His breathing quickened. His fingers curled into the blanket, gripping it like it was the only solid thing in the world.
 
-*Where... where am I?*
+*'Where... where am I?'*
 
 He looked around the room again. Low ceiling. Wooden beams. Firelight. The rough wool scratching his chin.
 
-*A house. I'm in a house.*
+*'A house. I'm in a house.'*
 
-*Someone probably found me and carried me inside.*
+*'Someone probably found me and carried me inside.'*
 
 He let that sink in for a moment. Let the warmth of the fire and the weight of the blanket settle into his skin.
 
-*I'm alive.*
+*'I'm alive.'*
 
 A small feeling pushed through the exhaustion. Gratitude. Quiet and simple. Whoever these people were, they didn't leave him to freeze.
 
-*Thank you.*
+*'Thank you.'*
 
 He didn't know who he was saying it to. The old man. The girl who might come. The strangers who had pulled him out of the cold.
 
-*I'm not in the forest anymore. I'm okay. For now.*
+*'I'm not in the forest anymore. I'm okay. For now.'*
 
 Then the thoughts came anyway.
 
-*What do I tell them? How do I explain showing up naked in the middle of nowhere?*
+*'What do I tell them? How do I explain showing up naked in the middle of nowhere?'*
 
-*They're going to ask questions. Questions I can't answer.*
+*'They're going to ask questions. Questions I can't answer.'*
 
-*What if they think I'm crazy? What if they throw me out? What if —*
+*'What if they think I'm crazy? What if they throw me out? What if —'*
 
 The door creaked.
 
@@ -284,7 +284,7 @@ She smiled.
 
 She said something. The sounds reached his ears and his brain reached for them, clumsy and slow.
 
-*ah... awake...*
+*'ah... awake...'*
 
 That was all he caught. Two words out of the whole sentence. The meaning came through anyway, filled in by the softness of her voice and the smile on her face.
 

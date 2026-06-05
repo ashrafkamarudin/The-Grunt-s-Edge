@@ -348,7 +348,7 @@ He thought about Kael, who had taken him in for reasons he couldn't say out loud
 
 He thought about Aldric. Who was cruel, but who wasn't wrong.
 
-*The list. The call. What does it mean?*
+*'The list. The call. What does it mean?'*
 
 He had no answer.
 
@@ -380,7 +380,7 @@ He turned and looked at the villagers who had gathered. He said something. Eric 
 
 But he heard enough.
 
-*Conscription... one man... before first snow.*
+*'Conscription... one man... before first snow.'*
 
 The rider mounted his horse and rode out.
 
@@ -388,14 +388,14 @@ The village was silent.
 
 Eric stood there, the word turning over in his mind.
 
-*So that's what the list was. That's what the call meant. Conscription.*
+*'So that's what the list was. That's what the call meant. Conscription.'*
 
 The pieces clicked into place.
 
 He thought about Kael, who had taken him in for reasons he couldn't say out loud. He thought about Lena, who gave him half her portion without being asked. He thought about Aldric, who wasn't wrong about one thing — Eric was an extra mouth.
 
-*If someone has to go...*
+*'If someone has to go...'*
 
 He didn't finish the thought. Not yet.
 
-*Conscription.*
+*'Conscription.'*

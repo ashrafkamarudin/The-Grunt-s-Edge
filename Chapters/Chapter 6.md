@@ -292,15 +292,15 @@ Eric's mind was blank. Not calm. Just empty. The way a room is empty after someo
 
 The second mile, the thoughts started.
 
-*I'm doing this. I'm actually doing this.*
+*'I'm doing this. I'm actually doing this.'*
 
 He looked at the rider's back. The man hadn't said a word since the gate. He didn't seem interested in conversation. He seemed interested in reaching the garrison town and being done with this errand.
 
-*What kind of person rides around collecting conscripts for a living?*
+*'What kind of person rides around collecting conscripts for a living?'*
 
 The rider shifted in his saddle. Spat to the side. Kept going.
 
-*Someone who's done it before.*
+*'Someone who's done it before.'*
 
 The third mile, the fear settled in properly.
 
@@ -458,15 +458,15 @@ He thought about Kael. Standing by the woodpile. Looking at the treeline.
 
 He thought about the shelf. Still holding.
 
-*I'm not going to see that shelf again.*
+*'I'm not going to see that shelf again.'*
 
 The thought arrived without warning. Clean and sharp.
 
-*I'm not going to see any of it again.*
+*'I'm not going to see any of it again.'*
 
 He closed his eyes.
 
-*You'll survive or you won't.*
+*'You'll survive or you won't.'*
 
 He didn't sleep for a long time.
 
@@ -482,7 +482,7 @@ He'd taken all of it for granted.
 
 He'd never get any of it back.
 
-*Stop. You're on a road. Focus on the road.*
+*'Stop. You're on a road. Focus on the road.'*
 
 They stopped once for water. The rider let him drink first this time. Didn't say anything. Just pointed at the stream and waited.
 
@@ -516,11 +516,11 @@ The scarred man walked away.
 
 Eric stood there.
 
-*Eastwood.*
+*'Eastwood.'*
 
 He'd never known the village had a name. No one had ever told him. He'd been there for two weeks, eaten their food, slept in their house, fixed their roof — and never once asked what the place was called.
 
-*Thornwick.*
+*'Thornwick.'*
 
 He said it silently to himself. Let it settle.
 
