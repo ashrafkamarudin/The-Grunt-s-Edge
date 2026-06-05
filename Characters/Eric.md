@@ -4,8 +4,10 @@
 
 * Birth Name: Eric
 * Military Alias: Vane
-* Age: 20
+* Age: 20 (Current), 6 (Original World)
 * Occupation: Infantry Soldier
+* Physical Description: Tall, lean build, weathered hands from manual labor
+* Personality: Practical, cautious, survival-oriented, likes to read
 
 ---
 
