@@ -88,3 +88,42 @@ In extreme situations, the ability can also sever objects through spatial collap
 Because the ability is forbidden and dangerous, Eric keeps it secret.
 
 For much of the story, he does not fully understand what the ability actually is.
+
+---
+
+### DIMENSIONAL MAGIC SYSTEM — ERIC ANOMALY
+Eric possesses a fractured spatial storage system:
+
+* medium room-sized internal space
+* larger than standard users
+* Unique Properties
+* Living Storage (Forbidden Anomaly Behavior)
+    can temporarily store living beings
+    highly unstable and dangerous
+    causes extreme mana drain and emotional feedback
+* Spatial Interaction Instability
+    abnormal behavior during object transfer states
+    allows rare edge-case interactions under extreme conditions
+
+### SEVERANCE FUNCTION (FORBIDDEN EDGE CASE)
+
+Eric can collapse a spatial boundary while matter is passing through it.
+
+Effect:
+
+instantaneous spatial discontinuity of target object
+
+---
+
+# 🧍 ERIC’S MAGIC PROFILE
+
+- Average or below-average mana capacity
+- High efficiency through understanding
+- High spatial affinity due to dimensional anomaly
+- Strong utility application focus
+
+Eric is not a combat mage.
+
+He is:
+
+> a survival-oriented systems exploit user operating at the edge of reality rules
