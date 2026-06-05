@@ -318,3 +318,66 @@ Magic is treated as a weapon system:
 - usage is logged and optimized
 - efficiency is prioritized over creativity
 - mages function as tactical assets, not solo warriors
+
+# 🧬 AFFINITY SYSTEM — EXPOSURE-BASED MAGIC ALIGNMENT
+
+## ⚡ Core Concept
+
+Affinity is not raw talent.
+
+It is:
+
+> a measure of how naturally a person’s mind and mana system stabilizes a specific category of rule override.
+
+Affinity is shaped by:
+- exposure
+- repeated interaction
+- lived experience
+- familiarity with a concept’s real-world behavior
+
+---
+
+# 📊 AFFINITY SCALE
+
+Each individual has an affinity level for every magic category:
+
+- None  
+- Very Low  
+- Low  
+- Mid  
+- High  
+- Very High  
+
+## World Rule:
+> Most people exist at Very Low across almost all affinities.
+
+High or Very High affinity is rare and usually the result of intense exposure or specialization.
+
+---
+
+# 🧠 HOW AFFINITY WORKS
+
+When a person is repeatedly exposed to a concept:
+
+- their mind builds predictive understanding of its behavior
+- mana flow becomes more stable when interacting with that concept
+- rule overrides in that domain require less correction effort
+
+### In simple terms:
+> Affinity = how “familiar” your body is with bending reality in a specific way.
+
+---
+
+# ⚖️ AFFINITY EFFECTS (IMPORTANT RULES)
+
+Affinity affects only:
+
+- mana efficiency (lower cost)
+- casting stability (less failure during execution)
+- learning speed (faster spell adaptation)
+
+Affinity does NOT:
+
+- grant access to new magic types
+- increase total mana capacity
+- guarantee combat strength

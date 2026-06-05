@@ -127,3 +127,97 @@ Eric is not a combat mage.
 He is:
 
 > a survival-oriented systems exploit user operating at the edge of reality rules
+
+# 🌍 ERIC — AFFINITY PROFILE (EXPOSURE MODEL)
+
+Eric’s affinities are shaped by 14 years in a modern world.
+
+---
+
+## 🔥 FIRE — MID
+- cooking
+- controlled combustion systems
+- frequent safe fire exposure
+
+Effect:
+> stable and efficient control of combustion-based magic
+
+---
+
+## 💧 WATER — MID
+- daily hygiene
+- sanitation systems
+- constant interaction with water usage
+
+Effect:
+> stable fluid control and manipulation
+
+---
+
+## 🌬️ WIND — LOW
+- indirect environmental exposure (transport, airflow systems)
+
+Effect:
+> basic stability in motion-related magic, low specialization
+
+---
+
+## 🪨 EARTH — VERY LOW
+- limited direct interaction with raw terrain systems
+
+Effect:
+> inefficient structural manipulation, high mana cost
+
+---
+
+## 🌱 LIFE — LOW
+- medical exposure (vaccination, treatment systems)
+- biological awareness from modern healthcare
+
+Effect:
+> slightly improved healing-related stability, still weak specialization
+
+---
+
+## 🫧 SPACE — HIGH (SPECIAL CASE)
+
+- dimensional displacement trauma (forced world transfer)
+- soul fragmentation across realities
+- direct exposure to spatial discontinuity
+
+Effect:
+> highly stable interaction with spatial boundary manipulation
+
+---
+
+## 🧠 MIND — LOW
+- rational/analytical modern mindset
+- low exposure to belief-based mental systems
+
+Effect:
+> weak illusion manipulation, strong resistance to mental influence
+
+---
+
+# ⚠️ KEY SYSTEM RULE
+
+Affinity does NOT equal power.
+
+It only affects efficiency and stability.
+
+A low-affinity mage with high understanding can outperform a high-affinity mage using inefficient logic.
+
+---
+
+# 🧍 ERIC’S MAGIC IDENTITY
+
+Eric is not a traditional mage.
+
+He is:
+
+> a low-mana, low-average affinity user optimized for efficiency and spatial anomaly interaction
+
+His strength comes from:
+- understanding systems deeply
+- minimizing mana waste
+- exploiting spatial rule inconsistencies
