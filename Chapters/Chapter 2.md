@@ -256,8 +256,6 @@ He let that sink in for a moment. Let the warmth of the fire and the weight of t
 
 *I'm alive.*
 
-*Someone carried me inside. Someone covered me. Someone's taking care of me.*
-
 A small feeling pushed through the exhaustion. Gratitude. Quiet and simple. Whoever these people were, they didn't leave him to freeze.
 
 *Thank you.*
