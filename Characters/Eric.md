@@ -17,7 +17,13 @@ Eric disappeared from his native world at age six and spent fourteen years livin
 
 At age twenty, he was forcibly returned to his original world.
 
-Without legal status or documentation, he enlisted in the Royal Army under a false identity.
+He awoke naked in a forest, followed a river, collapsed at the edge of a frontier village called Eastwood.
+
+A hunter named Kaelian took him in. His daughter Lena nursed him back to health.
+
+Without legal status or documentation, and feeling the weight of being an extra mouth in a village preparing for winter, Eric volunteered for conscription when the army levy arrived.
+
+He enlisted under his real name. Eric.
 
 ---
 
