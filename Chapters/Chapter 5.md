@@ -454,15 +454,13 @@ People filed out in silence. A few glanced at Eric as they passed. Not hostility
 
 Aldric was the last to leave. He stopped at the door. Looked back at Eric.
 
-*"You didn't have to..."*
+His mouth opened. Closed. He shook his head and walked out.
 
-He didn't finish the sentence. Just shook his head and walked out.
+Nothing else.
 
 Eric stood alone in the storehouse. The brazier crackled.
 
-He tried to feel something.
-
-Relief. Fear. Regret.
+He waited for something to hit him. Relief. Fear. Regret. Anything.
 
 A small voice in the back of his head whispered: *You just volunteered to die.*
 

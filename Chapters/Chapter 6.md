@@ -196,9 +196,7 @@ He tucked the knife into his belt and walked outside.
 
 Dawn was breaking. Pale grey light, thin frost on the ground.
 
-Kael was standing by the woodpile — the same spot he'd been standing yesterday, the day before, every morning Eric had known him.
-
-He wasn't looking at the treeline this time.
+Kael was standing by the woodpile — the same spot every morning. He wasn't scanning the forest this time.
 
 He was holding the bundle.
 
@@ -268,9 +266,7 @@ The village was small. Patched roofs. Dirt path. A handful of lives clinging to 
 
 Somewhere inside, Lena was awake. She'd reach for the water bucket and remember she'd have to carry it herself.
 
-Kael was standing by the woodpile. Looking at the treeline.
-
-The shelf was still holding.
+Somewhere, Kael was by the woodpile. Not moving. Just watching.
 
 He touched the knife one last time.
 
@@ -452,9 +448,9 @@ But hearing it out loud made it real.
 
 He thought about Lena. Wondered if she'd eaten. Wondered if she'd already stopped reaching for the water bucket before remembering.
 
-He thought about Kael. Standing by the woodpile. Looking at the treeline.
+He thought about Kael. Probably standing by the woodpile, staring into the trees like he always did.
 
-He thought about the shelf. Still holding.
+He thought about the shelf.
 
 *'I'm not going to see that shelf again.'*
 
@@ -517,8 +513,6 @@ Eric stood there.
 *'Eastwood.'*
 
 He'd never known the village had a name. No one had ever told him. He'd been there for two weeks, eaten their food, slept in their house, fixed their roof — and never once asked what the place was called.
-
-*'Thornwick.'*
 
 He said it silently to himself. Let it settle.
 
