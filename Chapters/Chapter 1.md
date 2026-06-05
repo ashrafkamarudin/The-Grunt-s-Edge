@@ -12,7 +12,7 @@ The street was ordinary. A convenience store glow spilled onto the pavement, flu
 
 He started walking.
 
-His apartment was fifteen minutes away. The route was automatic by now — left at the intersection, straight past the shuttered ramen shop, through the park that ran alongside the river. He'd walked it so many times his feet could do it without his brain paying attention.
+His apartment was fifteen minutes away. The route was automatic by now. Left at the intersection, straight past the shuttered ramen shop, through the park that ran alongside the river. He'd walked it so many times his feet could do it without his brain paying attention.
 
 The bag crinkled with every step.
 
@@ -22,7 +22,7 @@ He bit into it anyway.
 
 His footsteps echoed off the shuttered storefronts. A cat watched him from the roof of a parked car, eyes catching the streetlight. He kept walking.
 
-The park came into view after the ramen shop. The iron gate was open — it was always open — and the paved path curved inward, flanked by grass that hadn't been cut in a while. Streetlamps cast their orange glow across the path, and the grass beyond it faded into darkness where the light couldn't reach. The river was a low murmur somewhere ahead, hidden behind a row of bushes and the occasional bench.
+The park came into view after the ramen shop. The iron gate was open, it was always open, and the paved path curved inward flanked by grass that hadn't been cut in a while. Streetlamps cast their orange glow across the path, and the grass beyond it faded into darkness where the light couldn't reach. The river was a low murmur somewhere ahead, hidden behind a row of bushes and the occasional bench.
 
 He turned in.
 
@@ -50,7 +50,7 @@ But the feeling was there.
 
 A hollow pull in his chest. A sense that something was *wrong* in a way he couldn't name. Like standing at the edge of a train platform and feeling the ground vibrate before the train arrived, except the train wasn't coming.
 
-He set the tea down and leaned back on his hands, looking up at the sky. City glow drowned out most of the stars. A few of the brighter ones pierced through — Sirius, maybe. Venus. He didn't know. He'd never learned.
+He set the tea down and leaned back on his hands, looking up at the sky. City glow drowned out most of the stars. A few of the brighter ones pierced through. Sirius, maybe. Venus. He didn't know. He'd never learned.
 
 His mind drifted.
 
@@ -58,27 +58,27 @@ The village hadn't had streetlights. They'd had torches. Braziers. Firelight tha
 
 He remembered the night it ended.
 
-He'd been six years old. Small. Barefoot. He'd been playing near the well when the screams started. Not the distant kind you heard from safety — the *close* kind. The kind that made your blood turn cold before your brain even understood what you were hearing.
+He'd been six years old. Small. Barefoot. He'd been playing near the well when the screams started. Not the distant kind you heard from safety. The *close* kind. The kind that made your blood turn cold before your brain even understood what you were hearing.
 
-He remembered running. Remembered his father's hand gripping his arm hard enough to bruise. Remembered the monster — just a glimpse of it — a mass of black chitin and too many legs, moving through the village like a scythe through wheat.
+He remembered running. Remembered his father's hand gripping his arm hard enough to bruise. Remembered the monster, just a glimpse of it, a mass of black chitin and too many legs moving through the village like a scythe through wheat.
 
 And then the light.
 
-Not white. Not yellow. Something *between* — a color that didn't exist in nature, a pressure wave that didn't have sound. It had swallowed everything. The monster. The village. His father's hand.
+Not white. Not yellow. Something *between*. A color that didn't exist in nature, a pressure wave that didn't have sound. It had swallowed everything. The monster. The village. His father's hand.
 
 And then pavement.
 
-He'd woken up on a sidewalk in a city he didn't recognize — naked, shivering, six years old. He remembered the cold of the concrete against his bare feet. The sounds of traffic, incomprehensible. Voices shouting in a language that slid off his brain like water off oil.
+He'd woken up on a sidewalk in a city he didn't recognize. Naked, shivering, six years old. He remembered the cold of the concrete against his bare feet. The sounds of traffic, incomprehensible. Voices shouting in a language that slid off his brain like water off oil.
 
 He'd stood there crying until a woman found him. Wrapped him in her coat. Took him to a police station, then to a shelter, then to an orphanage.
 
-He'd spent years learning the language. Years reading everything he could get his hands on — history books, science textbooks, mythology collections, conspiracy forums, academic papers on theoretical physics. He'd been looking for something. A crack in the world. A record of anyone else who had fallen through the seams.
+He'd spent years learning the language. Years reading everything he could get his hands on. History books, science textbooks, mythology collections, conspiracy forums, academic papers on theoretical physics. He'd been looking for something. A crack in the world. A record of anyone else who had fallen through the seams.
 
 He never found a thing.
 
 Fourteen years.
 
-He'd felt far the whole time. Not far from a place — far from something deeper, something in his marrow. A distance he couldn't name or measure. Like his soul was reaching for a handhold that didn't exist in this world.
+He'd felt far the whole time. Not far from a place. Far from something deeper, something in his marrow. A distance he couldn't name or measure. Like his soul was reaching for a handhold that didn't exist in this world.
 
 He picked up his tea and took another drink. The plastic bottle was sweaty in his hand. The liquid was lukewarm and slightly bitter.
 
@@ -112,7 +112,7 @@ Cold.
 
 The first thing was cold.
 
-Not the damp chill of grass at night. A different cold. The kind that bit into naked skin and found nothing in the way. The wind moved across his body — over his back, his legs, the exposed curve of his ribs — and stole heat from everywhere at once.
+Not the damp chill of grass at night. A different cold. The kind that bit into naked skin and found nothing in the way. The wind moved across his body, over his back and legs and the exposed curve of his ribs, and stole heat from everywhere at once.
 
 The second thing was the ground.
 
@@ -120,7 +120,7 @@ Damp earth. Leaves. Small pebbles pressing into his bare shoulder blade. The une
 
 The third thing was the smell.
 
-Earth, yes. Wet stone. Decaying leaves. And water — fast-moving water, clean and mineral-sharp.
+Earth. Wet stone. Decaying leaves. And fast-moving water, clean and mineral-sharp.
 
 Eric's eyes opened.
 
@@ -148,7 +148,7 @@ No hoodie. No jeans. No sneakers. No convenience store bag. No nothing.
 
 Just skin. Goosebumps. Dirt stuck to his side where he'd been lying on the forest floor.
 
-His hands were shaking. He pressed them against the earth — cold, real, rough with dead leaves and small stones — and forced himself to breathe.
+His hands were shaking. He pressed them against the earth, cold and real and rough with dead leaves and small stones, and forced himself to breathe.
 
 He was in a forest. Dense. Dark. The trees rose tall around him, their trunks thick and irregular, nothing like the planted rows of a city park. This was wild growth. Old growth. The kind of forest that had never known a landscaper.
 
