@@ -294,13 +294,11 @@ The second mile, the thoughts started.
 
 *'I'm doing this. I'm actually doing this.'*
 
-He looked at the rider's back. The man hadn't said a word since the gate. He didn't seem interested in conversation. He seemed interested in reaching the garrison town and being done with this errand.
+Darrin walked ahead, shoulders squared, pretending he knew where he was going. Tomas trailed behind, head down, touching his pocket every few steps.
 
-*'What kind of person rides around collecting conscripts for a living?'*
+Eric was in the middle.
 
-The rider shifted in his saddle. Spat to the side. Kept going.
-
-*'Someone who's done it before.'*
+They were all packages. Just being moved down the same road.
 
 The third mile, the fear settled in properly.
 
@@ -308,11 +306,11 @@ It didn't come as a wave. It came as a slow drip, filling a tank he didn't know 
 
 He was in a world he barely understood, walking toward a future he couldn't predict.
 
-And he was alone.
+And there were two other boys walking the same road, feeling the same thing.
 
-The rider didn't count. The rider was a function. A delivery system.
+That didn't make it better.
 
-Eric was the package.
+But it made it less lonely.
 
 ---
 
