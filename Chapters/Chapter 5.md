@@ -1,4 +1,4 @@
-# Chapter 5 — The List
+# Chapter 5 — The List: Part 1
 
 The morning was ordinary.
 
@@ -216,7 +216,57 @@ Then Aldric spoke.
 
 He didn't look at Eric. No one did. But the air changed.
 
-An old woman near the back — Eric didn't know her name — said sharply, *"You mean the boy. The one who's been here two weeks."*
+The farmer from before: *"We don't even know where he came from. He showed up naked in the forest. No name. No family. No story. And now we're supposed to send him to the army? What if he's a criminal? What if he's running from something?"*
+
+The scout: *"Does it matter? The army will figure him out."*
+
+*"It matters to me. I want to know who I'm sending in my son's place."*
+
+Eric sat still. Every eye in the room was on him now.
+
+The elder said, *"Boy. Do you have anything to say?"*
+
+Eric held his gaze.
+
+*"I'm not a criminal."*
+
+*"Then what are you?"*
+
+He opened his mouth. The truth sat on his tongue — a different world, a different life, a light that swallowed everything. He could see their faces waiting. He could feel how absurd the truth would sound.
+
+*"I don't remember."*
+
+The farmer snorted.
+
+The elder raised a hand. *"Lena told us the same. He woke up in the forest with nothing. No memory before that."*
+
+*"Convenient,"* the farmer muttered.
+
+*"Maybe."* The elder shrugged. *"But it's not the first time someone's wandered out of those trees with their head half-gone. The forest takes things. Sometimes it gives them back. Not always in one piece."*
+
+He looked at Eric. His voice softened.
+
+*"This boy helped Marta with her roof. Helped Old Garret with his fence. Carried water every morning without being asked. I don't know where he came from. But I know what he did here."*
+
+A pause.
+
+*"That counts for something."*
+
+Then Aldric's voice, flat and final.
+
+*"He still has to go. None of that changes the quota."*
+
+The farmer nodded slowly. *"We have to send someone anyway. Better someone we don't know."*
+
+No one argued.
+
+The farmer sat back. Unsatisfied. But silent.
+
+Eric sat still. He hadn't known Lena had spoken for him. She'd done it without telling him. And some of them didn't believe it — he could see it in the farmer's eyes, in the way the old woman at the back was watching him. They didn't trust his story.
+
+But they trusted their own logic more.
+
+An old woman near the back said sharply, *"You mean the boy. The one who's been here two weeks."*
 
 *"Yes."*
 
@@ -447,77 +497,3 @@ He stood there for a long time, staring at the empty benches, the dying fire, th
 It didn't feel like satisfaction.
 
 It felt like the end of something.
-
----
-
-He walked out.
-
-The elder was waiting.
-
-Not in front of the door. Off to the side, near the corner of the storehouse, where the shadows still held. He looked smaller than he had inside the meeting. Older.
-
-Eric stopped.
-
-The elder nodded at him. Slow.
-
-*"I won't keep you."*
-
-His voice was dry. Tired.
-
-*"I just wanted to say... thank you. This village owes you."*
-
-Eric shook his head. *"You don't owe me anything."*
-
-The elder smiled. A thin, tired thing.
-
-*"That's not for you to decide."*
-
-He reached out and placed a hand on Eric's shoulder. Brief. Light.
-
-*"Wherever you go, boy... I hope the road treats you well."*
-
-Then he turned and walked away, disappearing into the dark between two houses.
-
-Eric stood there for a moment. Then he walked toward Kael's house.
-
-Kael was waiting outside.
-
-He didn't say anything. He just stood there, looking at the ground.
-
-Eric waited.
-
-Finally, Kael said, *"You didn't have to."*
-
-*"I know."*
-
-Kael nodded. Slow. Then he turned and walked toward the house.
-
-Eric followed.
-
----
-
-That night, Eric lay awake.
-
-The fire had burned low. The house was quiet. Kael's breathing was deep and even from his corner. Lena had curled up near the hearth, her back to the room.
-
-Eric stared at the ceiling and tried to feel something.
-
-Fear. Regret. Anger.
-
-None of it came.
-
-He thought about the modern world. The convenience store. The park. The streetlights. It felt like a dream now. Something that had happened to someone else.
-
-He thought about this world. The cold. The mud. The girl who talked too much. The man who said *come back*.
-
-He thought about the road ahead. He didn't know what waited at the garrison town. He didn't know what the army would do to him. He didn't know if he'd survive basic training, let alone whatever came after.
-
-But he knew one thing.
-
-He had been the logical choice.
-
-And in a world where logic decided who lived and who died, that was the only protection he had.
-
-He closed his eyes.
-
-Sleep came slow.

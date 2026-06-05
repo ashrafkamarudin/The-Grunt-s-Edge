@@ -1,4 +1,120 @@
-# Chapter 6 — The Road
+# Chapter 6 — The List: Part 2
+
+He walked out of the storehouse.
+
+The elder was waiting. Not in front of the door. Off to the side, near the corner, where the shadows still held. He looked smaller than he had inside the meeting. Older.
+
+Eric stopped.
+
+The elder nodded at him. Slow.
+
+*"I won't keep you long."*
+
+His voice was dry. Tired. He leaned against the wall.
+
+*"I was there, you know. When they brought you in. Naked. Barely breathing. Half-dead from the cold."*
+
+Eric said nothing.
+
+*"Some of them wanted to leave you. Said you were a risk. Too strange. Too unknown."*
+
+He looked at Eric.
+
+*"Kael was the one who spoke up. Said he'd take you. Wouldn't even explain why. Just stood there until everyone agreed."*
+
+A pause.
+
+*"Kael's not a talker. Never has been. But when he decides something, he doesn't bend."*
+
+The elder shook his head slowly.
+
+*"I don't know what he saw in you that day. But he saw something."*
+
+Eric stood still. He hadn't known any of this.
+
+The elder was quiet for a moment.
+
+*"You helped Marta with her roof. Helped Old Garret with his fence. Carried water every morning without being asked. Fixed a shelf that had been sagging for months."*
+
+He let out a small breath.
+
+*"You didn't have to do any of that. You chose to. That says more about a man than where he came from."*
+
+He looked at Eric.
+
+*"I'm sorry I can't do more for you. I'm sorry this village couldn't be the place you stayed."*
+
+His voice dropped.
+
+*"But wherever you go... I pray you'll be well."*
+
+He reached out and placed a hand on Eric's shoulder. Brief. Light.
+
+*"Go say your farewells. Properly. To both of them."*
+
+Then he turned and walked away, disappearing into the dark between two houses.
+
+Eric stood there for a long moment, then walked toward Kael's house.
+
+Kael was waiting outside.
+
+He didn't say anything. He just stood there, looking at the ground.
+
+Eric waited.
+
+Finally, Kael said, *"You didn't have to."*
+
+*"I know."*
+
+Eric looked at him. At the man who had found him in the forest and carried him inside. Who had given him clothes and food and a place to sleep without asking for a single thing in return.
+
+*"I never said thank you. For taking me in. For everything."*
+
+Kael said nothing.
+
+*"I won't forget it. What you did. What Lena did. This village."*
+
+His voice caught. He steadied it.
+
+*"You'll both be in my heart. Wherever I go."*
+
+Kael stood still for a long moment. Then he nodded. Slow.
+
+He didn't say anything. He didn't need to.
+
+He turned and walked inside.
+
+Eric followed.
+
+---
+
+That night, Eric lay awake.
+
+The fire had burned low. The house was quiet. Kael's breathing was deep and even from his corner. Lena had curled up near the hearth, her back to the room.
+
+Eric stared at the ceiling and tried to feel something.
+
+Fear. Regret. Anger.
+
+None of it came.
+
+He thought about the modern world. The convenience store. The park. The streetlights. It felt like a dream now. Something that had happened to someone else.
+
+He thought about this world. The cold. The mud. The girl who talked too much. The man who said *come back*.
+
+He thought about the road ahead. He didn't know what waited at the garrison town. He didn't know what the army would do to him. He didn't know if he'd survive basic training, let alone whatever came after.
+
+But he knew one thing.
+
+He had been the logical choice.
+
+And in a world where logic decided who lived and who died, that was the only protection he had.
+
+He closed his eyes.
+
+Sleep came slow.
+
+---
 
 The next morning came too fast.
 
@@ -44,11 +160,37 @@ Eric looked at it.
 
 He took it.
 
-Lena didn't say another word. She went back to her chores.
+He held it for a moment. Then he met her eyes.
 
-He stood there, holding the knife, and felt the weight of it. Not the blade. The meaning.
+*"Lena. I never said thank you. For everything. For talking to me when I couldn't talk back. For the food. For the company. For making me feel like I wasn't alone."*
 
-He tucked it into his belt and walked outside.
+Her lip trembled. She didn't speak.
+
+*"I won't forget you. Either of you. You'll be in my heart. Always."*
+
+He paused.
+
+*"I will miss you."*
+
+She stared at him. Then she turned away quickly and went back to her chores.
+
+*"You're still an idiot,"* she said, her voice thick.
+
+*"I know."*
+
+A pause. Then he added, *"At least the army's cooking can't be worse than yours."*
+
+She grabbed a rag off the table and threw it at his head.
+
+*"Get out of my house."*
+
+He caught the rag. Let out a light chuckle.
+
+*"See ya."*
+
+He set the rag down and walked out.
+
+He tucked the knife into his belt and walked outside.
 
 ---
 
@@ -70,15 +212,15 @@ Eric nodded.
 
 Kael looked at him. His jaw worked.
 
-*"When I hunt,"* he said slowly, *"I don't chase what runs. I wait where it will pass."*
+*"Don't be the first to volunteer. Don't be the last to fall back."*
 
 He held Eric's eyes.
 
-*"Move early. Stay quiet. Watch the ground before the sky."*
+*"Keep your head down. Learn who to trust before you trust them. And if you ever have a choice between being right and being alive..."*
 
 A pause.
 
-*"Same applies anywhere."*
+*"Choose alive."*
 
 Then, so quiet Eric almost missed it:
 
@@ -96,17 +238,19 @@ Eric stood there. Then he adjusted the bundle, touched the knife at his belt, an
 
 The rider was waiting at the gate.
 
-Same dark uniform. Same tired horse, rested now. He was leaning against the gatepost, chewing on a piece of dried meat. He looked at Eric, looked at the bundle, looked at Eric again.
+Same dark uniform. Same tired horse, rested now. He was leaning against the gatepost, chewing on a piece of dried meat. Two other young men sat on the ground nearby — one looked about Eric's age, the other younger. They had bundles too. They looked up when Eric approached.
 
-*"You're the one?"*
+The rider looked at Eric, at the bundle, at Eric again.
 
-Eric nodded.
+*"You're the third."*
 
-The rider grunted. He spit out the last bit of meat and swung onto his horse.
+He didn't wait for a response. He pushed off the gatepost and swung onto his horse.
 
-*"Two days. Try to keep up."*
+*"Move."*
 
 He nudged his horse forward and passed through the gate.
+
+The two others stood and followed. One of them glanced at Eric. The younger one didn't look at anyone.
 
 Eric followed.
 
@@ -186,15 +330,15 @@ The rider said, *"What's your name?"*
 
 *"Eric."*
 
-The rider chewed. Swallowed.
+He chewed. Swallowed.
 
-*"You from around here?"*
+*"You know which end of a spear to hold?"*
 
-Eric considered the question.
+Eric paused.
 
-*"No."*
+*"I'll learn."*
 
-The rider grunted. Didn't ask where.
+The rider grunted. Didn't ask anything else.
 
 ---
 
@@ -202,9 +346,53 @@ They walked through the afternoon.
 
 The road curved through sparse forest, then open fields, then forest again. The wind picked up. Eric's legs ached. His boots — Kael's old boots, too big, stuffed with rags — rubbed against his heels.
 
-He didn't complain.
+The other two conscripts walked ahead of him. The one about Eric's age had a square jaw and walked with his shoulders back, like he was trying to look bigger than he was. His clothes were patched but clean. Farmer's son, probably. The younger one kept his head down. Narrow shoulders. Kept touching his pocket like he was checking something was still there.
 
-He didn't know if complaining was allowed.
+After a while, the square-jawed one slowed until he was walking beside Eric.
+
+*"You from around here?"*
+
+Eric glanced at him.
+
+*"Near."*
+
+*"Which village?"*
+
+Eric considered lying. Decided it wasn't worth the effort.
+
+*"The last one. Where the rider picked me up."*
+
+The other nodded. *"I'm from Oakfell. Two hours east."*
+
+He jerked his chin at the younger one. *"Him too. Same village."*
+
+Eric looked at them both. *"Two from one village?"*
+
+*"Oakfell's bigger. Got a mill and a proper well. More people means bigger quota."*
+
+He shrugged.
+
+*"Smaller villages send one. Bigger ones send two. That's how it works."*
+
+The younger one didn't react.
+
+*"What's your name?"*
+
+*"Eric."*
+
+*"I'm Darrin."*
+
+Darrin looked at Eric's boots. *"Those fit you?"*
+
+*"No."*
+
+*"Figured. Mine are too tight."*
+
+He said it like it was a normal thing to complain about. Like they weren't walking toward an army that might get them killed.
+
+Eric didn't know what to say to that. So he said nothing.
+
+Darrin didn't seem to mind. He walked in silence for a while, then dropped back to his original pace.
 
 By evening, he couldn't feel his toes.
 
@@ -244,11 +432,13 @@ They ate in silence.
 
 The fire crackled. The horse shifted. The wind moved through the trees.
 
-The rider spoke eventually.
+The rider spoke without looking up.
 
 *"First time?"*
 
-Eric didn't pretend to misunderstand.
+The question hung in the air. Stupid. Obvious. They both knew it.
+
+Eric let a breath out.
 
 *"Yes."*
 
@@ -256,17 +446,11 @@ The rider nodded. Stared at the flames.
 
 *"You'll survive or you won't. Same as everyone."*
 
-He said it flatly. Not cruel. Not kind. Just factual.
-
 Eric lay back, his head on the bundle, and stared at the cave ceiling.
-
-*You'll survive or you won't.*
 
 He'd known that before he left the village.
 
 But hearing it out loud made it real.
-
-He listened to the rider's breathing even out. To the horse shifting its weight. To the wind moving through the trees beyond the cave mouth.
 
 He thought about Lena. Wondered if she'd eaten. Wondered if she'd already stopped reaching for the water bucket before remembering.
 
@@ -308,20 +492,28 @@ The forest thinned. The ground flattened. The air changed — less woodsmoke, mo
 
 Near midday, the rider pointed ahead.
 
-*"There."*
+Eric followed his gaze.
 
-Eric looked.
+A crossroads. A wide clearing with a stone well at the center. A supply cart stood off to the side, hitched to a pair of oxen. A few men in the same dark uniform as their rider sat on the ground nearby, eating. And scattered around them — sitting, standing, pacing — were more young men. Some carrying bundles. Some with nothing at all.
 
-A wall. Stone. Higher than the village palisade. A gate, iron-bound. A tower with a flag he didn't recognize.
+More conscripts. From other villages. Other riders.
 
-The garrison town.
+Their rider swung off his horse.
 
-They walked the last mile in silence.
+*"End of the road. For now."*
 
-Eric's heart was beating too fast.
+He gestured at the crowd.
 
-*You'll survive or you won't.*
+*"Rest. Eat. Tomorrow we march to the garrison."*
 
-The gate loomed closer.
+He walked away before Eric could respond.
 
-*Same as everyone.*
+Darrin appeared beside him, looking at the gathering.
+
+*"Well,"* he said. *"Guess this is it."*
+
+Eric looked at the faces of the other conscripts. Some were talking. Some were staring at the ground. One was crying quietly, his back against a tree.
+
+He didn't feel like talking.
+
+He found a spot near the supply cart, sat down, and waited.
