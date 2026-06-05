@@ -246,7 +246,11 @@ The elder raised a hand. *"Lena told us the same. He woke up in the forest with 
 
 He looked at Eric. His voice softened.
 
-*"This boy helped Marta with her roof. Helped Old Garret with his fence. Carried water every morning without being asked. I don't know where he came from. But I know what he did here."*
+*"I've seen what he does around here. Quiet. Steady. Doesn't ask for thanks."*
+
+He shook his head.
+
+*"I don't know where he came from. But I know what kind of person he is."*
 
 A pause.
 

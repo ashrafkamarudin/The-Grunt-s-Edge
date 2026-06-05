@@ -34,7 +34,7 @@ Eric stood still. He hadn't known any of this.
 
 The elder was quiet for a moment.
 
-*"You helped Marta with her roof. Helped Old Garret with his fence. Carried water every morning without being asked. Fixed a shelf that had been sagging for months."*
+*"I know you've been helping around with work. Quietly. Without making a fuss."*
 
 He let out a small breath.
 
