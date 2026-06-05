@@ -71,6 +71,18 @@ He instead finds:
 
 ---
 
+## Village Arc (Ch 3-4)
+- Eric recovers in the frontier hamlet
+- Light, bubbly dynamic with Lena as he learns the language and world
+- He starts to feel like he belongs
+- Kael's quiet acceptance, Lena's chatter, the grumpy villagers
+
+## Military Entry (Ch 4 end)
+- A military detail arrives at the village demanding a conscript
+- Each village must send someone
+- Eric volunteers — he feels like an extra mouth, a burden
+- He doesn't know what he's signing up for
+
 ## Volume 1 Ending State
 
 Eric becomes:
