@@ -498,15 +498,31 @@ A crossroads. A wide clearing with a stone well at the center. A supply cart sto
 
 More conscripts. From other villages. Other riders.
 
-Their rider swung off his horse.
+Their rider swung off his horse. Another man in a similar uniform approached — older, with a scarred cheek and a board strapped to his forearm. He carried a piece of charcoal.
 
-*"End of the road. For now."*
+*"Report."*
 
-He gestured at the crowd.
+Their rider gestured at them with his thumb.
 
-*"Rest. Eat. Tomorrow we march to the garrison."*
+*"Three. One from Eastwood. Two from Oakfell."*
 
-He walked away before Eric could respond.
+The scarred man made marks on his board. He glanced at Eric, at Darrin, at Tomas. Then he looked down and made another mark.
+
+*"Eastwood. First time sending anyone in years."*
+
+*"First time for everything."*
+
+The scarred man walked away.
+
+Eric stood there.
+
+*Eastwood.*
+
+He'd never known the village had a name. No one had ever told him. He'd been there for two weeks, eaten their food, slept in their house, fixed their roof — and never once asked what the place was called.
+
+*Thornwick.*
+
+He said it silently to himself. Let it settle.
 
 Darrin appeared beside him, looking at the gathering.
 
