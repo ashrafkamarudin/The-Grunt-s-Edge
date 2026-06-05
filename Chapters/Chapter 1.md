@@ -1,6 +1,6 @@
 # Chapter 1 — The Snap
 
-*Ding-dong.*
+*'Ding-dong.'*
 
 The convenience store door slid open and the electronic chime announced his exit like he was somebody worth announcing. He wasn't.
 
@@ -42,7 +42,7 @@ Nights where the world felt thin.
 
 He finished the onigiri and reached for the bottle of green tea, twisting the cap off. The plastic crinkled. He drank, swallowed, and let out a slow breath.
 
-*Why tonight?*
+*'Why tonight?'*
 
 There was no reason for it. He'd had a normal day. Work was work. The commute was the same. The convenience store was the same. Nothing had triggered it.
 
@@ -82,13 +82,13 @@ He'd felt far the whole time. Not far from a place. Far from something deeper, s
 
 He picked up his tea and took another drink. The plastic bottle was sweaty in his hand. The liquid was lukewarm and slightly bitter.
 
-*I shouldn't be thinking about this.*
+*'I shouldn't be thinking about this.'*
 
 He'd made peace with it. Mostly. He had a life here. A small apartment. A job that paid the bills. He wasn't happy, but he wasn't starving either. It was fine.
 
 But tonight the thoughts wouldn't leave.
 
-*What if it wasn't random?*
+*'What if it wasn't random?'*
 
 He'd asked himself that question a thousand times over fourteen years. Never found an answer. The light had come from nowhere and taken him to nowhere. There was no logic to it. No pattern.
 
@@ -132,11 +132,11 @@ His breath caught.
 
 He lay still for a long moment, staring at a sky he hadn't seen in fourteen years. A sky without light pollution. A sky that looked the way it had looked when he was six years old, lying in the grass behind his family's home, making up names for constellations he'd never learn.
 
-*No.*
+*'No.'*
 
 His heart started to pound.
 
-*No, no, no —*
+*'No, no, no —'*
 
 He sat up.
 
@@ -158,45 +158,45 @@ He turned his head. A river maybe twenty meters away, moving fast and dark, catc
 
 He sat there, naked and shaking, trying to think.
 
-*I'm back.*
+*'I'm back.'*
 
 His stomach lurched.
 
-*No.*
+*'No.'*
 
 He shook his head. The motion made him dizzier.
 
-*No. I can't be. This isn't —*
+*'No. I can't be. This isn't —'*
 
 He looked at the trees. The river. The stars.
 
-*Can I?*
+*'Can I?'*
 
 His breathing quickened.
 
-*Am I really back?*
+*'Am I really back?'*
 
 The question hung in the cold air. The river kept moving. The wind kept blowing across his bare skin. The stars kept burning in a sky that had never known a single streetlamp.
 
-*No. This is wrong. This doesn't happen.*
+*'No. This is wrong. This doesn't happen.'*
 
 He dug his fingers into the dirt. The soil was cold and damp. Leaves crumbling under his nails. He squeezed until the small stones bit into his palms.
 
-*I was just at the park. I was just — I was eating dinner. I fell asleep. That's all. This is a dream.*
+*'I was just at the park. I was just — I was eating dinner. I fell asleep. That's all. This is a dream.'*
 
 He pinched the skin on his thigh. Hard. The sharp sting flared and faded.
 
 Nothing changed.
 
-*Okay. Not a dream. Not that kind of dream, at least.*
+*'Okay. Not a dream. Not that kind of dream, at least.'*
 
 He looked at his hands. Pale in the starlight. Dirt under the fingernails. These were his hands. The same hands that had held the convenience store bag an hour ago.
 
-*Maybe I'm still asleep. Maybe I'm on the grass in the park and my brain is doing something — trauma response, suppressed memory, some psychological —*
+*'Maybe I'm still asleep. Maybe I'm on the grass in the park and my brain is doing something — trauma response, suppressed memory, some psychological —'*
 
 He was listing words he'd read in books. Trying to logic his way out of a world that had never followed his logic.
 
-*But I feel it.*
+*'But I feel it.'*
 
 He wanted to refuse it. His mind was still racing, still looking for an exit — a dream, a hallucination, a prank, a psychotic break, anything. But something deeper had already stopped fighting.
 
@@ -206,11 +206,11 @@ In his chest. In his bones. That nameless distance he'd carried for fourteen yea
 
 He was no longer far.
 
-*I am.*
+*'I am.'*
 
-*After fourteen years.*
+*'After fourteen years.'*
 
-*I'm back.*
+*'I'm back.'*
 
 The words sat in his chest like a stone dropped into still water. Fourteen years of convenience stores and bus rides and rented rooms. Fourteen years of feeling *far* without understanding why. Gone. In a single breath of sleep.
 
@@ -226,8 +226,8 @@ The smell of the air. The weight of the darkness. The sound of the river moving 
 
 He was back.
 
-*Of course.*
+*'Of course.'*
 
 Eric closed his eyes and took a breath.
 
-*Of course this happened tonight.*
+*'Of course this happened tonight.'*
