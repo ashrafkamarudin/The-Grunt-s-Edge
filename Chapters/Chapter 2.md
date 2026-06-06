@@ -8,7 +8,7 @@ I'm still naked. Still on the forest floor. The ground is cold against my skin a
 
 For a moment I just lie there, staring up at the pale gaps between the branches, trying to remember how to be a person.
 
-Then it hits me — not the cold or the hunger but the *situation* — and my breath shortens and my chest tightens and the rational part of my brain, the part that spent fourteen years learning to analyse and plan and stay calm, gets drowned out by a surge of pure animal panic.
+Then it hits me — not the cold or the hunger but the *situation* — and my breath shortens and my chest tightens and my brain just... stops. There's no plan. There's no analysis. There's just noise.
 
 *'I'm in another world!'*
 
@@ -26,7 +26,11 @@ Not in a direction — just *moving*, my feet carrying me through the underbrush
 
 *'Stop. Think. Think...'*
 
-But I can't. The panic has its claws in me and I'm six years old again, standing naked on a sidewalk in a world I don't understand, except this time I'm twenty and the world is supposed to be *mine* but I don't remember any of it.
+But I can't. I don't even know what I'm looking for. A road? A person? A sign? What would a sign even look like in this world?
+
+*'Doesn't matter. Just move.'*
+
+Six years old again. Naked on a sidewalk. Same feeling. Same nothing. Don't think about it. Move.
 
 I keep running, frantically searching for something — anything — a landmark, a sign, a person, a road, a fucking bus stop, anything that tells me where I am or where to go, but there's nothing, just more trees, endless and identical and silent.
 
@@ -36,17 +40,29 @@ Branches whip my face and thorns rake my arms and my feet — soft, modern feet 
 
 I run until I can't run anymore.
 
-My pace drops to a stumble, then a walk, and then I'm leaning against a tree trunk with my chest heaving and spit stringing from my lips and my vision spotting at the edges. I stay there for a long time — bent over, gasping, shivering now that I've stopped moving — and my head is pounding and my throat is raw and every breath tastes like blood.
+My pace drops. Stumble. Walk. Tree trunk. I lean against it, chest heaving, spit stringing from my lips, my vision spotting at the edges.
+
+I stay there.
+
+Bent over.
+
+Gasping.
+
+Shivering now that I've stopped moving.
+
+My head is pounding. My throat is raw. Every breath tastes like blood.
 
 *'Tired.'*
 
-The thought is simple. Childlike. There's no room left in my skull for complex panic — just tired, and cold, because the cold is still there.
+That's all. Just tired. And cold. The cold is still there.
 
 *'The cold. Focus on the cold.'*
 
-My skin is tight and my muscles are stiff and the shivering has settled into a steady tremor that won't stop. Naked on the forest floor, exposed to the wind, I can feel my body losing heat with every minute I stay still.
+My skin is tight. Muscles stiff. Shivering won't stop.
 
-*'I need to move. Find shelter... or something.'*
+Naked on the forest floor. Wind on my skin. I can feel the heat leaving with every breath.
+
+*'Need to move. Find shelter... or something.'*
 
 But there's no shelter, no dry leaves to burrow in, nothing to start a fire with — which means the only option is to find people, which means the river.
 
@@ -58,17 +74,23 @@ The pain cuts through the fog.
 
 I push myself up and look at my hands — the palms are scraped raw, tiny beads of blood welling up where the skin has broken — and my knee is worse, a deep gash just below the kneecap welling red and mixed with dirt and small stones.
 
-*'haa... I'm bleeding.'*
+*'haa... bleeding.'*
 
-The thought is absurdly calm.
+The thought is flat. Distant. Like it belongs to someone else.
 
 *'Great. Now I'm bloody too.'*
 
-I sit there on the cold ground, naked and bleeding, and I feel the panic drain out of me — not because I'm okay but because my body has simply run out of adrenaline. So I take a breath, and then another, and I force myself to think.
+I sit there on the cold ground, naked and bleeding. The panic is gone. Not because I'm okay. Because there's nothing left to run on.
 
-*'Okay.'*
+I take a breath.
 
-I look at the cut on my knee. The bleeding has slowed but the wound is dirty — full of grit and small bits of leaf — and I know it's going to get infected out here, a scratch like that always does.
+Then another.
+
+*'Okay... okay.'*
+
+I look at the cut on my knee. Dirty. Full of grit and leaf bits. That's going to get infected, probably.
+
+*'...doesn't matter right now. Move.'*
 
 I stand up. My knee throbs and I put weight on it and wince, but it holds. The river is still audible, maybe thirty meters away, so I limp toward it.
 
@@ -88,9 +110,18 @@ Nothing happens. No immediate sickness. Good. That means nothing.
 
 *'Upstream or downstream.'*
 
-I look at the current but I'm too tired to think properly — my brain keeps slipping off the question — so I pick downstream because downstream leads to lowlands, and more people, probably.
+
+Upstream... goes where? Higher ground. Mountains maybe. Thinner air. Colder. Less people, probably and harder to walk too.
+
+Downstream... flatter. Valleys. Rivers join other rivers. Water draws people. Towns, villages, whatever they have here.
+
+I look at my knee. Still bleeding.
+
+*'...downstream, I guess.'*
 
 I don't have a better reason.
+
+I reach down and touch the cut on my knee without thinking — finger to the wound, check the blood, then back. I don't know why I do it. I just do.
 
 I stand up. My knee is bleeding properly now, blood running in a thin line down my shin, and the cut on my foot stings, and the cold is still there gnawing at my skin, and I'm already tired and I haven't walked anywhere yet.
 
@@ -100,9 +131,9 @@ The river leads me through the forest and I keep to the bank where the ground is
 
 After about an hour, the forest begins to change.
 
-The trees thin and the undergrowth becomes less wild, and I start noticing signs — a broken branch that looks deliberately snapped, a patch of ground where the leaves have been trampled flat, the remains of a fire pit near the bank. My chest tightens again but this time it isn't panic.
+The trees thin and the undergrowth becomes less wild, and I start noticing signs — a broken branch that looks deliberately snapped, a patch of ground where the leaves have been trampled flat, the remains of a fire pit near the bank. My chest tightens again. Different this time. Don't know what to call it.
 
-It's hope.
+*'...maybe.'*
 
 I follow the signs and then suddenly a path emerges — narrow, barely visible, but a path nonetheless — worn dirt between the trees with footprints pressed into the mud.
 
@@ -116,7 +147,7 @@ Smoke. Thin columns rising above the trees — chimney smoke, people cooking bre
 
 The trees open and a village sits in the valley below.
 
-Small. Maybe fifteen buildings huddled together behind a wooden palisade — sharpened logs standing eight feet tall with outward-angled stakes hammered into the ground at the base to stop anything from charging the wall head-on. At the near end, a wooden watchtower rises above the rest — just a raised platform on four posts with a roof and a bell hanging from the crossbeam. It isn't built for war. It's built for warning. A place to ring the bell and grab your spear while whatever is out there is still at the tree line.
+Small. Maybe twenty buildings huddled together behind a wooden palisade — sharpened logs standing eight feet tall with outward-angled stakes hammered into the ground at the base to stop anything from charging the wall head-on. At the near end, a wooden watchtower rises above the rest — just a raised platform on four posts with a roof and a bell hanging from the crossbeam. It isn't built for war. It's built for warning. A place to ring the bell and grab your spear while whatever is out there is still at the tree line.
 
 Smoke rises from a few hearths, thin and grey against the morning sky.
 
@@ -126,13 +157,19 @@ The village is laid out like a crescent, following the curve of the river. A sin
 
 It looks exactly like the village I was born in.
 
-For a moment, something flickers in my chest — a memory I didn't know I still had. Running barefoot between houses just like these, the smell of smoke and cooking meat, my mother's voice calling me in before dark. The images come and go like fragments of a dream, no detail, just feeling, a warmth that has nothing to do with the sun.
+For a moment, something flickers. Barefoot on dirt. Smoke. A voice calling — my mother's? I don't know. It's gone before I can hold it.
 
 Then I look closer. The well is on the opposite side. The fields are planted differently. The houses have a slightly different shape to their roofs.
 
 *'Same, but not.'*
 
-I stand there, naked and bleeding, staring at a village that could have been my home if someone had redrawn it from memory with small mistakes, and the cold has been eating at me for hours and my knee has been bleeding the whole time and I haven't eaten in almost a day — the adrenaline that carried me through the forest burned out somewhere along the riverbank and nothing is left to replace it.
+I stand there, naked and bleeding, staring at a village that looks like somewhere I should know. Like walking into a room and forgetting why.
+
+The cold has been eating at me for hours. My knee won't stop bleeding. I haven't eaten in almost a day.
+
+*'Doesn't matter now.'*
+
+Nothing left.
 
 My legs give out.
 
@@ -156,7 +193,9 @@ I open my eyes.
 
 I'm indoors. Warm. Something rough and heavy is draped over my body — wool, I realize — and I'm lying on something soft, hay maybe, a bed of hay. The ceiling is low with wooden beams and the walls are plastered wattle, and a fire crackles somewhere nearby casting flickering light across the room.
 
-I'm indoors, alive, warm beneath the blanket, and the fire crackles and the air is still and the world isn't trying to kill me anymore.
+I'm indoors. Alive. Warm. The fire crackles. The air is still.
+
+I don't know what to do with that.
 
 And then, slowly, the panic begins to creep back in.
 
@@ -166,11 +205,11 @@ I let that sink in for a moment. Let the warmth of the fire and the weight of th
 
 *'I'm alive.'*
 
-A small feeling pushes through the exhaustion — gratitude, quiet and simple — because whoever these people are, they didn't leave me to freeze.
+The thought sits there. I don't know what to do with it. Whoever these people are, they didn't leave me to freeze.
 
-*'Thank you.'*
+*'...thanks.'*
 
-I don't know who I'm saying it to. The old man. The girl who might come. The strangers who pulled me out of the cold.
+I don't know who I'm saying it to. Whoever found me, I guess. It's not like they can hear me.
 
 *'I'm not in the forest anymore. I'm okay. For now.'*
 
@@ -194,4 +233,12 @@ I open my lips to respond and nothing comes out. My throat is locked and my tong
 
 The girl waits.
 
-I stare at her, knuckles white on the blanket, and I feel the language sitting just beyond my reach. Familiar as a forgotten dream, but there. Still there. I just need to remember how to grab it.
+I stare at her, knuckles white on the blanket. The words are there, somewhere. I know they are. I just can't... reach them.
+
+*'...give it a moment.'*
+
+She waits.
+
+I wait.
+
+Nothing comes.

@@ -97,13 +97,15 @@ Eric does not fully own either world.
 
 Neither feels like his present reality. He often mentally time-skips between them, comparing without meaning to, feeling displaced in both directions. This reinforces the core theme: *far from everything.*
 
-### 7. Grounding Rituals (Coping Mechanism)
+### 7. Auto-Dismiss Loop (Core Cognitive Pattern)
 
+Eric's signature mental habit: notice → consider → shut down. Whenever something meaningful surfaces — a feeling, a memory, a realization — he briefly acknowledges it, then dismisses it. *'That feeling again. ...doesn't matter. Keep moving.'* This isn't repression. It's a trained reflex. He doesn't process emotions during events. He defers them indefinitely. The reader sees the pattern recur so often it becomes recognizable as his way of handling anything that hits too close.
 
+### 8. Grounding Rituals (Coping Mechanism)
 
 Eric has small, automatic habits he doesn't notice — counting pavement cracks, checking his pockets, noting exits when he enters a room. These aren't conscious choices. They're just things his body does to feel anchored. They recur without explanation or narration. The reader sees them happen, not why.
 
-### 8. Social Interpretation Gap
+### 9. Social Interpretation Gap
 
 Eric misreads people often — not because he's dumb, but because he assumes people behave logically based on survival and necessity. In reality, people act emotionally, socially, irrationally, and protect pride over logic.
 

@@ -41,10 +41,23 @@ Natural Hesitation in First-Person Narration: Avoid clean, declarative statement
 
 Self-Interruption Patterns (Emotional Friction): Closed-off people don't flow emotionally — they cut themselves off. Use abrupt thought-kill patterns to show him shutting down his own feelings before they can go too deep. Common phrases: "Doesn't matter," "Forget it," "Not useful," "No point thinking that," "Pointless," "Why bother." Insert these at opportune moments — when he's about to dwell on something painful, when he catches himself caring too much, when the thought is heading somewhere he doesn't want to go. This creates emotional friction and reads as realistic avoidance behavior rather than clean emotional processing.
 
-Show Through Physical Reaction: Don't rely on emotion labels ("I was scared," "I felt sad"). Let the body speak first — shaking hands, locked throat, cold that won't leave, the weight of a blanket that feels too heavy to lift. The body betrays before the mind admits.
+Auto-Dismiss Loop (Core Cognitive Pattern): Whenever something meaningful appears — a feeling, a memory, a realization — Eric should cycle through three steps: notice → briefly consider → shut down. This is his signature mental habit. Example: "That feeling again. ...doesn't matter. I take a drink." Not every loop needs all three steps visible, but the pattern should recur so readers recognize it as his way of handling anything that hits too close.
 
-Three Sensory Details Max Per Scene: Pick the three strongest sensory inputs — the sour smell, the cold bite, the vibration in the teeth — and let them anchor the scene. More than three and the reader stops noticing any of them.
+Avoid Therapy Language: If a line sounds like something someone would say in therapy or a journal entry, it's too emotionally articulate for Eric. He should not narrate his emotions cleanly. "A longing for a place I barely remember" is too mapped. "Something feels off. Don't know what." is right. When in doubt, cut the emotional label and leave only the physical sensation or the behavior.
 
-Action Beats Over Dialogue Tags: Instead of "I'm fine," he said, use "I'm fine." The speaker doesn't look up from his hands. The body tells the truth the mouth doesn't.
+Messy Transitions: Eric should not flow between thoughts like a narrator. He should jump, cut himself off, restart internally. His thinking is reactive, not curated. Use this pattern: thought → interruption → replacement thought → suppression. The goal is to feel like a real brain running in real time, not a polished reflection.
 
-Specificity Over Intensity: A warm convenience store rice ball is more vivid than delicious food. Rusted spear point is sharper than dangerous weapon. The specific beats the dramatic every time.
+POV-Locked Techniques (Applied only when writing from that character's head): Certain techniques are tied to the POV character's personality and should shift when the POV switches.
+
+Eric-Specific Techniques (First-Person Close):
+- Show Through Physical Reaction: Eric doesn't process emotions with labels. Let his body speak first — shaking hands, locked throat, cold that won't leave. The body betrays before the mind admits.
+- Auto-Dismiss Loop: Whenever something meaningful surfaces — a feeling, a memory, a realization — he cycles through: notice → briefly consider → shut down. This is his signature mental habit.
+- Avoid Therapy Language: If a line sounds like something from a journal entry, it's too emotionally articulate for Eric. He doesn't narrate his emotions cleanly. Cut the emotional label, leave only the physical or the behavior.
+- Messy Transitions: Eric's thinking is reactive, not curated. He jumps, cuts himself off, restarts internally. Pattern: thought → interruption → replacement thought → suppression.
+
+Lena and Other POVs: These characters are more emotionally direct, more socially aware, and more verbally expressive. Their internal monologue should reflect that — smoother transitions, clearer emotional labels, fewer self-interruptions. The prose reshapes itself to whoever holds the POV.
+
+Generic Techniques (Apply regardless of POV):
+- Three Sensory Details Max Per Scene: Pick the three strongest sensory inputs — the sour smell, the cold bite, the vibration in the teeth — and let them anchor the scene. More than three and the reader stops noticing any of them.
+- Action Beats Over Dialogue Tags: Instead of "I'm fine," he said, use "I'm fine." The speaker doesn't look up from his hands. The body tells the truth the mouth doesn't.
+- Specificity Over Intensity: A warm convenience store rice ball is more vivid than delicious food. Rusted spear point is sharper than dangerous weapon. The specific beats the dramatic every time.
