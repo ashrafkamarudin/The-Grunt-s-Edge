@@ -2,107 +2,95 @@
 
 *'Ding-dong.'*
 
-The convenience store door slid open and the electronic chime announced his exit like he was somebody worth announcing. He wasn't.
+The convenience store door slides open and the electronic chime announces my exit like I'm somebody worth announcing, which I'm not, and then the door hisses shut behind me, cutting off the canned pop music and the hum of refrigerators in one clean slice. Silence returns to the street.
 
-Eric stepped out into the night air. The automatic door hissed shut behind him, cutting off the canned pop music and the hum of refrigerators in one clean slice. Silence returned to the street.
+I stand there for a second, adjusting the plastic bag in my grip. One onigiri. One bottle of green tea. Dinner for a guy who couldn't be bothered to cook.
 
-He stood there for a second, adjusting the plastic bag in his grip. One onigiri. One bottle of green tea. Dinner for a guy who couldn't be bothered to cook.
+The street is ordinary in that specific way only a late-night convenience store front can be — fluorescent light spilling onto cracked pavement, a vending machine humming against the wall of the next building, cigarette butts near the drain. A car passes, headlights sweeping across me, and then it's gone and the street is quiet again.
 
-The street was ordinary. A convenience store glow spilled onto the pavement, fluorescent and unforgiving, illuminating the cracks in the concrete and the cigarette butts near the drain. A vending machine hummed against the wall of the next building. A car passed, headlights sweeping across him, and then it was gone and the street was quiet again.
+I start walking.
 
-He started walking.
+My apartment is fifteen minutes away and the route is so automatic I could do it in my sleep — left at the intersection, straight past the shuttered ramen shop, through the park that runs alongside the river. I've walked it so many times my feet know it better than my brain does. The bag crinkles with every step so I shift it to my other hand and fish out the onigiri before the plastic can sweat condensation all over the rice. Cheap dinner. Tuna mayo. The rice is slightly hard around the edges and the seaweed wrapper has gone limp from sitting under the heat lamps too long, but I bite into it anyway because it's food and I'm hungry and that's good enough.
 
-His apartment was fifteen minutes away. The route was automatic by now. Left at the intersection, straight past the shuttered ramen shop, through the park that ran alongside the river. He'd walked it so many times his feet could do it without his brain paying attention.
+My footsteps echo off the shuttered storefronts. A cat watches me from the roof of a parked car, eyes catching the streetlight and I keep walking.
 
-The bag crinkled with every step.
+The park comes into view after the ramen shop — the iron gate is open like it always is, and the paved path curves inward flanked by grass that hasn't been cut in a while. Streetlamps cast their orange glow across the path and the grass beyond it fades into darkness where the light can't reach. The river is a low murmur somewhere ahead, hidden behind a row of bushes and the occasional bench.
 
-He shifted it to his other hand and fished out the onigiri before the plastic could sweat condensation all over the rice. Cheap dinner. Tuna mayo. The rice was slightly hard around the edges, and the seaweed wrapper had gone limp from sitting under the heat lamps too long.
+I turn in.
 
-He bit into it anyway.
+The park is quiet for a Friday night. Most people are at home or at bars or anywhere that isn't here. A jogger passes me on the path, breath steady, footsteps slapping against pavement in a rhythm that fades into the dark.
 
-His footsteps echoed off the shuttered storefronts. A cat watched him from the roof of a parked car, eyes catching the streetlight. He kept walking.
+I find a spot near the bank — a gentle slope of grass that overlooks the water, far enough from the path that no one will bother me — and I sit down, set the convenience store bag beside me, and eat. The grass is damp. The river murmurs. The food tastes like nothing.
 
-The park came into view after the ramen shop. The iron gate was open, it was always open, and the paved path curved inward flanked by grass that hadn't been cut in a while. Streetlamps cast their orange glow across the path, and the grass beyond it faded into darkness where the light couldn't reach. The river was a low murmur somewhere ahead, hidden behind a row of bushes and the occasional bench.
+I chew and stare at the dark water. The city lights ripple across the surface, breaking apart and reforming. Fourteen years. That's most of my life now. Fourteen years in this world, and I still get nights like this — nights where the world feels thin, like if I pressed hard enough against the air I'd feel something on the other side.
 
-He turned in.
+Nights where my hands don't feel like mine.
 
-The park was quiet for a Friday night. Most people were at home or at bars or anywhere that wasn't here. A jogger passed him on the path, breath steady, footsteps slapping against the pavement in a rhythm that faded into the dark.
+I've had that feeling as long as I can remember. Like I'm moving through my own life from somewhere else — eating, working, sleeping, all on autopilot. Nothing bad, nothing wrong, just... not quite there. Like I was poured into a shape that doesn't quite hold me.
 
-He found a spot near the bank. A gentle slope of grass that overlooked the water, far enough from the path that no one would bother him. He sat down, set the convenience store bag beside him, and ate.
+I finish the onigiri and reach for the bottle of green tea, twisting the cap off. The plastic crinkles. I drink, swallow.
 
-The river lapped against the embankment. A jogger passed behind him, footsteps fading. Somewhere across the water, a car door slammed.
+*'sigh...'*
 
-Nothing special. Just another Friday.
+*'Why... why tonight?'*
 
-But something sat heavy in his chest tonight.
+There's no reason for it. I had a normal day. Work was work. The commute was the same. The convenience store was the same. Nothing triggered it... or maybe it did, and I just didn't notice? But my chest feels hollow, and there's a tremor in my hands that won't settle, like standing at the edge of a train platform and feeling the ground vibrate before the train arrives except the train isn't coming.
 
-He chewed mechanically and stared at the dark water, watching the reflection of the city lights ripple and distort across the surface. Fourteen years. That was most of his life now. Fourteen years in this world, and he still got nights like this.
+I set the tea down and lean back on my hands, looking up at the sky. City glow drowns out most of the stars but a few of the brighter ones pierce through — Sirius, maybe. Venus. I don't know. I never learned.
 
-Nights where the world felt thin.
+My mind drifts.
 
-He finished the onigiri and reached for the bottle of green tea, twisting the cap off. The plastic crinkled. He drank, swallowed, and let out a slow breath.
+I think about the village. I always do on nights like this, not that I know why. I don't remember enough of it to justify the pull — just fragments, the smell of smoke on thatch, livestock shifting in their pens, my mother humming while she worked. A handful of scraps that shouldn't mean anything after fourteen years.
 
-*'Why tonight?'*
+But they do. They mean... everything? Something I can't name, anyway. A hollow feeling behind my ribs, a longing for a place I barely remember and a life I never got to finish. I don't know if I miss the village itself or if I just miss the idea of belonging somewhere so completely that being pulled away left a scar I can't see.
 
-There was no reason for it. He'd had a normal day. Work was work. The commute was the same. The convenience store was the same. Nothing had triggered it.
+I remember the night it ended.
 
-But the feeling was there.
+I was six years old — small, barefoot, playing near the well — when the screams started. Not the distant kind you hear from safety. The close kind. The kind that makes your blood turn cold before your brain even understands what you're hearing.
 
-A hollow pull in his chest. A sense that something was *wrong* in a way he couldn't name. Like standing at the edge of a train platform and feeling the ground vibrate before the train arrived, except the train wasn't coming.
+I remember running. Remember my father's hand gripping my arm hard enough to bruise. Remember the monster, just a glimpse of it — a mass of black chitin and too many legs moving through the village like a scythe through wheat.
 
-He set the tea down and leaned back on his hands, looking up at the sky. City glow drowned out most of the stars. A few of the brighter ones pierced through. Sirius, maybe. Venus. He didn't know. He'd never learned.
-
-His mind drifted.
-
-The village hadn't had streetlights. They'd had torches. Braziers. Firelight that painted everything in amber and shadow. He remembered the smell of smoke clinging to thatch roofs, the sound of livestock shifting in their pens at night, the way his mother would hum while she worked.
-
-He remembered the night it ended.
-
-He'd been six years old. Small. Barefoot. He'd been playing near the well when the screams started. Not the distant kind you heard from safety. The *close* kind. The kind that made your blood turn cold before your brain even understood what you were hearing.
-
-He remembered running. Remembered his father's hand gripping his arm hard enough to bruise. Remembered the monster, just a glimpse of it, a mass of black chitin and too many legs moving through the village like a scythe through wheat.
-
-And then the light.
-
-Not white. Not yellow. Something *between*. A color that didn't exist in nature, a pressure wave that didn't have sound. It had swallowed everything. The monster. The village. His father's hand.
+And then the light. Not white. Not yellow. Something between — a color that didn't exist in nature, a pressure wave that didn't have sound. It swallowed everything. The monster. The village. My father's hand.
 
 And then pavement.
 
-He'd woken up on a sidewalk in a city he didn't recognize. Naked, shivering, six years old. He remembered the cold of the concrete against his bare feet. The sounds of traffic, incomprehensible. Voices shouting in a language that slid off his brain like water off oil.
+I woke up on a sidewalk in a city I didn't recognize — naked, shivering, six years old — and I remember the cold of the concrete against my bare feet, the sounds of traffic incomprehensible, voices shouting in a language that slid off my brain like water off oil. I stood there crying until a woman found me. Wrapped me in her coat. Took me to a police station, then to a shelter, then to an orphanage.
 
-He'd stood there crying until a woman found him. Wrapped him in her coat. Took him to a police station, then to a shelter, then to an orphanage.
+I spent years learning the language and then years reading everything I could get my hands on — history books, science textbooks, mythology collections, conspiracy forums, academic papers on theoretical physics — looking for something, a crack in the world, a record of anyone else who had fallen through the seams.
 
-He'd spent years learning the language. Years reading everything he could get his hands on. History books, science textbooks, mythology collections, conspiracy forums, academic papers on theoretical physics. He'd been looking for something. A crack in the world. A record of anyone else who had fallen through the seams.
+Nothing.
 
-He never found a thing.
+Not a single mention.
 
-Fourteen years.
+Just... nothing.
 
-He'd felt far the whole time. Not far from a place. Far from something deeper, something in his marrow. A distance he couldn't name or measure. Like his soul was reaching for a handhold that didn't exist in this world.
+Fourteen years of nothing.
 
-He picked up his tea and took another drink. The plastic bottle was sweaty in his hand. The liquid was lukewarm and slightly bitter.
+I felt far the whole time. Not far from a place — far from something deeper, something in my marrow, a distance I couldn't name or measure. Like my soul was reaching for a handhold that didn't exist in this world. Like I was standing on the wrong side of a door that had closed behind me and I couldn't find the handle.
+
+I pick up my tea and take another drink. The plastic bottle is sweaty in my hand and the liquid is lukewarm and slightly bitter.
 
 *'I shouldn't be thinking about this.'*
 
-He'd made peace with it. Mostly. He had a life here. A small apartment. A job that paid the bills. He wasn't happy, but he wasn't starving either. It was fine.
+I have a life here — a small apartment, a job that pays the bills. It's fine. Nothing hurts. Nothing's broken. I just... go through it.
 
-But tonight the thoughts wouldn't leave.
+*'sigh...'*
+
+No one's around to hear it anyway.
+
+But tonight the thoughts won't leave.
 
 *'What if it wasn't random?'*
 
-He'd asked himself that question a thousand times over fourteen years. Never found an answer. The light had come from nowhere and taken him to nowhere. There was no logic to it. No pattern.
+I've asked myself that question a thousand times over fourteen years and never found an answer. The light came from nowhere and took me to nowhere. There was no logic to it. No pattern. But I keep asking anyway, because if it wasn't random... then there must be a reason, right? And if there's a reason, then maybe I'm not just a stray piece of debris that drifted between worlds by accident.
 
-He finished the tea and set the bottle in the bag. The grass was damp beneath him. The air smelled like river water and asphalt.
+I finish the tea and set the bottle in the bag. The grass is damp. The river murmurs. I lie back and look up at the sky — a gray-orange wash, the stars barely visible.
 
-He lay back.
+My eyelids feel heavy.
 
-The sky was a gray-orange wash above him, the stars barely visible. The grass tickled his neck. The river murmured.
+*'Just a minute,'* I tell myself. *'I'll close my eyes for a minute and then head home.'*
 
-His eyelids felt heavy.
-
-*Just a minute,* he told himself. *I'll close my eyes for a minute and then head home.*
-
-The last thing he heard before sleep took him was the water. Soft. Steady. The same sound it had made for thousands of years, in any world.
+The last thing I hear before sleep takes me is the water — soft and steady, the same sound it's made for thousands of years, in any world.
 
 Darkness.
 
@@ -110,101 +98,79 @@ Darkness.
 
 Cold.
 
-The first thing was cold.
+The first thing is cold — not the damp chill of grass at night but a different cold, the kind that bites into naked skin and finds nothing in the way, and the wind moves across my body, over my back and legs and the exposed curve of my ribs, stealing heat from everywhere at once.
 
-Not the damp chill of grass at night. A different cold. The kind that bit into naked skin and found nothing in the way. The wind moved across his body, over his back and legs and the exposed curve of his ribs, and stole heat from everywhere at once.
+The second thing is the ground — damp earth and leaves and small pebbles pressing into my bare shoulder blade, the uneven push of roots beneath my spine.
 
-The second thing was the ground.
+The third thing is the smell — earth and wet stone and decaying leaves and fast-moving water, clean and mineral-sharp.
 
-Damp earth. Leaves. Small pebbles pressing into his bare shoulder blade. The uneven push of roots beneath his spine.
+I open my eyes.
 
-The third thing was the smell.
+The sky above me is not the orange-gray glow of the city. It's black — true black, painted with stars so thick and bright they look like spilled salt across a dark table, no moon, just thousands and tens of thousands of them — and branches frame the view, tall trees with crowns that shift in the wind, making the starlight flicker like a guttering candle flame.
 
-Earth. Wet stone. Decaying leaves. And fast-moving water, clean and mineral-sharp.
+My breath catches.
 
-Eric's eyes opened.
-
-The sky above him was not the orange-gray glow of the city. It was black. True black, painted with stars so thick and bright they looked like spilled salt across a dark table. No moon. Just stars. Thousands of them. Tens of thousands.
-
-Branches framed the view. Tall trees. Old trees. Their crowns shifted in the wind, and the movement made the starlight flicker like a guttering candle flame.
-
-His breath caught.
-
-He lay still for a long moment, staring at a sky he hadn't seen in fourteen years. A sky without light pollution. A sky that looked the way it had looked when he was six years old, lying in the grass behind his family's home, making up names for constellations he'd never learn.
+I lie still for a long moment, staring at a sky I haven't seen in fourteen years — a sky without light pollution, a sky that looks the way it looked when I was six years old lying in the grass behind my family's home, making up names for constellations I'd never learn.
 
 *'No.'*
 
-His heart started to pound.
+My heart starts to pound.
 
 *'No, no, no —'*
 
-He sat up.
+I sit up and the wind hits my chest, my stomach — I feel it everywhere — and I look down and I'm naked. No hoodie. No jeans. No sneakers. No convenience store bag. No nothing. Just skin and goosebumps and dirt stuck to my side where I was lying on the forest floor.
 
-The wind hit his chest, his stomach. He felt it everywhere. He looked down.
+My hands are shaking. I press them against the earth — cold and real and rough with dead leaves and small stones — and force myself to breathe.
 
-He was naked.
+I'm in a forest that is so dense and dark with trees that rise tall around me, their trunks thick and irregular, nothing like the planted rows of a city park. This is wild growth, old growth, the kind of forest that has never known a landscaper. Behind me, I hear water, so I turn my head and there's a river maybe twenty meters away, moving fast and dark, catching starlight on its rippled surface, and the sound is constant — a low rush that fills the spaces between wind gusts.
 
-No hoodie. No jeans. No sneakers. No convenience store bag. No nothing.
-
-Just skin. Goosebumps. Dirt stuck to his side where he'd been lying on the forest floor.
-
-His hands were shaking. He pressed them against the earth, cold and real and rough with dead leaves and small stones, and forced himself to breathe.
-
-He was in a forest. Dense. Dark. The trees rose tall around him, their trunks thick and irregular, nothing like the planted rows of a city park. This was wild growth. Old growth. The kind of forest that had never known a landscaper.
-
-Behind him, he heard water.
-
-He turned his head. A river maybe twenty meters away, moving fast and dark, catching starlight on its rippled surface. The sound was constant — a low rush that filled the spaces between wind gusts.
-
-He sat there, naked and shaking, trying to think.
+I sit there, naked and shaking, trying to think.
 
 *'I'm back.'*
 
-His stomach lurched.
+The words come out before I can stop them. My stomach lurches because I know it's true, but my brain is already racing ahead, trying to find the exit, the reasonable explanation, the thing that makes this a dream I can wake up from.
 
 *'No.'*
 
-He shook his head. The motion made him dizzier.
+I shake my head and the motion makes me dizzier.
 
 *'No. I can't be. This isn't —'*
 
-He looked at the trees. The river. The stars.
+I look at the trees and the river and the stars.
 
 *'Can I?'*
 
-His breathing quickened.
-
 *'Am I really back?'*
 
-The question hung in the cold air. The river kept moving. The wind kept blowing across his bare skin. The stars kept burning in a sky that had never known a single streetlamp.
+The question hangs in the cold air but the river keeps moving and the wind keeps blowing across my bare skin and the stars keep burning in a sky that has never known a single streetlamp.
 
-*'No. This is wrong. This doesn't happen.'*
+*'No. This is wrong. This doesn't happen. This shouldn't be possible.'*
 
-He dug his fingers into the dirt. The soil was cold and damp. Leaves crumbling under his nails. He squeezed until the small stones bit into his palms.
+I dig my fingers into the dirt — the soil is cold and damp, leaves crumbling under my nails — and I squeeze until the small stones bite into my palms.
 
 *'I was just at the park. I was just — I was eating dinner. I fell asleep. That's all. This is a dream.'*
 
-He pinched the skin on his thigh. Hard. The sharp sting flared and faded.
+I pinch the skin on my thigh, hard. The sharp sting flares and fades.
 
-Nothing changed.
+Nothing changes.
 
 *'Okay. Not a dream. Not that kind of dream, at least.'*
 
-He looked at his hands. Pale in the starlight. Dirt under the fingernails. These were his hands. The same hands that had held the convenience store bag an hour ago.
+I look at my hands — pale in the starlight, dirt under the fingernails. These are my hands, the same hands that held the convenience store bag an hour ago.
 
-*'Maybe I'm still asleep. Maybe I'm on the grass in the park and my brain is doing something — trauma response, suppressed memory, some psychological —'*
+*'Maybe I'm still asleep... maybe I'm on the grass in the park and my brain is doing something — trauma response, suppressed memory, some psychological —'*
 
-He was listing words he'd read in books. Trying to logic his way out of a world that had never followed his logic.
+I'm listing words I read in books, trying to logic my way out of a world that never followed my logic.
 
-*'But I feel it.'*
+*'But... I feel it.'*
 
-He wanted to refuse it. His mind was still racing, still looking for an exit — a dream, a hallucination, a prank, a psychotic break, anything. But something deeper had already stopped fighting.
+And that's when I notice something I didn't expect.
 
-He could feel it.
+That far feeling. The one I've carried for fourteen years, the one I thought was just part of who I was, the bone-deep sense of standing in the wrong room... it's gone. Not faded. Not quiet. Gone. Like a tooth that's been aching for so long you forgot it was there until suddenly it stops.
 
-In his chest. In his bones. That nameless distance he'd carried for fourteen years was gone.
+The ground under my hands is cold. The air in my lungs burns. The weight of the darkness presses down from all sides. It all feels solid in a way the modern world never did, like I've been breathing someone else's air for fourteen years and only now, sitting naked in a cold forest, am I tasting my own.
 
-He was no longer far.
+My chest is tight. My hands are shaking. I'm lost and naked and freezing and every part of this should be terror — and yet underneath all of it, something in my ribcage has unlocked, something I didn't even know was clenched, and I don't know what to call that feeling so I push it down with the rest.
 
 *'I am.'*
 
@@ -212,22 +178,16 @@ He was no longer far.
 
 *'I'm back.'*
 
-The words sat in his chest like a stone dropped into still water. Fourteen years of convenience stores and bus rides and rented rooms. Fourteen years of feeling *far* without understanding why. Gone. In a single breath of sleep.
+The words sit in my chest like a stone dropped into still water. Fourteen years of convenience stores and bus rides and rented rooms, fourteen years of feeling far without understanding why — gone, in a single breath of sleep.
 
-He was twenty years old.
+I'm twenty years old with no clothes, no plan, not a single thing to my name, and I don't know where I am — which region, which side of which continent — because the forest tells me nothing and the stars tell me nothing.
 
-No clothes. No plan. Not a single thing to his name.
+But I know. The smell of the air, the weight of the darkness, the sound of the river moving over ancient stone — something in my chest recognises this world the way a tuning fork recognises its note.
 
-He didn't know where he was. Which region. Which side of which continent. The forest told him nothing. The stars told him nothing.
-
-But he knew.
-
-The smell of the air. The weight of the darkness. The sound of the river moving over ancient stone. Something in his chest recognised this world the way a tuning fork recognised its note.
-
-He was back.
+I'm back.
 
 *'Of course.'*
 
-Eric closed his eyes and took a breath.
+I close my eyes and take a breath.
 
 *'Of course this happened tonight.'*

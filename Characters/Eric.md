@@ -7,7 +7,7 @@
 * Age: 20 (Current), 6 (Original World)
 * Occupation: Infantry Soldier
 * Physical Description: Tall, lean build, weathered hands from manual labor
-* Personality: Practical, cautious, survival-oriented, likes to read
+* Personality: Practical, cautious, survival-oriented, emotionally latent, selective attachment, utility-based self-worth
 
 ---
 
@@ -27,21 +27,73 @@ He enlisted under his real name. Eric.
 
 ---
 
-## Personality
+## Personality (Refined)
 
-Eric is practical, cautious, and survival-oriented.
+Eric is practical, cautious, and survival-oriented. He processes events in delayed emotional layers — first logic, then consequence, then emotion. He forms few attachments, but those he forms are deep and lasting. He struggles to align human behavior with logical expectation, often misreading emotional decisions as practical ones.
 
-His greatest fear is death.
+### 1. Emotional Latency (Core Trait)
 
-He does not seek heroism.
+Eric doesn't lack emotion. He delays it. His processing chain is:
 
-He does not seek glory.
+event → logic → survival assessment → emotion (hours or days later)
 
-He does not seek power.
+This means he often appears cold when he's actually just out of sync with himself. The emotion comes, but it arrives late — sometimes when he's alone, sometimes when he's safe, sometimes when it's no longer useful.
 
-Despite this, he consistently helps others whenever his conscience refuses to let him walk away.
+*'Why does this feel so familiar...''
 
-This creates a constant internal conflict between self-preservation and compassion.
+### 2. Selective Attachment
+
+Eric doesn't bond broadly or easily. He bonds narrowly and permanently. He won't make many friends, won't open up quickly, won't socialize for the sake of it. But when someone gets "locked in" — they stay locked in. He remembers them vividly, protects them instinctively, carries them mentally long after they're gone.
+
+- **Lena:** permanently anchored (his first human connection in this world)
+- **Kael:** anchored through respect and debt
+- **Others:** contextual, not emotional — unless they earn the lock
+
+This makes his relationships feel rare and meaningful, not casual.
+
+### 3. Violence Hesitation Loop
+
+Eric has a three-step failure loop when it comes to violence:
+
+1. **Avoid** — de-escalation, retreat, non-confrontation
+2. **Freeze** — if forced, he hesitates, delays, processes
+3. **Execute** — if survival threshold is crossed, a cold, mechanical switch flips
+
+Afterwards, he doesn't feel heroic or proud. He just feels done.
+
+This creates tension in combat without making him edgy. He's not afraid to fight — he's afraid of what it costs him to switch that part of himself on.
+
+### 4. Utility-Based Self-Worth
+
+Eric subconsciously evaluates himself through contribution:
+
+contribution → acceptable
+no contribution → guilt
+logical sacrifice → correct resolution
+
+This is why:
+- fixing the roof felt good
+- eating without working felt wrong
+- being chosen for conscription felt like a logical conclusion
+
+It's not self-hatred. It's system-thinking applied to identity.
+
+### 5. Memory Anchoring Instability
+
+Eric does not fully own either world.
+
+- Childhood memories of his original world: fragmented, emotional, unreliable
+- Fourteen years of the modern world: structured, distant, like someone else's life
+
+Neither feels like his present reality. He often mentally time-skips between them, comparing without meaning to, feeling displaced in both directions. This reinforces the core theme: *far from everything.*
+
+### 6. Social Interpretation Gap
+
+Eric misreads people often — not because he's dumb, but because he assumes people behave logically based on survival and necessity. In reality, people act emotionally, socially, irrationally, and protect pride over logic.
+
+He underestimates attachment. Misreads loyalty. Misjudges emotional decisions as practical choices.
+
+This is where the story's interpersonal tension lives — Eric bracing for pragmatic rejection while others are acting from emotional bonds he can't see.
 
 ---
 
@@ -63,19 +115,16 @@ Much of Eric's character journey revolves around reconciling these opposing beli
 
 ---
 
-## Long-Term Character Arc
+## Long-Term Character Arc (Upgrade)
 
-Eric begins as a lost man trying to survive.
+Eric's journey is not just "finding a place."
 
-Over time, he discovers:
+It is:
 
-* Who he is
-* What he values
-* Where he belongs
-
-His ultimate goal is not greatness.
-
-It is building a life, a family, and a future he can call his own.
+- learning to process emotion in real time instead of delayed
+- learning that not everything is utility-based
+- learning that attachment is not earned logically
+- learning that belonging is not transactional
 
 ---
 
