@@ -39,6 +39,8 @@ Pacing & Thinking Rhythm: Use ellipses ("...") to indicate momentary pauses in E
 
 Natural Hesitation in First-Person Narration: Avoid clean, declarative statements. Real thought is full of doubts, hedges, and uncertainty. Use phrases like "maybe," "I guess," "right?", "or something," "I don't know," "probably" to make the internal voice feel like someone thinking in real time rather than narrating a finished story. This applies especially to Eric's assumptions about the world, other people, and his own situation — he should never sound like he's certain about things he can't know.
 
+Self-Interruption Patterns (Emotional Friction): Closed-off people don't flow emotionally — they cut themselves off. Use abrupt thought-kill patterns to show him shutting down his own feelings before they can go too deep. Common phrases: "Doesn't matter," "Forget it," "Not useful," "No point thinking that," "Pointless," "Why bother." Insert these at opportune moments — when he's about to dwell on something painful, when he catches himself caring too much, when the thought is heading somewhere he doesn't want to go. This creates emotional friction and reads as realistic avoidance behavior rather than clean emotional processing.
+
 Show Through Physical Reaction: Don't rely on emotion labels ("I was scared," "I felt sad"). Let the body speak first — shaking hands, locked throat, cold that won't leave, the weight of a blanket that feels too heavy to lift. The body betrays before the mind admits.
 
 Three Sensory Details Max Per Scene: Pick the three strongest sensory inputs — the sour smell, the cold bite, the vibration in the teeth — and let them anchor the scene. More than three and the reader stops noticing any of them.

@@ -78,7 +78,17 @@ This is why:
 
 It's not self-hatred. It's system-thinking applied to identity.
 
-### 5. Memory Anchoring Instability
+### 5. Involuntary Compassion
+
+Eric helps people not because he's noble — but because his conscience won't let him walk away. And it annoys him every time. After helping, his internal reaction is frustration, not satisfaction. *'Shouldn't have done that. Now I'm involved.'*
+
+He constantly battles between:
+- his survival instinct: *stay out of it, don't get involved, not your problem*
+- his involuntary pull: *but I can't just leave them*
+
+This tension is more interesting than clean heroism. He's not choosing to be good — he's losing an argument with himself.
+
+### 6. Memory Anchoring Instability
 
 Eric does not fully own either world.
 
@@ -87,7 +97,13 @@ Eric does not fully own either world.
 
 Neither feels like his present reality. He often mentally time-skips between them, comparing without meaning to, feeling displaced in both directions. This reinforces the core theme: *far from everything.*
 
-### 6. Social Interpretation Gap
+### 7. Grounding Rituals (Coping Mechanism)
+
+
+
+Eric has small, automatic habits he doesn't notice — counting pavement cracks, checking his pockets, noting exits when he enters a room. These aren't conscious choices. They're just things his body does to feel anchored. They recur without explanation or narration. The reader sees them happen, not why.
+
+### 8. Social Interpretation Gap
 
 Eric misreads people often — not because he's dumb, but because he assumes people behave logically based on survival and necessity. In reality, people act emotionally, socially, irrationally, and protect pride over logic.
 

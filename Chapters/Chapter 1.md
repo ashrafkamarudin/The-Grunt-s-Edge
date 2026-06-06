@@ -12,7 +12,9 @@ I start walking.
 
 My apartment is fifteen minutes away and the route is so automatic I could do it in my sleep — left at the intersection, straight past the shuttered ramen shop, through the park that runs alongside the river. I've walked it so many times my feet know it better than my brain does. The bag crinkles with every step so I shift it to my other hand and fish out the onigiri before the plastic can sweat condensation all over the rice. Cheap dinner. Tuna mayo. The rice is slightly hard around the edges and the seaweed wrapper has gone limp from sitting under the heat lamps too long, but I bite into it anyway because it's food and I'm hungry and that's good enough.
 
-My footsteps echo off the shuttered storefronts. A cat watches me from the roof of a parked car, eyes catching the streetlight and I keep walking.
+I count the cracks in the pavement without meaning to. Nine steps, crack. Twelve steps, crack. I've done this walk so many times I know where every break in the concrete is. I check my pocket — phone, keys, wallet — without thinking about it. They're there. They're always there.
+
+My footsteps echo off the shuttered storefronts. A cat watches me from the roof of a parked car, eyes catching the streetlight. I keep walking.
 
 The park comes into view after the ramen shop — the iron gate is open like it always is, and the paved path curves inward flanked by grass that hasn't been cut in a while. Streetlamps cast their orange glow across the path and the grass beyond it fades into darkness where the light can't reach. The river is a low murmur somewhere ahead, hidden behind a row of bushes and the occasional bench.
 
@@ -26,7 +28,9 @@ I chew and stare at the dark water. The city lights ripple across the surface, b
 
 Nights where my hands don't feel like mine.
 
-I've had that feeling as long as I can remember. Like I'm moving through my own life from somewhere else — eating, working, sleeping, all on autopilot. Nothing bad, nothing wrong, just... not quite there. Like I was poured into a shape that doesn't quite hold me.
+Something's always been off. Not bad, not wrong, just... off. Like I'm always slightly behind where I'm supposed to be.
+
+*'Pointless. It's fine.'*
 
 I finish the onigiri and reach for the bottle of green tea, twisting the cap off. The plastic crinkles. I drink, swallow.
 
@@ -43,6 +47,8 @@ My mind drifts.
 I think about the village. I always do on nights like this, not that I know why. I don't remember enough of it to justify the pull — just fragments, the smell of smoke on thatch, livestock shifting in their pens, my mother humming while she worked. A handful of scraps that shouldn't mean anything after fourteen years.
 
 But they do. They mean... everything? Something I can't name, anyway. A hollow feeling behind my ribs, a longing for a place I barely remember and a life I never got to finish. I don't know if I miss the village itself or if I just miss the idea of belonging somewhere so completely that being pulled away left a scar I can't see.
+
+*'Pointless. It's been fourteen years.'*
 
 I remember the night it ended.
 
@@ -66,13 +72,13 @@ Just... nothing.
 
 Fourteen years of nothing.
 
-I felt far the whole time. Not far from a place — far from something deeper, something in my marrow, a distance I couldn't name or measure. Like my soul was reaching for a handhold that didn't exist in this world. Like I was standing on the wrong side of a door that had closed behind me and I couldn't find the handle.
+I felt far the whole time. Not far from a place — just far. Some kind of distance I couldn't name. Like something was behind a wall I couldn't see or find or break through.
 
-I pick up my tea and take another drink. The plastic bottle is sweaty in my hand and the liquid is lukewarm and slightly bitter.
+I pick up my tea and take another drink. Lukewarm. Slightly bitter. The bottle is sweaty in my hand.
 
 *'I shouldn't be thinking about this.'*
 
-I have a life here — a small apartment, a job that pays the bills. It's fine. Nothing hurts. Nothing's broken. I just... go through it.
+Apartment. Job. Routine. It works. I don't hate it. I don't love it either. I just... do it.
 
 *'sigh...'*
 
@@ -82,7 +88,9 @@ But tonight the thoughts won't leave.
 
 *'What if it wasn't random?'*
 
-I've asked myself that question a thousand times over fourteen years and never found an answer. The light came from nowhere and took me to nowhere. There was no logic to it. No pattern. But I keep asking anyway, because if it wasn't random... then there must be a reason, right? And if there's a reason, then maybe I'm not just a stray piece of debris that drifted between worlds by accident.
+I've asked myself that question a thousand times over fourteen years and never found an answer. The light came from nowhere and took me to nowhere. There was no logic to it. No pattern. But I keep asking anyway, because if it wasn't random... then there must be a reason, right? And if there's a reason, then maybe I'm not just—
+
+*'Doesn't matter. You'll never know.'*
 
 I finish the tea and set the bottle in the bag. The grass is damp. The river murmurs. I lie back and look up at the sky — a gray-orange wash, the stars barely visible.
 
@@ -164,13 +172,13 @@ I'm listing words I read in books, trying to logic my way out of a world that ne
 
 *'But... I feel it.'*
 
-And that's when I notice something I didn't expect.
+And that's when I notice something strange.
 
-That far feeling. The one I've carried for fourteen years, the one I thought was just part of who I was, the bone-deep sense of standing in the wrong room... it's gone. Not faded. Not quiet. Gone. Like a tooth that's been aching for so long you forgot it was there until suddenly it stops.
+That far feeling. The one I've carried for so long I stopped noticing it... it's quiet. Not gone, maybe, but quieter than it's ever been. Like it finally stopped pulling.
 
-The ground under my hands is cold. The air in my lungs burns. The weight of the darkness presses down from all sides. It all feels solid in a way the modern world never did, like I've been breathing someone else's air for fourteen years and only now, sitting naked in a cold forest, am I tasting my own.
+The ground under my hands is cold. The air in my lungs burns. The darkness presses down from all sides. It all feels more real than anything I've felt in years.
 
-My chest is tight. My hands are shaking. I'm lost and naked and freezing and every part of this should be terror — and yet underneath all of it, something in my ribcage has unlocked, something I didn't even know was clenched, and I don't know what to call that feeling so I push it down with the rest.
+My chest is tight. My hands are shaking. I should be terrified — I am terrified — but underneath it, something's... different. I don't know what. I don't know why. I just know I can't think about it right now, so I don't.
 
 *'I am.'*
 
