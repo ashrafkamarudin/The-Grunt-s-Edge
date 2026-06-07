@@ -31,6 +31,8 @@ He enlisted under his real name. Eric.
 
 Eric is practical, cautious, and survival-oriented. He processes events in delayed emotional layers — first logic, then consequence, then emotion. He forms few attachments, but those he forms are deep and lasting. He struggles to align human behavior with logical expectation, often misreading emotional decisions as practical ones.
 
+Eric thinks constantly. Not anxious spiraling — just analysis. He observes, categorizes, runs scenarios, adjusts. Even when he's silent, his brain is working. He doesn't process emotions in the moment, but he's always processing information. This is his survival mechanism: if he can understand the system, he can navigate it.
+
 ### 1. Emotional Latency (Core Trait)
 
 Eric doesn't lack emotion. He delays it. His processing chain is:

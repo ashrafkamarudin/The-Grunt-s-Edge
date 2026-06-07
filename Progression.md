@@ -72,91 +72,42 @@ He instead finds:
 ---
 
 ## Village Arc (Ch 3-4)
-- Eric recovers in the frontier village
-- Light, bubbly dynamic with Lena as he learns the language and world
-- He starts to feel like he belongs
-- Kael's quiet acceptance, Lena's chatter, the grumpy villagers
 
-## Military Entry (Ch 4 end → Ch 5)
+**Eric wakes** — small room, bandaged, confused. Lena enters. She talks. He can't respond.
 
-### Conscription Rules
-- Each village must provide one able-bodied recruit OR pay equivalent tax/resources
-- If no resources, one will be selected randomly by the envoy
-- Deadline: before winter inspection
+**Montage of days** — Lena rambles, Eric listens, language slowly clicks. He gets slightly stronger. They never bond deeply — she's doing a job, he's a patient.
 
-### Chapter 5 Structure (Revised — opens before the horn)
+Small moment: Lena mentions her mother died when she was young — just a fact while changing his bandages. *"I don't remember her much. Just the smell."* Without thinking, Eric says: *"Mine hummed."* He didn't mean to say it. It just came out. Lena looks at him, then nods. A small smile. She doesn't push. But something shifts — barely.
 
-*Note: Chapter 4 ends with the rider arriving and the word "Conscription." Chapter 5 opens on the morning of the same day — before the horn. The reader carries the dread; the village doesn't know yet.*
+**Day 1 — Announcement:** Horn. Rider. Elder reads the conscription order. Eric hears the commotion but doesn't fully understand. Lena is quiet that evening.
 
-**SCENE 1 — Morning normality (fake peace)**
-- Eric wakes. Cold morning. Routine.
-- Lena talks about mundane things. Complains about food. Mentions soldiers passing on the road lately — just a passing observation.
-- Kael is silent but sharper today. Noticing things. Doesn't say why.
-- Eric catches the tension in people's voices even when he doesn't understand every word.
-- No one says "conscription." Just atmosphere.
+**Day 1 — Meeting (off-screen):** Villagers decide. Aldric suggests Eric.
 
-**SCENE 2 — The horn**
-- The blast from the watchtower. Lena stops mid-sentence.
-- Villagers drift toward the central square. Not running. Just... moving.
-- The rider is already there, standing beside the elder. Same scroll. Same tired horse tied to the post.
-- The elder reads aloud so everyone can hear.
-- Terms: One able-bodied recruit. OR pay equivalent tax in resources. OR if neither is possible, the envoy selects randomly.
-- A poor frontier village has no spare resources to pay. The villagers know it immediately.
-- Two days to decide. The envoy returns at dawn on the third day.
-- The elder says it flat: *"We send someone. Or they take someone."*
-- The rider mounts and rides out. The village is left with a deadline.
+**Day 1 — Elder visits:** Elder asks Eric three questions — name, where from, anyone coming for him. Then offers the deal: volunteer and the village claims him as theirs. Eric gets clothes, a knife, food for the road. No more questions about his past. The elder gives him until tomorrow morning to decide.
 
-**SCENE 3 — The morning meeting**
-- Next morning. The meeting place — a communal building or the elder's house.
-- Not the full village. Just the households that matter: elders, Kael, Aldric, a few farmers, the scout.
-- Eric is called to attend. First time he's been invited to anything official.
-- He sits in the back. Listens. The language is faster than he can fully follow, but he catches the weight.
+**Night 1 — Eric contemplates:**
+- He weighs both sides. Stay here? He's not wanted. The village made that clear. He's a stranger they're tolerating.
+- Go? The military is unknown. Dangerous. But it's a way forward. Food, shelter, purpose — or at least the promise of them.
+- He thinks about his old world. Gone. He thinks about this one. He has nothing. No name, no home, no people.
+- *"If I stay, where do I go? If I go, what's waiting?"*
+- He doesn't arrive at courage. He arrives at resignation. There's no good choice. There's just the path of least resistance.
 
-**SCENE 2 — "Avoiding responsibility" starts immediately**
-- Villagers redirect pressure: "We need strong hands for winter work," "My son is still too young," "We can't lose harvest workers."
-- Nobody names Eric yet. But Eric is standing at the edge of the crowd. He's present. That matters.
+**Day 2 — Morning:** Elder returns. Eric hesitates, then agrees.
 
-**SCENE 3 — First indirect targeting (key shift)**
-- Aldric (or similar) introduces logic: "We cannot afford to send someone we need."
-- The gaps become visible: Kael is needed (hunter), farmers are needed, elders excluded, young boys not ready.
-- "So who remains?" Eric starts becoming visible without being named.
+**Day 2 — Elder explains the military:**
+- Eric asks: *"What do they actually do?"*
+- The elder shares what he knows — basic and incomplete.
+- Conscription term: until the campaign ends, or the army releases you. No one knows how long that is.
+- Training at a garrison town a few days south. Then assignment to a unit.
+- The military provides food, necessities, and a salary. *"It's not much, but it's more than nothing. For someone with nowhere to go, it's not a bad option."*
+- Desertion means execution if caught. But the elder adds: *"You have no family here. That's the only thing that stops most men."*
+- Rumors: monster attacks are getting worse. That's why the levy exists. The elder doesn't know more.
 
-**SCENE 4 — Outsider logic emerges**
-- Villagers say: "He has no family ties here," "He came recently," "He is not tied to winter stores."
-- They are NOT saying "he is worthless." They are saying "he is not structurally embedded." That's colder and more realistic.
+**Day 2 — Lena's guilt:** She finds Eric after. *"This isn't right. You're not even healed."* Eric says nothing. She leaves.
 
-**SCENE 5 — Soft consensus forming (the "vote without vote")**
-- No formal vote. Instead: nods, silence after suggestions, no one defending alternatives.
-- Decision already made socially. Eric slowly realizes they aren't debating *if*, but *who*.
+**Day 3 — Rider returns:** Eric leaves with the rider. No ceremony.
 
-**SCENE 6 — Lena resistance (counterweight)**
-- She fights indirectly: "He's not from here doesn't mean he belongs to them," "He works harder than half of you."
-- She cannot win logically, only emotionally. Outnumbered by practicality, silence, winter fear.
 
-**SCENE 7 — Kael moment (silent pivot)**
-- Long silence. Everyone looks at Kael — he took Eric in, his opinion carries weight.
-- He looks at Eric. Then simply says: *"Ask him."*
-- Two words. Transfers agency to Eric. Refuses to let the village decide for him.
-
-**SCENE 8 — Eric internal realization (key psychological turn)**
-- He does not hear "they are rejecting me." He hears "I am the only option that does not break the village."
-- Not personal rejection. Systemic selection pressure. That's why he accepts.
-
-**SCENE 9 — Eric volunteers (lands harder now)**
-- Not heroic. He steps in early because they were going to reach this conclusion anyway.
-- Simple: *"I will go."* No emotion. No speech. Completion of an equation.
-
-**SCENE 10 — Aftershock (emotional weight lives here)**
-- Lena denial — real, emotional break. Then quiet. She understands the logic even if she hates it.
-- Villagers — uncomfortable relief. They got what they wanted and it doesn't feel good.
-- Aldric — not celebrating, just nodding like it was inevitable.
-- Kael — quiet, heavier than usual.
-- Eric misunderstands emotional consequence. He thinks "this was the correct solution." Everyone else feels "something was just lost."
-
-**SCENE 11 — The physical exchange (silent goodbye)**
-- Lena gives him something. A worn knife. An extra cloak. A wrapped piece of dried meat.
-- She doesn't say "come back." She doesn't need to.
-- Eric takes it. Nods. That's all.
 
 ## Volume 1 Ending State
 
