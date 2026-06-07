@@ -86,6 +86,7 @@ Small moment: Lena mentions her mother died when she was young — just a fact w
 **Day 1 — Elder visits:** Elder asks Eric three questions — name, where from, anyone coming for him. Then offers the deal: volunteer and the village claims him as theirs. Eric gets clothes, a knife, food for the road. No more questions about his past. The elder gives him until tomorrow morning to decide.
 
 **Night 1 — Eric contemplates:**
+- Brief spike of resistance: *"I could just leave tonight."* Immediately suppressed — his knee won't carry him far, no supplies, no direction, no knowledge of the land. Running is just dying somewhere else.
 - He weighs both sides. Stay here? He's not wanted. The village made that clear. He's a stranger they're tolerating.
 - Go? The military is unknown. Dangerous. But it's a way forward. Food, shelter, purpose — or at least the promise of them.
 - He thinks about his old world. Gone. He thinks about this one. He has nothing. No name, no home, no people.
