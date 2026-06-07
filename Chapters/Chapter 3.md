@@ -52,7 +52,7 @@ I catch fragments. Goat. Garden. Screaming. Cousin. Stew. Enough to follow the s
 
 On and on. The well water tasting strange. Her father came home late and didn't say a word. The bread didn't rise. She stubbed her toe on the same root three times this week.
 
-I nod at the right moments. I don't need to understand every word to know when to nod.
+I nod at the right moments. At least I'm good at that.
 
 At some point I try to say something back. Just a word. I don't even remember what she asked — something simple, maybe my name or where I'm from. I open my mouth and the sound that comes out is wrong. Clumsy. The shape of it doesn't match what I heard in my head.
 
@@ -110,7 +110,7 @@ I go back to whispering words in the dark. *"Bread. Goat. Cold. Lena."*
 
 Her name is Lena. She points at herself, says it slow, repeats it until I nod. She doesn't ask for mine. I don't offer it.
 
-I don't trust her yet. I don't trust anyone here. I'm in a room I don't know, in a village I don't know, in a world I barely remember, and some girl is bringing me food and talking about goats and I still don't know if I'm being helped or kept.
+I still don't trust her or anyone here. I'm in a room I don't know, in a village I don't know, in a world I barely remember, and some girl is bringing me food and talking about goats and I can't tell if I'm being helped or just kept alive for some other reason.
 
 The language is coming back. Slowly. Like remembering a song you haven't heard in years.
 
@@ -202,7 +202,7 @@ I track it. Somewhere outside the village. A signal.
 
 I wait for more. Nothing. The footsteps fade. The voices settle. The dog keeps barking.
 
-I lie there and stare at the ceiling. I wonder what the horn means. I hope nothing's bad. Oh well, I'll find out when she comes back.
+I lie there and stare at the ceiling. I wonder what the horn means. Probably nothing good. But I won't find out by lying here.
 
 *'...can't do anything with that.'*
 
@@ -216,9 +216,9 @@ When she comes back, she's quiet. She sets the bowl down without looking at me. 
 
 She doesn't talk.
 
-I watch her for a moment. It's strange — she's never this quiet. But I don't know what the horn meant, and I don't know why she's acting this way and it's most likely related to the loud horn, and I won't find out by staring at her.
+I watch her for a moment. Strange — she's never this quiet. Now I'm curious about the horn and what it meant. I probably won't find out just by staring at her.
 
-*'...weird. She'll talk if it's important.'*
+*'...weird. I guess, she'll talk if it's important.'*
 
 I turn back to the ceiling. I have my own problems to deal with after all.
 
@@ -232,6 +232,6 @@ Stay until I can walk. Learn the language. Gather enough information to understa
 
 It's not a plan. Not really. It's just the next thing.
 
-The horn. Her silence. None of it matters if I can't solve the bigger problem first.
+The horn. Her silence. None of it matters if I can't figure out the bigger problem first.
 
-*'...haa. One step at a time.'*
+*'...haa. One step at a time, I guess.'*
