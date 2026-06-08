@@ -140,10 +140,79 @@ It is:
 ## What can be improved:
 - control
 - efficiency
-- recovery
+- recovery speed (how efficiently the core filters ambient mana)
 
 ## What cannot be significantly improved:
 - total mana capacity
+
+---
+
+# 📊 CORE CLASSIFICATIONS
+
+Mana pool capacity varies between individuals. The world classifies them into seven broad levels, determined through observation and performance — not exact measurement. Two people at the same level may have different capacities, just within the same range.
+
+| Level | Name | Description |
+|-------|------|-------------|
+| 1 | Faint Core | Trace mana. Light a torch, cool a drink. Utility only. |
+| 2 | Shallow Core | Small spells, short duration. Signaler or minor support. |
+| 3 | Modest Core | Enough for low-level spells. Minimum threshold for knight training. |
+| 4 | Moderate Core | Average capacity. Low to mid-level spells. Standard for knights and research mages. |
+| 5 | Capacious Core | Same spell range as Level 4, but greater endurance — more casts or longer maintenance. |
+| 6 | Deep Core | High-level spells. Required for full mage certification. Rare. |
+| 7 | Great Core | Same power as Level 6, but exceptional endurance. One in a generation. |
+
+## Classification Method
+Core level is assessed using a specialized artifact. Anyone with a core of Level 2 or above can activate it. Level 3 and above can activate it multiple times for confirmation.
+
+The artifact does not provide exact numbers — it produces a glow or resonance that the operator interprets as a level range.
+
+## Limitations
+A higher level does not guarantee combat superiority. Efficiency, affinity, training, and experience all matter. A Level 4 knight with high efficiency and deep combat experience can outperform a Level 6 mage who lacks training.
+
+---
+
+# 🧬 MANA CORES
+
+## Core Concept
+Mana cores are not physical organs. They are metaphysical anchors within a person — the part of the soul or body that holds pure mana.
+
+A person is either born with cores or without. There is no way to gain them later.
+
+## Function
+- Store pure mana — neutral, unaffiliated energy
+- Filter ambient mana during recovery
+- Cannot be expanded, strengthened, or trained in capacity
+
+## Non-Mages
+People born without mana cores cannot sense, store, or shape mana. To them, magic is invisible beyond its visible effects. They live in the same world as mages but experience it differently.
+
+---
+
+# 🌍 AMBIENT MANA & RECOVERY
+
+## Core Concept
+Mana exists everywhere in the world — in the air, the ground, the water. But ambient mana is not pure. It is a mix of mana already carrying the residue of different affinities.
+
+- Forests are rich in earth and life-aspected mana
+- Lava fields are rich in fire-aspected mana
+- Ocean air is rich in water-aspected mana
+- Mountain peaks are rich in wind-aspected mana
+- Space-aspected mana is rare everywhere
+
+## How Recovery Works
+A mage absorbs ambient mana into their cores. The core filters out unwanted affinities and converts what remains into pure mana.
+
+- Absorbing from a matching affinity environment = fast and efficient recovery
+- Absorbing from a neutral environment = slower, some waste
+- Absorbing from a mismatched environment = slow and costly — filtering wastes more than it keeps
+- In an area with zero ambient mana, recovery is impossible
+
+## Implications
+- Geography matters for mages. A fire mage stationed in wetlands is at a severe disadvantage.
+- Military garrisons are built in areas that match their assigned mages' affinities when possible.
+- Siege strategy includes controlling mana-rich ground.
+- Long campaigns require mana-supply lines — same as food and arrows.
+- Eric's spatial affinity recovers slowly nearly everywhere — space-aspected mana is rare.
 
 ---
 
@@ -381,3 +450,46 @@ Affinity does NOT:
 - grant access to new magic types
 - increase total mana capacity
 - guarantee combat strength
+
+---
+
+# ⚔️ APPLICATION DISCIPLINES
+
+Magic is universal. But how it's used depends on the user's role.
+
+## Knights — Internal Reinforcement
+Knights channel mana into their own bodies. The magic never leaves the skin. Effects include:
+- Enhanced strength and speed
+- Reinforced bones and tissue — can survive impacts that would kill an unenhanced human
+- Weapon resonance — imbuing a blade with temporary sharpness or durability
+- Fatigue suppression — pushing past normal physical limits
+
+Because their magic is internal and invisible, knights often appear to be simply "that strong." This makes them unpredictable in combat — an opponent can't see what they're capable of.
+
+## Mages — External Projection
+Mages project mana outside their bodies to override reality at a distance. This is what most people think of as "magic." Effects include:
+- Elemental projection — fire, water, wind, earth
+- Spatial manipulation — storage, displacement
+- Mental interference — illusion, perception alteration
+- Large-scale destruction — battlefield bombardment
+
+Mages are powerful but fragile. Casting requires concentration. External projection is visually obvious — anyone can see a fireball forming.
+
+## Healers — Biological Manipulation
+Healers use Life affinity to guide the body's natural processes toward recovery or growth. Effects include:
+- Wound closure — accelerating natural healing
+- Infection suppression — guiding the immune system
+- Stabilization — keeping a dying person alive long enough for treatment
+- Growth stimulation — accelerating plant growth, rarely used, costly
+
+Healing is the most mana-intensive discipline for its effect size. A healer can spend their entire reserve saving one person from a gut wound. Large-scale healing is impractical.
+
+## Other Disciplines
+- Scouts use minor wind affinity for enhanced hearing or air current detection
+- Sappers use earth affinity for controlled collapses and tunnel work
+- Signalers use light or sound magic for battlefield communication
+
+## Heroes
+Heroes are not a discipline. They are an honorary tier that spans all classes. A hero-knight, a hero-mage, and a hero-healer are all heroes — but their magic works the same way as any other knight, mage, or healer. What sets them apart is reputation, experience, and the ability to apply their discipline under extreme conditions.
+
+Heroes are rare. Most professionals never reach that tier.

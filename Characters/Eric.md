@@ -148,6 +148,14 @@ It is:
 
 ---
 
+## Core Classification
+
+Eric is classified at Level 3 — upper edge of Modest Core. He sits right on the borderline between Level 3 and Level 4. Depending on the assessor, he could be read as either a strong Level 3 or a weak Level 4. Officially, he's recorded as Level 3.
+
+This ambiguity works in his favor — he's often underestimated. His strength comes from efficiency and understanding, not raw capacity.
+
+---
+
 ## Hidden Ability
 
 ### Dimensional Pocket Space

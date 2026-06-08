@@ -16,9 +16,9 @@ His younger sister barely remembers him.
 
 His older brother spent fourteen years searching for a missing child who no longer exists.
 
-Without identity papers, status, or family records, Eric enlists in the Royal Army under the alias "Vane" simply to obtain legal protection, food, shelter, and a stable income.
+Without identity papers, status, or family records, Eric is conscripted into the Royal Army — a solution the frontier village of Eastwood finds for its levy problem rather than a choice Eric makes for himself.
 
-He believes military service will be an easy and secure life.
+He enters the army with resignation, not expectation.
 
 He is wrong.
 
@@ -74,6 +74,8 @@ Campaigns are won through organization rather than individual glory.
 
 Throughout the story, the importance of systems gradually surpasses the importance of legendary individuals.
 
+The nobility understands this. Heroes are not just found — they are made. Noble houses sponsor promising knights and mages, control their stories, and use their reputations to legitimize their own power. The official reports rarely match what the soldiers on the ground saw.
+
 ---
 
 ### Finding Home
@@ -89,6 +91,34 @@ A purpose.
 A future.
 
 By the end of the story, Eric finally chooses where he belongs rather than having fate choose for him.
+
+---
+
+## Narrative Lens
+
+The story is told through the eyes of an average soldier. Eric is not the hero of this world — he is an observer of heroes. The reader experiences the epic through his limited, grounded perspective.
+
+### Heroes as Distant Figures
+Eric rarely sees heroes fight firsthand. Most of what he knows comes from:
+- Tavern talk and camp gossip — stories that grow taller with every retelling
+- Official reports filtered through noble propaganda
+- Squad discussions where some idolize heroes and others resent them
+- Rare distant glimpses — a flash of light on the horizon, a smoke column, a battlefield already cleared
+
+Heroes appear and disappear. They are forces of nature, not recurring characters. They are known by titles — the Iron Knight, the Stormwitch, the Blazing Lance — names that sound legendary in camp but mean nothing in the mud.
+
+### The Romance vs The Reality
+Eric encounters two versions of heroes:
+- The romance: songs, official reports, tavern tales of saving people and turning battles
+- The reality: heroes who miss their aim, walk past dying soldiers, cast spells that kill as many bystanders as monsters
+- The propaganda: noble houses that manufacture hero legends to legitimize their own power
+
+The gap between the story and the truth is where the real story lives.
+
+### Eric's Role
+Eric begins as a Tier 1 soldier. He rises over time — gaining experience, skill, and efficiency — but his ceiling is below Hero level. He will never be one of the figures whose stories fill the taverns. He gets good enough to survive, not good enough to compete. The gap between what he can do and what heroes can do only grows clearer the more he learns.
+
+His value is not in raw combat contribution. It is in observation, reliability, practical thinking, and being where heroes are not. His growth is internal as much as it is external.
 
 ---
 
