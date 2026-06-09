@@ -147,6 +147,36 @@ The energy burst has also scattered monsters toward the Empire's north-east garr
 
 ---
 
+## Military Ranks
+
+### Levies (Conscripts)
+Forced recruits. The lowest tier. Looked down upon by sworn men and knights alike.
+- Conscript — Eric's level
+- Levy Squad Leader — rare, appointed from experienced conscripts
+- Levy Sergeant — assigned overseer
+
+### Sworn Men (Volunteer Soldiers)
+Volunteers — usually from noble houses, wealthy commoners, or city residents who enlist by choice. Better equipment, better treatment, higher status.
+- Soldier
+- Veteran
+- Corporal
+- Sergeant
+- Senior Sergeant
+
+### Knights
+The elite. Requires combat skill, and often mana core with aura capability. Separate chain of command.
+- Knight
+- Knight Lieutenant
+- Knight Captain
+
+### Support Corps
+Non-combat personnel essential to military function.
+- Clerk
+- Quartermaster
+- Surgeon
+
+---
+
 ## Military Structure
 
 ### Regular Army (Infantry)
