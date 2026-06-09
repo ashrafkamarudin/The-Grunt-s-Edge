@@ -87,7 +87,8 @@ Eric will brush against this tier over time.
 - Research mages at Level 4
 
 ## Capability
-- Knights: burst aura — momentary advantages (speed, blade reinforcement, impact hardening, air shield). Cannot sustain all enhancements at once. Combat strength depends on timing and control, not raw reinforcement.
+- Knights: burst aura — momentary advantages (speed, blade reinforcement, impact hardening, air shield). This is achieved through Spellforms — the knight triggers a pre-etched pattern rather than shaping mana freely.
+- Knights without Control talent rely on Spellforms for their abilities. A knight's combat capability depends on which Spellforms they have etched and their mana capacity to power them.
 - Not all knights use aura — some reach this tier through pure martial skill
 - Mages: external projection — elemental, spatial, mental spells
 

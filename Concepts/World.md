@@ -10,15 +10,83 @@ The setting emphasizes mud, exhaustion, supply shortages, military bureaucracy, 
 
 ## The Monster Crisis
 
-Monsters are a permanent threat to civilization. They are not mindless hordes — they are apex species, each a significant threat on its own. Known species include chimera, griffins, cockatrice, rock dragons, and harpies.
+Monsters are a permanent threat to civilization. They are not mindless hordes — they are apex species, each a significant threat on its own. There are hundreds of different kinds across the world, varying in strength, behavior, and territory. Known species include chimera, griffins, cockatrice, rock dragons, and harpies.
 
-Monsters are territorial. They claim regions and defend them. But they can sometimes range beyond their borders — driven by hunger, agitation, or unknown causes.
+Monsters are territorial. They claim regions and defend them. But they can sometimes range beyond their borders — driven by hunger, agitation, or the pull of potent mana sources.
+
+### Mana and Monsters
+All monsters have mana within their bodies. They can grow stronger by absorbing denser or more potent mana. This is why monsters are drawn to mana-rich locations — including the ancient elven ruins now exposed in the north-east.
+
+Monsters also consume other monsters to drain their mana for sustenance. This creates a natural hierarchy — the strongest monsters claim the richest mana sources and grow stronger still, while lesser monsters are pushed to the edges.
+
+This also means monster populations can escalate rapidly when a new mana source appears. They are not all equally mana-hungry — different species have different drives — but territorial disputes are constant.
 
 In recent decades, monster populations have begun increasing at an alarming rate. Trade routes become increasingly dangerous. Border settlements disappear. Military casualties continue rising. The central challenge of the age is not defeating a singular evil but surviving a world that is becoming progressively more hostile.
 
 ---
 
-## Technology Level
+## Mana Veins and Mana Stones
+
+Beneath the surface of the world run natural concentrations of ambient mana — called mana veins. These are not physical veins of ore, but underground flows of dense mana that follow geological formations.
+
+In places where mana veins are exceptionally rich or where they surface, the ambient mana can crystallize into Mana Stones — physical crystals of condensed, solidified mana.
+
+### Properties
+- Mana Stones contain pure, concentrated mana in a stable crystal form
+- They can be used as power sources for various technologies
+- The richer the vein, the larger and purer the stones
+- Not all mana veins produce stones — only the densest ones crystallize
+
+### Usage
+Mana Stones are used to power enchanted equipment, light sources, communication devices, and larger installations like garrison barriers or mage support apparatus. They are also used in high-level spellcasting as a mana reserve.
+
+Only the wealthy can afford Mana Stones — nobles, major guilds, military command, and the Crown. Commoners rarely handle them.
+
+### Mana Vein Geography
+Mana veins follow mountain ranges, deep forest roots, and ancient geological faults. The richest known veins are in:
+- The elven forests of the Sylvan Reach
+- The mountain holds of the dwarves (now lost)
+- Deep beneath the Kraglands (dangerous to mine)
+- The north-east forest near the ancient ruins (newly active)
+
+Mana veins can shift over time, and exhausted veins can go dormant for centuries before replenishing.
+
+---
+
+## Monster Part Trade
+
+Dead monsters have value. Their bodies contain mana-rich materials used in crafting, alchemy, and enchanting.
+
+Common monster parts and their uses:
+- **Hides and scales** — armor, shields, shelter material
+- **Claws, fangs, and horns** — weapons, tools, ritual components
+- **Blood and organs** — alchemy, medicines, magical catalysts
+- **Eyes and sensory organs** — magical optics, detection devices
+- **Bones** — structural reinforcement, weapon handles, decorative crafts
+
+### The Trade
+Monster parts are dangerous to obtain but valuable enough to drive an entire trade network. Professional monster hunters, mercenary companies, and military units all sell parts to merchants who transport them to cities for processing.
+
+The military often supplements its supply lines by selling parts from monsters killed during patrols. The bonus is small but meaningful for common soldiers.
+
+### The Scavenger's Guild
+An independent organization operating across the continent, the Scavenger's Guild specializes in recovering valuable materials from monster territory. They operate differently from the Neutral Guilds — less concerned with trade and banking, more focused on salvage, exploration, and monster part procurement.
+
+Scavenger's Guild members are a mixed lot — former soldiers, failed adventurers, dwarven refugees, and anyone desperate enough to risk monster territory for pay. They are respected for their knowledge of monster behavior and despised for their willingness to work in areas others avoid.
+
+The Guild maintains safe houses and supply caches at the edges of monster territory. They often sell information to the military — monster movements, territory shifts, new lairs. In return, they expect protection and first access to salvage from military campaigns.
+
+---
+
+## Dragon's Peak
+
+A mountain in the north-east, visible from the frontier. It is not a volcano — it is known simply as Dragon's Peak, named for the rock dragons that nest on its upper slopes.
+
+The peak is too dangerous to approach. The rock dragons there are large, territorial, and aggressive. Occasionally one descends into the lower forests, forcing the garrisons to respond.
+
+Dragon's Peak serves as a geographical landmark and a constant reminder of the scale of the monster threat. On clear days, soldiers at the north-east fort can see it on the horizon.
+
+---
 
 The world resembles a late medieval society.
 
@@ -37,13 +105,11 @@ Advanced military organizations and wealthy elites sometimes employ domesticated
 ### The Valorian Empire
 Knight-focused, human-majority. Disciplined military emphasizing infantry, organization, and logistics. The front line of the monster crisis. Eric's nation.
 
-The north-west frontier — called the Northmark — is where monster pressure is worst. This is where the Empire deploys its conscripts and where the story begins.
-
 ### Meridia
-A kingdom focused on advancing magic. Secluded, mysterious, politically neutral in most conflicts. Mages trained here are among the most knowledgeable in the world.
+A kingdom focused on advancing magic in the south. Secluded, mysterious, politically neutral in most conflicts. Mages trained here are among the most knowledgeable in the world.
 
 ### The Sylvan Reach
-Elven kingdom to the north. Isolationist, with a distinct military style. Rarely intervenes in human affairs but maintains its own borders fiercely.
+Elven kingdom in the eastern forests. Isolationist, with a distinct military style. Rarely intervenes in human affairs but maintains its own borders fiercely.
 
 ### The Kraglands
 Orc territories to the west — broken badlands, scattered clans, no central government. Warrior culture. Some clans raid, others trade. Unpredictable.
@@ -63,16 +129,21 @@ Independent organizations operating across all nations. Control trade, banking, 
 
 The continent is divided roughly as follows:
 
-- **North:** The Sylvan Reach (elven kingdom). Beyond it, the monster territories and the ancient ruins.
-- **North-West:** The Northmark — the Valorian Empire's frontier. Monster pressure is highest here. Eric's village Eastwood sits in this region.
-- **West:** The Kraglands (orc territories).
+- **North:** Ice cap — uninhabitable.
+- **North-East:** Forest frontier — monster territory. Eastwood sits at the edge of this region. Beyond it lies the ancient elven ruins.
+- **East:** The Sylvan Reach (elven forests).
+- **South-East:** Coastline, sea, and archipelago stretching from south-west to south-east. Small islands scattered around the continent.
+- **South:** Meridia (magic kingdom).
+- **West:** The Kraglands — wastelands, orc territories.
 - **Central:** The Valorian Empire (human, knight-focused).
-- **East:** Meridia (magic kingdom).
-- **South:** Monster territories — wilderness, no nation controls it.
-- **Between major powers:** The small human kingdoms, serving as buffer states.
+- **Between major powers:** Small human kingdoms serving as buffer states.
 
 ### The Ancient Ruins
-Deep in the north-west frontier, beyond the monster territories, lies the ruins of an ancient elven kingdom. Its discovery is imminent — the same monster agitation that drives the conscription will eventually lead to its uncovering. When found, it will become a point of contention between the Valorian Empire and the Sylvan Reach.
+Deep in the north-east forest, beyond the monster territories, lies the ruins of an ancient elven kingdom. The ruins have already been uncovered — a burst of magical energy erupted from within, now drawing monsters from across the region.
+
+For the Empire, the ruins hold ancient elven technology and lost knowledge worth securing. For the Sylvan Reach, it is their cultural heritage. Neither can reach it easily — the forest belongs to the monsters.
+
+The energy burst has also scattered monsters toward the Empire's north-east garrisons, straining their defenses and driving the need for extra conscripts.
 
 ---
 

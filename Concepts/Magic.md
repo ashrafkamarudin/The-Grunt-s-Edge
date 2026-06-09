@@ -188,6 +188,27 @@ People born without mana cores cannot sense, store, or shape mana. To them, magi
 
 ---
 
+# 🌀 GATHERING AND CONTROL
+
+Having a mana core is not enough. The core must be filled — and then the mana within it must be shaped.
+
+### Gathering
+The ability to absorb ambient mana into the body and purify it into the core. This is the baseline — most core-bearers can do it naturally or learn it with basic training.
+
+Without gathering, a core is empty and useless.
+
+### Control
+The ability to shape and direct the mana in the core into a spell. This is a talent, not a skill — you either have it or you don't. Control is what defines a mage.
+
+Without control, a core filled with mana is functionally useless for free-form spellcasting.
+
+### The Three Gates
+- Gate 1: Do you have a core? → If no, no magic.
+- Gate 2: Can you gather? → If no, core is empty.
+- Gate 3: Can you control? → If no, you cannot cast freely — but Spellforms offer an alternative.
+
+---
+
 # 🌍 AMBIENT MANA & RECOVERY
 
 ## Core Concept
@@ -464,6 +485,8 @@ Knights channel mana into their own bodies. The magic never leaves the skin. Eff
 - Weapon resonance — imbuing a blade with temporary sharpness or durability
 - Fatigue suppression — pushing past normal physical limits
 
+Knights without Control talent cannot shape mana freely. They rely on Spellforms — pre-etched patterns on the soul that bypass the need for Control entirely. A knight's combat capability depends on which Spellforms they have etched and whether they have enough mana capacity to use them.
+
 Because their magic is internal and invisible, knights often appear to be simply "that strong." This makes them unpredictable in combat — an opponent can't see what they're capable of.
 
 ## Mages — External Projection
@@ -493,3 +516,26 @@ Healing is the most mana-intensive discipline for its effect size. A healer can 
 Heroes are not a discipline. They are an honorary tier that spans all classes. A hero-knight, a hero-mage, and a hero-healer are all heroes — but their magic works the same way as any other knight, mage, or healer. What sets them apart is reputation, experience, and the ability to apply their discipline under extreme conditions.
 
 Heroes are rare. Most professionals never reach that tier.
+
+---
+
+# 🜂 SPELLFORMS
+
+Spellforms are spells etched directly onto the soul. They bypass the need for Mana Control — the etch itself does the shaping. The user only needs to activate it.
+
+## How They Work
+- One Spellform per affinity slot
+- A person with Fire and Earth affinities can have one Fire Spellform and one Earth Spellform
+- Multi-affinity spells slot into the dominant affinity
+- Activating a Spellform costs mana — a high-level Spellform on a low-capacity core is useless
+
+## Etching
+Spellforms are not innate. They must be etched through training using recorded instructions — diagrams, patterns, and guides created by mages of old and preserved in books.
+
+The process requires the user to visualize and move mana inside their body to form a complex pattern. Once the pattern is complete, it is etched into the soul and can be triggered at will.
+
+## Replacing a Spellform
+A Spellform can be erased from the soul by the user. The process is tiring — the user requires a day of rest before a new Spellform can be etched in its place.
+
+## Spellforms and Mages
+Mages with Control talent also benefit from Spellforms. Free-form casting is flexible but slow. Spellforms are instant — they allow a mage to cast a known spell in an instant while reserving their Control for situations that need improvisation.
