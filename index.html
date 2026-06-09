@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Grunt's Edge - Reader</title>
+    <title>The Grunt's Edge - Manuscript Reader</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -73,6 +73,12 @@
             letter-spacing: 0.05em;
             text-transform: uppercase;
             color: var(--text-secondary);
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
+
+        .title:hover {
+            color: var(--accent-color);
         }
 
         .controls {
@@ -122,13 +128,103 @@
             background-position: right 0.5rem center;
         }
 
-        /* Reading Canvas Layout */
+        /* Core Layout Architecture */
         main {
             max-width: 720px;
             margin: 0 auto;
             padding: 2.5rem 1.25rem 6rem 1.25rem;
         }
 
+        /* View State Management toggles */
+        .view-section {
+            display: none;
+        }
+        .view-section.active-view {
+            display: block;
+        }
+
+        /* --- HOMEPAGE TYPOGRAPHY & LAYOUT --- */
+        .novel-hero {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-top: 1rem;
+        }
+
+        .novel-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+            line-height: 1.2;
+        }
+
+        .novel-meta {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .novel-synopsis {
+            background-color: var(--surface-color);
+            border: 1px solid var(--border-color);
+            padding: 1.75rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+        }
+
+        .synopsis-heading {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .synopsis-text {
+            color: var(--text-primary);
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+
+        .toc-heading {
+            font-size: 1.25rem;
+            font-weight: 700;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .chapter-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .chapter-card-item {
+            background-color: var(--surface-color);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .chapter-card-item:hover {
+            border-color: var(--accent-color);
+            transform: translateX(4px);
+        }
+
+        .chapter-link {
+            display: block;
+            padding: 1rem 1.25rem;
+            color: var(--text-primary);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.05rem;
+        }
+
+        /* --- READER CANVAS TYPOGRAPHY --- */
         #reader-content {
             font-family: var(--font-serif);
             font-size: 1.15rem;
@@ -136,7 +232,6 @@
             word-break: break-word;
         }
 
-        /* Light Novel Content Typography Formatting Rules */
         #reader-content h1 {
             font-family: var(--font-sans);
             font-size: 1.75rem;
@@ -153,13 +248,11 @@
             text-align: justify;
         }
 
-        /* Formatting for Internal Thoughts / Dialogue tags used in drafts */
         #reader-content em, #reader-content p:has(> em:only-child) {
             color: var(--text-secondary);
             font-style: italic;
         }
 
-        /* Line separators/scenery transitions */
         #reader-content hr {
             border: 0;
             height: 1px;
@@ -168,7 +261,7 @@
             text-align: center;
         }
 
-        /* Bottom Sticky/Floating Quick Nav Bar */
+        /* Bottom Sticky Quick Nav Bar */
         .bottom-nav {
             position: fixed;
             bottom: 1.5rem;
@@ -182,6 +275,13 @@
             display: flex;
             gap: 0.5rem;
             z-index: 99;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+
+        .bottom-nav.hidden {
+            opacity: 0;
+            pointer-events: none;
+            transform: translate(-50%, 20px);
         }
 
         .bottom-nav button {
@@ -218,6 +318,9 @@
             .header-container .title {
                 display: none;
             }
+            .novel-title {
+                font-size: 2rem;
+            }
         }
     </style>
 </head>
@@ -225,20 +328,49 @@
 
     <header>
         <div class="header-container">
-            <div class="title">The Grunt's Edge</div>
+            <div class="title" onclick="navigateToHome()">The Grunt's Edge</div>
             <div class="controls">
-                <select id="chapter-select" onchange="jumpToChapter(this.value)">
-                    </select>
+                <button id="home-nav-btn" onclick="navigateToHome()" style="display: none;">🏠 Home</button>
+                <select id="chapter-select" onchange="jumpToChapter(this.value)" style="display: none;">
+                </select>
                 <button onclick="toggleTheme()" id="theme-btn" title="Toggle Display Mode">☀️</button>
             </div>
         </div>
     </header>
 
     <main>
-        <div id="reader-content">Loading your manuscript chapter...</div>
+        <section id="homepage-view" class="view-section active-view">
+            <div class="novel-hero">
+                <h1 class="novel-title">The Grunt's Edge</h1>
+                <div class="novel-meta">Manuscript Repository & Web Reader</div>
+            </div>
+
+            <div class="novel-synopsis">
+                <h2 class="synopsis-heading">Synopsis</h2>
+                <p class="synopsis-text">
+                    A 20-year-old man named Eric, who was pulled from a fantasy world to Earth at age six and spent fourteen years as a disconnected outsider, is suddenly pulled back to his original world. He wakes naked in a forest, stumbles to a frontier village called Eastwood, and recovers under the care of a talkative girl named Lena.
+                    <br><br>
+                    Days later, a conscription order arrives. The village is too poor to pay the levy. The elder, Barrow, makes Eric a cold deal — volunteer for the army, and they'll claim he's from Eastwood. No questions about his past. Eric accepts not out of cour  age but resignation.
+                    <br><br>
+                    He marches with other conscripts to a garrison city called Grayford. After two weeks of brutal training, he'll be sent to Fort Lowen on the north-east frontier, where monster activity is escalating. Deep in the forest lies an ancient elven ruin, newly exposed, leaking mana that draws monsters — and the attention of both the Empire and the elven kingdom of the Sylvan Reach.
+                    <br><br>
+                    Eric is not the hero of this story. He's an observer — a Tier 1 soldier who will never reach the heights of the heroes he hears about in camp rumors and tavern talk. The story follows his survival, his quiet observations, and the slow realization that the systems running the war matter more than any legendary individual.
+                </p>
+            </div>
+
+            <div class="toc-container">
+                <h2 class="toc-heading">Table of Contents</h2>
+                <ul id="homepage-chapter-list" class="chapter-list">
+                    </ul>
+            </div>
+        </section>
+
+        <section id="reader-view" class="view-section">
+            <div id="reader-content">Loading your manuscript chapter...</div>
+        </section>
     </main>
 
-    <div class="bottom-nav">
+    <div id="floating-nav" class="bottom-nav hidden">
         <button id="prev-btn" onclick="changeChapter(-1)" disabled>← Prev</button>
         <button id="next-btn" onclick="changeChapter(1)" disabled>Next →</button>
     </div>
@@ -256,21 +388,76 @@
 
         let currentChapterIndex = 0;
 
-        // Initialize App & Elements
+        // Initialize App Elements
+        const homepageView = document.getElementById('homepage-view');
+        const readerView = document.getElementById('reader-view');
+        
         const contentDiv = document.getElementById('reader-content');
         const prevBtn = document.getElementById('prev-btn');
         const nextBtn = document.getElementById('next-btn');
         const selectMenu = document.getElementById('chapter-select');
+        const homeNavBtn = document.getElementById('home-nav-btn');
+        const floatingNav = document.getElementById('floating-nav');
+        const homepageChapterList = document.getElementById('homepage-chapter-list');
 
-        // Render drop-down index options dynamically
-        function initDropdown() {
+        // Render drop-down index options and homepage table of contents dynamically
+        function initNavigationComponents() {
             selectMenu.innerHTML = '';
+            homepageChapterList.innerHTML = '';
+
             CHAPTER_REGISTRY.forEach((filename, index) => {
+                const cleanName = filename.replace('.md', '');
+                
+                // 1. Populate Header Select dropdown
                 const opt = document.createElement('option');
                 opt.value = index;
-                opt.textContent = filename.replace('.md', '');
+                opt.textContent = cleanName;
                 selectMenu.appendChild(opt);
+
+                // 2. Populate Homepage Index List
+                const li = document.createElement('li');
+                li.className = 'chapter-card-item';
+                
+                const a = document.createElement('a');
+                a.href = '#';
+                a.className = 'chapter-link';
+                a.textContent = cleanName;
+                a.onclick = (e) => {
+                    e.preventDefault();
+                    loadChapter(index);
+                };
+                
+                li.appendChild(a);
+                homepageChapterList.appendChild(li);
             });
+        }
+
+        // View switching state management engine
+        function switchView(target) {
+            if (target === 'home') {
+                homepageView.classList.add('active-view');
+                readerView.classList.remove('active-view');
+                
+                // Hide reader controls from header & page footer
+                selectMenu.style.display = 'none';
+                homeNavBtn.style.display = 'none';
+                floatingNav.classList.add('hidden');
+                
+                localStorage.removeItem('grunts_edge_last_index');
+            } else if (target === 'reader') {
+                homepageView.classList.remove('active-view');
+                readerView.classList.add('active-view');
+                
+                // Reveal functional reader navigation assets
+                selectMenu.style.display = 'inline-block';
+                homeNavBtn.style.display = 'inline-flex';
+                floatingNav.classList.remove('hidden');
+            }
+        }
+
+        function navigateToHome() {
+            switchView('home');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         // Asynchronously load the raw Markdown manuscript from GitHub
@@ -279,6 +466,9 @@
             
             currentChapterIndex = index;
             const fileName = CHAPTER_REGISTRY[index];
+            
+            // Switch view into reading mode pipeline
+            switchView('reader');
             
             // Construct the live path to your raw GitHub files
             const baseGitHubURL = "https://raw.githubusercontent.com/ashrafkamarudin/The-Grunt-s-Edge/main/Chapters/";
@@ -342,7 +532,7 @@
 
         // Run bootstrap configuration setup on page ready triggers
         window.addEventListener('DOMContentLoaded', () => {
-            initDropdown();
+            initNavigationComponents();
             
             if (localStorage.getItem('grunts_edge_theme') === 'light') {
                 toggleTheme();
@@ -352,7 +542,7 @@
             if (savedIndex !== null && savedIndex >= 0 && savedIndex < CHAPTER_REGISTRY.length) {
                 loadChapter(parseInt(savedIndex, 10));
             } else {
-                loadChapter(0);
+                switchView('home');
             }
         });
     </script>
