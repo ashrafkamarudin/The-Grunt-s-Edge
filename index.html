@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Grunt's Edge - Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            /* Muted, desaturated dark theme optimized for long reading sessions */
+            --bg-color: #16191b;
+            --surface-color: #1f2326;
+            --border-color: #2e3438;
+            --text-primary: #d1d5db;
+            --text-secondary: #9ca3af;
+            --accent-color: #8ab4f8;
+            --accent-hover: #aecbfa;
+            --font-serif: 'Lora', Georgia, serif;
+            --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+        }
+
+        /* Light Mode overrides if someone prefers crisp white/cream */
+        body.light-theme {
+            --bg-color: #f7f5f0;
+            --surface-color: #ffffff;
+            --border-color: #e4e2dc;
+            --text-primary: #2b2e30;
+            --text-secondary: #616569;
+            --accent-color: #3b66ad;
+            --accent-hover: #254a85;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--font-sans);
+            transition: background-color 0.3s ease, color 0.3s ease;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        /* Top Header Navigation */
+        header {
+            position: sticky;
+            top: 0;
+            background-color: var(--bg-color);
+            border-bottom: 1px solid var(--border-color);
+            z-index: 100;
+            padding: 0.75rem 1rem;
+            backdrop-filter: blur(8px);
+        }
+
+        .header-container {
+            max-width: 720px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .title {
+            font-size: 1rem;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+        }
+
+        .controls {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        button {
+            background-color: var(--surface-color);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-family: var(--font-sans);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            user-select: none;
+        }
+
+        button:hover:not(:disabled) {
+            border-color: var(--accent-color);
+            color: var(--accent-color);
+        }
+
+        button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        select {
+            background-color: var(--surface-color);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem 2rem 0.5rem 0.75rem;
+            border-radius: 6px;
+            font-family: var(--font-sans);
+            font-size: 0.875rem;
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%239ca3af' viewBox='0 0 24 24'><path d='M7 10l5 5 5-5z'/></svg>");
+            background-repeat: no-repeat;
+            background-position: right 0.5rem center;
+        }
+
+        /* Reading Canvas Layout */
+        main {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 2.5rem 1.25rem 6rem 1.25rem;
+        }
+
+        #reader-content {
+            font-family: var(--font-serif);
+            font-size: 1.15rem;
+            letter-spacing: -0.01em;
+            word-break: break-word;
+        }
+
+        /* Light Novel Content Typography Formatting Rules */
+        #reader-content h1 {
+            font-family: var(--font-sans);
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 2rem;
+            line-height: 1.25;
+            color: var(--accent-color);
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 0.75rem;
+        }
+
+        #reader-content p {
+            margin-bottom: 1.5rem;
+            text-align: justify;
+        }
+
+        /* Formatting for Internal Thoughts / Dialogue tags used in drafts */
+        #reader-content em, #reader-content p:has(> em:only-child) {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        /* Line separators/scenery transitions */
+        #reader-content hr {
+            border: 0;
+            height: 1px;
+            background: var(--border-color);
+            margin: 2.5rem 0;
+            text-align: center;
+        }
+
+        /* Bottom Sticky/Floating Quick Nav Bar */
+        .bottom-nav {
+            position: fixed;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: var(--surface-color);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem;
+            border-radius: 30px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+            display: flex;
+            gap: 0.5rem;
+            z-index: 99;
+        }
+
+        .bottom-nav button {
+            border-radius: 20px;
+            padding: 0.5rem 1.25rem;
+        }
+
+        /* Error/Fallback State UI Styling */
+        .error-box {
+            background-color: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.2);
+            color: #f87171;
+            padding: 1.5rem;
+            border-radius: 8px;
+            font-family: var(--font-sans);
+            font-size: 0.95rem;
+            margin-top: 2rem;
+        }
+
+        .error-box code {
+            display: block;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 0.5rem;
+            margin-top: 0.75rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        /* Responsive scaling adjustments */
+        @media (max-width: 480px) {
+            #reader-content {
+                font-size: 1.05rem;
+            }
+            .header-container .title {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+            <div class="title">The Grunt's Edge</div>
+            <div class="controls">
+                <select id="chapter-select" onchange="jumpToChapter(this.value)">
+                    </select>
+                <button onclick="toggleTheme()" id="theme-btn" title="Toggle Display Mode">☀️</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="reader-content">Loading your manuscript chapter...</div>
+    </main>
+
+    <div class="bottom-nav">
+        <button id="prev-btn" onclick="changeChapter(-1)" disabled>← Prev</button>
+        <button id="next-btn" onclick="changeChapter(1)" disabled>Next →</button>
+    </div>
+
+    <script>
+        // --- MANUSCRIPT ARCHIVE ARCHITECTURE CONFIGURATION ---
+        // List out your chapters explicitly matching your file system names exactly.
+        // Paths will automatically prepend 'Chapters/' when requested.
+        const CHAPTER_REGISTRY = [
+            "Chapter 1.md",
+            "Chapter 2.md",
+            "Chapter 3.md",
+            "Chapter 4.md",
+            "Chapter 5.md",
+            "Chapter 6.md"
+        ];
+
+        let currentChapterIndex = 0;
+
+        // Initialize App & Elements
+        const contentDiv = document.getElementById('reader-content');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const selectMenu = document.getElementById('chapter-select');
+
+        // Render drop-down index options dynamically
+        function initDropdown() {
+            selectMenu.innerHTML = '';
+            CHAPTER_REGISTRY.forEach((filename, index) => {
+                const opt = document.createElement('option');
+                opt.value = index;
+                // Prettify string name: "Chapter 1.md" -> "Chapter 1"
+                opt.textContent = filename.replace('.md', '');
+                selectMenu.appendChild(opt);
+            });
+        }
+
+        // Asynchronously load the raw Markdown manuscript page via Fetch APIs
+        async function loadChapter(index) {
+            if (index < 0 || index >= CHAPTER_REGISTRY.length) return;
+            
+            currentChapterIndex = index;
+            const fileName = CHAPTER_REGISTRY[index];
+            // Encode URI to safely handle empty spaces in filenames (e.g., 'Chapter 1.md')
+            const targetURL = `Chapters/${encodeURIComponent(fileName)}`;
+
+            contentDiv.innerHTML = `<p style="text-align: center; color: var(--text-secondary);">Recalling entries from database cache...</p>`;
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+
+            try {
+                const response = await fetch(targetURL);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP Status ${response.status} - Unable to access file at path: ${targetURL}`);
+                }
+
+                const rawMarkdown = await response.text();
+                
+                // Parse markdown content safely to compiled layout using marked.js
+                contentDiv.innerHTML = marked.parse(rawMarkdown);
+                
+                // Keep dropdown sync locked with navigation actions
+                selectMenu.value = index;
+                
+                // Mutate button state rules
+                prevBtn.disabled = (index === 0);
+                nextBtn.disabled = (index === CHAPTER_REGISTRY.length - 1);
+                
+                // Push current reading track state up to LocalStorage cache
+                localStorage.setItem('grunts_edge_last_index', index);
+
+            } catch (err) {
+                contentDiv.innerHTML = `
+                    <div class="error-box">
+                        <strong>⚠️ Manuscript Fetch Error</strong>
+                        <p>GitHub Pages failed to resolve your document. Verify that your chapter files are stored inside a folder named exactly <code>Chapters</code> (case-sensitive) at the root level of your repo, and check that filenames match your script registry arrays.</p>
+                        <code>Error Details: ${err.message}</code>
+                    </div>
+                `;
+                prevBtn.disabled = (index === 0);
+                nextBtn.disabled = (index === CHAPTER_REGISTRY.length - 1);
+            }
+        }
+
+        // Relative navigation button actions (-1 or +1)
+        function changeChapter(direction) {
+            const newIndex = currentChapterIndex + direction;
+            loadChapter(newIndex);
+        }
+
+        // Absolute navigation dropdown jumps
+        function jumpToChapter(indexValue) {
+            loadChapter(parseInt(indexValue, 10));
+        }
+
+        // Display styling theme states toggle
+        function toggleTheme() {
+            const isLight = document.body.classList.toggle('light-theme');
+            document.getElementById('theme-btn').textContent = isLight ? '🌙' : '☀️';
+            localStorage.setItem('grunts_edge_theme', isLight ? 'light' : 'dark');
+        }
+
+        // Run bootstrap configuration setup on page ready triggers
+        window.addEventListener('DOMContentLoaded', () => {
+            initDropdown();
+            
+            // Rehydrate past session settings (Theme + Last Read location tracking)
+            if (localStorage.getItem('grunts_edge_theme') === 'light') {
+                toggleTheme();
+            }
+            
+            const savedIndex = localStorage.getItem('grunts_edge_last_index');
+            if (savedIndex !== null && savedIndex >= 0 && savedIndex < CHAPTER_REGISTRY.length) {
+                loadChapter(parseInt(savedIndex, 10));
+            } else {
+                loadChapter(0); // Default home landing page
+            }
+        });
+    </script>
+</body>
+</html>
