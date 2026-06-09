@@ -245,8 +245,6 @@
 
     <script>
         // --- MANUSCRIPT ARCHIVE ARCHITECTURE CONFIGURATION ---
-        // List out your chapters explicitly matching your file system names exactly.
-        // Paths will automatically prepend 'Chapters/' when requested.
         const CHAPTER_REGISTRY = [
             "Chapter 1.md",
             "Chapter 2.md",
@@ -270,20 +268,21 @@
             CHAPTER_REGISTRY.forEach((filename, index) => {
                 const opt = document.createElement('option');
                 opt.value = index;
-                // Prettify string name: "Chapter 1.md" -> "Chapter 1"
                 opt.textContent = filename.replace('.md', '');
                 selectMenu.appendChild(opt);
             });
         }
 
-        // Asynchronously load the raw Markdown manuscript page via Fetch APIs
+        // Asynchronously load the raw Markdown manuscript from GitHub
         async function loadChapter(index) {
             if (index < 0 || index >= CHAPTER_REGISTRY.length) return;
             
             currentChapterIndex = index;
             const fileName = CHAPTER_REGISTRY[index];
-            // Encode URI to safely handle empty spaces in filenames (e.g., 'Chapter 1.md')
-            const targetURL = `Chapters/${encodeURIComponent(fileName)}`;
+            
+            // Construct the live path to your raw GitHub files
+            const baseGitHubURL = "https://raw.githubusercontent.com/ashrafkamarudin/The-Grunt-s-Edge/main/Chapters/";
+            const targetURL = `${baseGitHubURL}${encodeURIComponent(fileName)}`;
 
             contentDiv.innerHTML = `<p style="text-align: center; color: var(--text-secondary);">Recalling entries from database cache...</p>`;
             window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -314,7 +313,7 @@
                 contentDiv.innerHTML = `
                     <div class="error-box">
                         <strong>⚠️ Manuscript Fetch Error</strong>
-                        <p>GitHub Pages failed to resolve your document. Verify that your chapter files are stored inside a folder named exactly <code>Chapters</code> (case-sensitive) at the root level of your repo, and check that filenames match your script registry arrays.</p>
+                        <p>Failed to resolve your document from GitHub. Verify that your file names match your script registry arrays exactly (case-sensitive) and that your repository is set to <strong>Public</strong>.</p>
                         <code>Error Details: ${err.message}</code>
                     </div>
                 `;
@@ -323,7 +322,7 @@
             }
         }
 
-        // Relative navigation button actions (-1 or +1)
+        // Relative navigation button actions
         function changeChapter(direction) {
             const newIndex = currentChapterIndex + direction;
             loadChapter(newIndex);
@@ -345,7 +344,6 @@
         window.addEventListener('DOMContentLoaded', () => {
             initDropdown();
             
-            // Rehydrate past session settings (Theme + Last Read location tracking)
             if (localStorage.getItem('grunts_edge_theme') === 'light') {
                 toggleTheme();
             }
@@ -354,7 +352,7 @@
             if (savedIndex !== null && savedIndex >= 0 && savedIndex < CHAPTER_REGISTRY.length) {
                 loadChapter(parseInt(savedIndex, 10));
             } else {
-                loadChapter(0); // Default home landing page
+                loadChapter(0);
             }
         });
     </script>
