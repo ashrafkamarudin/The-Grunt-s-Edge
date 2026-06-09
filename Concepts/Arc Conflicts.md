@@ -14,9 +14,21 @@ Eric is part of this wave.
 
 ---
 
-## 2nd Arc — Fort Life & Monster Patrols
+## Chapter Breakdown
 
-**Core situation:** Eric arrives at the north-east garrison fort. The fort is under pressure from monster activity driven by the ruins. Patrols, skirmishes, and defense duty.
+| Chapter | Content |
+|---------|---------|
+| Ch 5 | Journey to Grayford — gathering point, other riders and conscripts, week-long march |
+| Ch 6 | Grayford — training (first week), equipment, drills |
+| Ch 7 | Grayford — training (second week), last night, march to Fort Lowen, arrival |
+
+Eric is average throughout training. He does not distinguish himself. Squadmates rotate — replacements come daily. He stops learning names.
+
+---
+
+## 2nd Arc — Fort Lowen & Monster Patrols
+
+**Core situation:** Eric arrives at Fort Lowen (named after a past Hero-governor). The fort is under pressure from monster activity driven by the ruins. Patrols, skirmishes, and defense duty.
 
 **The ruins:** A known objective, but unreachable. The forest between the fort and the ruins is dense monster territory. No direct conflict with the Sylvan Reach yet — the monsters are the immediate enemy.
 
