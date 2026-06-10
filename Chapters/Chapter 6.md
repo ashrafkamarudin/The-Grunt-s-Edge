@@ -356,9 +356,15 @@ I file it away.
 
 *"Mess hall. You eat when food's served. If you're late, you don't eat."*
 
-We file into the mess hall — a long building with benches and tables. A bowl of porridge, thin and grey, with a piece of dark bread. I eat without tasting it. Around me, conscripts eat the same way. Fast. Quiet. Not looking up.
+We file into the mess hall — a long building with benches and tables. A bowl of porridge, thick and warm, with a piece of dark bread and a strip of dried meat. I eat slower than I expected to. Low murmurs around me.
 
-Halfway through the meal, a man a few tables over stands up. Pushes his bowl away. He's muttering something — I don't catch it. A soldier behind him says something low. The man doesn't sit down.
+A conscript across the table looks at his portion. *"Not bad. Thought they'd give us scraps."*
+
+Someone else grunts in agreement. Another one — younger, the one who was limping during the march — almost smiles. *"Maybe it won't be so bad here."*
+
+No one argues. It's not much — I'm not full when I finish — but it's more than I thought they'd give us.
+
+Then a few tables over, a man stands up. Pushes his bowl off the table. He's muttering something — I don't catch it. A soldier behind him says something low. The man doesn't sit down.
 
 Two soldiers lift him by the arms and drag him out. His heels scrape across the stone floor. The bowl stays on the table. No one touches it.
 
