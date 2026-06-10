@@ -90,6 +90,16 @@ I feel something — a flicker of guilt, the urge to say something — but my bo
 
 I eat what's mine without looking up again.
 
+Across the room, someone stands up. I don't look at first — I don't want to see the bully again — but the movement draws my eye anyway. It's not the bully. It's Darrin.
+
+He walks past my spot without looking at me. He stops at the smaller man's table and sets down a piece of bread from his own portion — not dramatic, just a quiet act. Then he walks back to his seat without saying a word.
+
+The bully watches him go. Says nothing.
+
+Darrin sits down like nothing happened.
+
+I stare at my empty bowl. I don't know what to make of it.
+
 ---
 
 Later, lying in the dark, I listen to the barracks settle around me. Men lie awake — I can tell by the rhythm of their breathing. Someone nearby is massaging his hands slowly, methodically, like he's trying to convince them to work again tomorrow. Someone else is breathing too hard to sleep, trying to slow it down, failing.
