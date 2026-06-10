@@ -6,7 +6,7 @@ The Camera is Anchored Inward: The entire narrative must be strictly written fro
 
 Strict Narrative Limitations: There is no omniscient knowledge. If I am a low-ranking grunt or an outsider, I do not know the grand strategy of the commanders, the exact mechanics of distant threats, or what is happening beyond my immediate sight, hearing, smell, or touch.
 
-वर्ल्डव्यू (Worldview) Filter: The internal descriptions, terms, and metaphors must naturally reflect my unique past—combining fourteen years of modern common sense, practical earth logic, and structural analysis with the raw survival anxieties of a brutal fantasy world.
+(Worldview) Filter: The internal descriptions, terms, and metaphors must naturally reflect my unique past—combining fourteen years of modern common sense, practical earth logic, and structural analysis with the raw survival anxieties of a brutal fantasy world.
 
 Dynamic Dialogue & Variable Prose Rhythm Rules
 Prose must maintain a heavy balance of visceral physical action, detailed internal monologues, and highly adaptive situational dialogue.
