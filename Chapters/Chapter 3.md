@@ -160,9 +160,9 @@ A pause.
 
 She presses the linen down one more time. Lets go.
 
-I don't know why I say it. The words come out before I think about them.
-
 *"Mine hummed."*
+
+I don't know why I say it. The words come out before I think about them.
 
 She stops. Looks at me.
 
