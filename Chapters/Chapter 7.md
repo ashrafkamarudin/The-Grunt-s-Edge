@@ -1,6 +1,8 @@
 # Chapter 7 — Shield Line
 
-The morning starts before the sun. We're marched to the training yard and stopped in front of a stack of shields, wooden and tall, piled on the ground like leftover scrap. No one hands them out and no one tells us to take one — we just stand there until someone at the front realizes what's expected and bends down to grab one, and then the rest of us follow.
+The morning starts before the sun.
+
+Right after waking up, we're marched to the training yard and stopped in front of a stack of shields, wooden and tall, piled on the ground like leftover scrap. No one hands them out and no one tells us to take one — we just stand there until someone at the front realizes what's expected and bends down to grab one, and then the rest of us follow.
 
 I pick mine up by the grip and my arm drops before I'm ready, the weight pulling my shoulder down hard until I adjust and lift again, doable but barely. The shield is heavier than it looks — tall enough to reach past my ribs, with a slight curve to the front and iron banding along the top and bottom edges. The wood is thick enough that I can't feel my fingers through it. It's not a soldier's shield. It's a wall on a handle.
 
@@ -8,9 +10,19 @@ Around me men struggle with theirs — one nearly tips over from the weight, ano
 
 After we've all picked up our shields, a soldier walks down the line and drops a short sword at each of our feet — no sheath, no instruction, just the blade on the ground in front of us — and we bend down to pick it up ourselves. I hold the sword in one hand and the shield in the other, knowing nothing about either of them.
 
-The only instruction comes from an instructor who doesn't introduce himself.
+The instructor walks to the stack of shields without saying a word. He picks one up, plants his feet, and raises it chest-high — the edge at eye level, his body solid behind it. He holds it there for a few seconds, then drops it. The clatter echoes across the yard.
 
-*"Hold the line. Don't break formation."*
+He walks back to the front and turns to face us. His voice carries across the whole yard.
+
+*"Raise your shields! Shoulder to shoulder!"*
+
+He gestures at the space between us.
+
+*"That is your line! Hold it for dear life! Don't break formation!"*
+
+He waits.
+
+*"This is all you will learn for these two weeks. So focus."*
 
 ---
 
@@ -98,7 +110,7 @@ Sleep comes eventually. Then morning. Then another morning. They start to blur t
 
 My body adapts — I'm stronger, I can hold the shield longer without my arm shaking — but underneath it the fatigue is permanent, never fully resetting, so I go to sleep tired and wake up tired and the tiredness becomes the baseline I operate from. The instructor demonstrates a stabbing motion once — a short push forward with no wind-up, the blade finding an invisible gap. Then we do it over and over. Not enough to master it. But enough to know which way the blade points when the shield comes down.
 
-The men around me have changed too, quieter and more mechanical, not talking during meals anymore.
+The men around me have changed too, quieter and more mechanical, not talking during meals anymore. I see Darrin once during a formation break — further down the line, shield lowered, face blank with exhaustion. He looks like everyone else. Our eyes meet. He nods. I nod back. That's it.
 
 I start noticing the structure underneath the drills. He prioritizes the line above everything else; when someone collapses, he corrects the gap instead of the person because the individual doesn't matter but the shape does. The edges suffer most and the center survives most, the line rotating implicitly — not taught, just absorbed through repetition. I don't fully understand what I'm seeing, but I sense it.
 
@@ -158,12 +170,12 @@ I stand there looking at the training yard, the packed dirt and the worn posts a
 
 *'We didn't finish. We got reassigned mid-process.'*
 
-I walk back to the barracks.
+*'...and we didn't even get a day to rest.'*
+
+I walk back to the barracks after that.
 
 ---
 
 Packing takes no time — I own nothing except what I'm carrying, shield and sword and token and clothes — so I tie the bundle and sit on my bunk while other men do the same around me. No one talks or celebrates or argues because there's nothing to argue about; the decision was made somewhere above us and we're just the bodies that move.
 
 We march out before dawn through the dark streets of Grayford until the gates open and we step through them — the same gate we entered ten days ago. The soldier from the latrines never reappeared. I didn't expect him to. I look back once, but the training yard is somewhere behind those walls and I can't see it anymore, so I turn forward and keep walking.
-
-*'So this was never the end of preparation. Just a transfer point.'*

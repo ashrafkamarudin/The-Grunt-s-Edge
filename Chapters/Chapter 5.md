@@ -18,7 +18,7 @@ We walk.
 
 The rider leads. The three of us fall in behind him. The younger one walks ahead of me. The square-jawed one drops back after a while and looks at me.
 
-*"You from Eastwood?"*
+*"Hey, you from Eastwood?"*
 
 *"Yeah."*
 
@@ -38,7 +38,11 @@ I look at Tomas again. Still checking his pocket.
 
 *"His father was angry,"* Darrin adds. *"Mother cried at the gate."*
 
-I don't know what to say to that. Neither does he, apparently. We walk in silence for a while.
+I don't know what to say to that. Neither does he, apparently.
+
+*"...I'm Eric."*
+
+He nods. We walk in silence for a while.
 
 ---
 
@@ -308,4 +312,4 @@ Somehow, we made it.
 
 I keep my face still. But inside, something loosens. Just a little.
 
-I step through the gate.
+I steel myself and step through the gate.

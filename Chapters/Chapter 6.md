@@ -26,13 +26,13 @@ I stop walking for a second. Just one.
 
 *'...looks like medieval Europe.'*
 
-The words come out without thinking. No one hears. I don't even know why I said it.
+The words come out without thinking. Luckily, no one hears. I don't even know why I said it.
 
-A rider calls something. The column moves again. I follow.
+A rider calls something. The column moves again and I follow.
 
 ---
 
-We're led to an open square. A table set up near the center, with a clerk sitting behind it and a ledger open in front of him. A charcoal board beside him with numbers and tallies I can't read from here.
+We're led to an open square. A table set up near the center, with a clerk sitting behind it and a ledger open in front of him. A charcoal board beside him with numbers and tallies I can't read from here. Not that I really care.
 
 One by one, we're called forward.
 
@@ -192,7 +192,7 @@ I don't know if I'll sleep. I don't know if I want to.
 
 ---
 
-I don't remember falling asleep. But when the door slams open and metal hits the first bedpost, I'm awake.
+Morning Came. I don't remember falling asleep. But when the door slams open and metal hits the first bedpost, I'm awake.
 
 Two soldiers move through the barracks, banging on bunks with sticks, shouting. *"Up! Up! Move your feet!"* The noise is everywhere — metal on wood, boots on stone, voices overlapping. I'm off my bunk before I know I'm moving. My right foot hits the ground and I feel the blister — a sharp reminder that yesterday wasn't a dream.
 
