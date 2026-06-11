@@ -20,17 +20,27 @@ Nobody looked down to check their grip.
 
 Nobody hesitated.
 
-They just did it. '...they're not thinking about it anymore.'
+They just did it. *'...they're not thinking about it anymore.'*
+
+Gren and Larris are already there. I almost don't recognize them at first.
+
+Gren's arm is wrapped tighter than before, movement slightly stiff at the shoulder. Larris looks worse — still quiet, but now with a faint limp that doesn't quite disappear when he walks.
+
+No one announces them. They just… reappear in formation like they were always part of it.
+
+Gren notices my glance and gives a short nod.
+
+Not friendly. Not cold either.
 
 Corbin moves through them, sometimes facilitating, sometimes joining in. He doesn't look impressive. That's what stands out. The officer at Grayford wanted to look strong. Corbin just looks like a man doing a job he's done too many times. 
 
 Then the formation shifts. A command is given. Every shield locks together. The line becomes a wall. For a moment, I can almost imagine something slamming into it from the other side. Nobody moves. Nobody breaks.
 
-'...oh.'
+*'...oh.'*
 
 Suddenly the drills from Grayford don't seem quite as pointless.
 
-Suddenly, Wells mutters beside me. Not loud, but enough.
+Wells mutters beside me. Not loud, but enough.
 
 *"Do we... have to train even here? I don't want to."*
 
@@ -62,9 +72,9 @@ I don’t mean “alone” like no one is with him. I mean it like no one belong
 
 I realize I’ve been watching for too long when suddenly Darrin walks past me and stops in front of him.
 
-"Train me."
+*"Train me."*
 
-Corbin doesn’t stop moving. "No."
+Corbin doesn’t stop moving. *"No."*
 
 No irritation. No interest. Just refusal.
 
@@ -78,6 +88,8 @@ Same answer. *"No."*
 
 That’s it. No explanation. No change in tone.
 
+---
+
 That evening, Sutter speaks while eating. Not to anyone in particular.
 
 "Might not be a bad idea," he says, chewing slowly.
@@ -87,19 +99,19 @@ No one responds. Corbin doesn't even look up, he just.. continues eating.
 
 The following morning, after squad training, Corbin finally stops Darrin. He studies him for a moment.
 
-Then, "Fine."
+Then, *"Fine."*
 
 A pause.
 
-"Don’t waste my time."
+*"Don’t waste my time."*
 
 Darrin nods once. That’s enough.
 
 Eric steps forward.
 
-"Can I join too?"
+*"Can I join too?"*
 
-Corbin glances at him briefly. "Fine." Then, after a beat: "Same rule."
+Corbin glances at him briefly. *"Fine."* Then, after a beat: *"Same rule."*
 
 He doesn't explain what the rule is. He doesn't need to.
 
@@ -113,27 +125,27 @@ At one point, Eric pushes too hard. Then Darrin matches it. They don't talk abou
 
 The next round is worse. Breathing gets heavier. Movements start to lag. Corbin stops the formation. Not sharply. Just raises a hand. Everyone freezes. He looks at them for a moment. Then speaks.
 
-"That’s enough."
+*"That’s enough."*
 
 A pause.
 
-Then, quieter: "Training when you’re exhausted doesn't build anything."
+Then, quieter: *"Training when you’re exhausted doesn't build anything."*
 
 He taps the shaft of his spear lightly against the ground.
 
-"It breaks what you already learned."
+*"It breaks what you already learned."*
 
 He looks at Darrin. Then Eric. Then the rest.
 
-"Save something for tomorrow."
+*"Save something for tomorrow."*
 
 A longer pause. Then, like it's just fact:
 
-"You don't get stronger by emptying yourself every day."
+*"You don't get stronger by emptying yourself every day."*
 
 He turns away.
 
-"You get stronger by still being able to move the next day."
+*"You get stronger by still being able to move the next day."*
 
 ...
 
@@ -150,30 +162,30 @@ The days settle into a rhythm - Squad training at dawn. Individual drills after.
 
 Over meals, the tent slowly finds its voice. Renn is usually the first to speak. Not because he has anything important to say, but because silence makes everything worse.
 
-"So, new guy," he says one morning, pointing his spoon at Eric. "You planning to survive longer than a week or are you just here to make the rest of us look better?"
+*"So, new guy,"* he says one morning, pointing his spoon at Eric. *"You planning to survive longer than a week or are you just here to make the rest of us look better?"*
 
 A few chuckles ripple through the tent.
 
-Eric just looks down at his bowl. "Planning to survive."
+Eric just looks down at his bowl. *"Planning to survive."*
 
-"Bold strategy," Renn nods solemnly. "I respect it."
+"Bold strategy," Renn nods solemnly. *"I respect it."*
 
-Mila leans back on her elbows like she owns the place, grinning even with porridge on her lip. "Ignore him," she says to Eric. "He says that to everyone. I think he’s just jealous you’re younger."
+Mila leans back on her elbows like she owns the place, grinning even with porridge on her lip. *"Ignore him,"* she says to Eric. *"He says that to everyone. I think he’s just jealous you’re younger."*
 
-Renn gasps. "I’m in my prime."
+Renn gasps. *"I’m in my prime."*
 
-"You’re in your decline," Mila shoots back instantly.
+*"You’re in your decline,"* Mila shoots back instantly.
 
 That gets a real laugh from Sutter.
 
 Then, Renn talks about Fallmoor. Not like it’s gone. Not like it’s precious. Like it’s just… inconveniently far away.
 
-"It’s way out past Grayford," he says one evening, pushing his food around.
-"So far out you start wondering if maps just give up halfway."
+*"It’s way out past Grayford,"* he says one evening, pushing his food around.
+*"So far out you start wondering if maps just give up halfway."*
 
 He grins faintly.
 
-"Good place to be from, though. Less people telling you what to do."
+*"Good place to be from, though. Less people telling you what to do."*
 
 No one argues with that.
 
@@ -185,29 +197,29 @@ That gets a couple quiet laughs.
 
 Sutter doesn’t speak much, but when he does, it lands.
 
-"Farmoor’s got better food than this," he says one morning, poking at the mess with his spoon.
+*"Farmoor’s got better food than this,"* he says, poking at the mess with his spoon.
 
-Renn freezes. "Why do you know that?"
+Renn freezes. *"Why do you know that?"*
 
-"I passed through once," Sutter replies. "Your bread was too honest."
+*"I passed through once,"* Sutter replies. *"Your bread was too honest."*
 
 That becomes a running joke for days.
 
-"Farmoor bread hit harder than training," Mila repeats later, laughing.
+*"Farmoor bread hit harder than training,"* Mila repeats later, laughing.
 
 Renn never lets it go.
 
-"I feel personally attacked by a man who doesn’t even live there anymore."
+*"I feel personally attacked by a man who doesn’t even live there anymore."*
 
 Pell mostly listens. He doesn’t interrupt. But sometimes he adds a word at exactly the right time.
 
 Someone complains about boots.
 
-Pell: "Sucks."
+*"Sucks."*
 
 Someone talks about sleep.
 
-Pell: "Rare."
+*"Rare."*
 
 No one ever questions it. It fits him.
 
@@ -231,7 +243,7 @@ For a moment, none of the newbies move.
 
 Wells is staring at the tent wall like it might explain itself. Darrin has frozen mid-step, one hand still on his strap. I’m holding my spear, and I don’t remember picking it up.
 
-‘What—’
+*‘What—’*
 
 Then the tent breaks.
 
@@ -241,7 +253,7 @@ It snaps into motion.
 
 The veterans are already moving — gear in hands, shields strapped, bodies slipping past us like we’re not even there yet. Gren almost knocks Wells flat reaching for his kit. Mila brushes past me and drives her boot into mine just enough to jolt me back into my body.
 
-"Move!"
+*"Move!"*
 
 Corbin’s voice cuts through it all.
 
@@ -249,7 +261,7 @@ Not loud. Not commanding.
 
 Just someone who’s already accepted what’s coming.
 
-"Armor. Shields. Now."
+*"Armor. Shields. Now."*
 
 We spill out into the fort.
 
@@ -259,15 +271,15 @@ Horns sound again — shorter this time. Two sharp blasts from different directi
 
 Voices stack over voices.
 
-"Left flank forming!"
+*"Left flank forming!"*
 
-"Second line, tighten up!"
+*"Second line, tighten up!"*
 
-"Where’s support unit four? I said FOUR!"
+*"Where’s support unit four? I said FOUR!"*
 
 A rider cuts through the yard, shouting without slowing down.
 
-"Move to wall sectors! Don’t clog the gate!"
+*"Move to wall sectors! Don’t clog the gate!"*
 
 Someone else screams back, unintelligible except for anger.
 
@@ -279,7 +291,7 @@ No one is guiding us gently anymore — just redirecting pressure.
 
 A conscript in front of me is grabbed by the shoulder and shoved sideways into formation like a piece in the wrong place.
 
-"Left flank! LEFT FLANK!"
+*"Left flank! LEFT FLANK!"*
 
 Corbin moves with us as we run.
 
@@ -287,7 +299,7 @@ Not leading — just staying close enough that the new ones don’t drift.
 
 His voice cuts through gaps between commands.
 
-"Forest Hounds. Pack units. Fast. They probe the line before committing."
+*"Forest Hounds. Pack units. Fast. They probe the line before committing."*
 
 Another horn blasts — closer this time.
 
@@ -295,7 +307,7 @@ Someone nearby swears under their breath.
 
 Corbin doesn’t look at them.
 
-"They will hit edges first. That’s where we are."
+*"They will hit edges first. That’s where we are."*
 
 We turn a corner into the forming line.
 
@@ -303,7 +315,7 @@ Ahead, shield walls are already assembling — uneven at first, then tightening 
 
 A commander somewhere yells again:
 
-"Hold the flank! If it breaks, we’re gone!"
+*"Hold the flank! If it breaks, we’re gone!"*
 
 No explanation of what “gone” means.
 
@@ -311,15 +323,15 @@ Everyone understands anyway.
 
 Corbin keeps speaking as we slot into position.
 
-"Don’t chase. Don’t break formation. If you move, you move together."
+*"Don’t chase. Don’t break formation. If you move, you move together."*
 
 A pause as he checks the line forming around us.
 
-"If you get ordered to shift — you shift. No thinking."
+*"If you get ordered to shift — you shift. No thinking."*
 
 His eyes flick down the row once.
 
-"For now — just follow."
+*"For now — just follow."*
 
 The fort becomes controlled panic.
 
@@ -355,7 +367,7 @@ Then me.
 
 A pause that feels longer than it is.
 
-"Stay alive."
+*"Stay alive."*
 
 No weight added. No promise behind it.
 
@@ -395,53 +407,53 @@ It feels necessary.
 
 Corbin’s voice cuts through one last time, low and steady.
 
-"Hold the shield."
+*"Hold the shield."*
 
 A pause.
 
-"Don’t let them break the edge."
+*"Don’t let them break the edge."*
 
 Another step as he adjusts his stance beside us.
 
-"You are not here to kill them."
+*"You are not here to kill them."*
 
 That makes the line tighten.
 
-"Don’t chase. Don’t break formation for kills. Your job is simple — push them inward."
+*"Don’t chase. Don’t break formation for kills. Your job is simple — push them inward."*
 
 His eyes track the movement in the treeline.
 
-"We funnel them. Keep pressure on the flank so they turn toward the center."
+*"We funnel them. Keep pressure on the flank so they turn toward the center."*
 
 A distant crash echoes from somewhere beyond the walls — the first contact on another sector.
 
 Corbin doesn’t look away.
 
-"If the edge collapses, they spill sideways. If they spill sideways, the center loses control."
+*"If the edge collapses, they spill sideways. If they spill sideways, the center loses control."*
 
 Silence tightens across the shield line.
 
 He taps his shield once.
 
-"If someone goes down — the gap is filled immediately."
+*"If someone goes down — the gap is filled immediately."*
 
 A beat.
 
-"Not because they don’t matter."
+*"Not because they don’t matter."*
 
 Another pause.
 
-"Because the shape matters more."
+*"Because the shape matters more."*
 
 That lands heavier than anything else.
 
 Corbin exhales once.
 
-"Keep the funnel intact."
+*"Keep the funnel intact."*
 
 Final glance down the line.
 
-"That’s all you are."
+*"That’s all you are."*
 
 The treeline shifts again.
 
