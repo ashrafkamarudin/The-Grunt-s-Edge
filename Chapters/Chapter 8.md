@@ -2,7 +2,7 @@
 
 Before the march, we're stopped at a supply depot near Grayford's gate. Armor is handed out — leather and iron, basic and worn, no one checking fit or size. I strap mine on as best I can. It shifts when I move. The edges dig into places I didn't know I had.
 
-We form up. A sergeant walks the line, stopping at each man. He checks the straps, glances at the shield, nods or grunts. No conversation — just verification.
+We form up while a sergeant walks the line, stopping at each man. He checks the straps, glances at the shield, nods or grunts. No conversation — just verification.
 
 When he reaches the front, he turns. *"Fort Lowen. Northeast frontier."* A pause. *"That's where you're going. When I say March, you move and you don't stop until we get there."*
 
@@ -10,7 +10,7 @@ He looks down the line.
 
 *"March."*
 
-The gates open. We move. Riders flank the column on both sides, guiding us forward, pushing stragglers back into formation with short shouts so no one falls behind. No one tries to.
+The gates open and we move. Riders flank the column on both sides, guiding us forward, pushing stragglers back into formation with short shouts so no one falls behind. No one really tries to.
 
 The march is shorter than the last one, but way harder. The armor straps cut into my shoulders within the first mile. I adjust them once, twice, a third time... and each shift only delays the burn, never fixes it. The spear shaft knocks against my thigh with every step, a constant rhythm I can't sync with, and no matter how I shift my grip or angle the head, it just keeps finding my bone. The men around me are no better — pulling at straps, shifting weight, muttering — but no one ever fully fixes the problem. We just find a way to carry it on until the march ends.
 
@@ -28,11 +28,15 @@ Fort Lowen comes into view slowly — walls of dark stone, a gate flanked by tor
 
 We pass through the gate.
 
-The first thing I notice is the smell — blood and mud and something else I can't place. The second thing is the bodies. A row of them laid out near the wall, covered with cloth that isn't quite long enough. Soldiers walk past them without looking. A man is being carried on a stretcher, his leg wrapped in red-stained linen, his eyes fixed on nothing.
+The first thing I notice is the sound of someone screaming, a high broken noise somewhere to the left that cuts off and starts again. Then there are boots running past before I can see who, and someone shouting for a stretcher. The column presses forward as there's no room to stop.
 
-I see a dead soldier near the path. Not laid out with the others — just lying where he fell, waiting. His eyes are open, not staring at anything, just open. A small pouch is clutched in his hand. A personal object no one has pried loose yet.
+*'What is this smell...'*
 
-My step falters. For a moment I can't move — chest tight, hands cold, the thought arriving before I can stop it: *'I'm going to end up like that.'* I look at the body and I see myself — same uniform, same dirt, same empty sky. I don't know if I can survive this. I don't know if anyone here can. We don't get enough training to prepare us for this.
+Then the smell hits. It reeks of blood and mud and something else I can't place and i almost puke back everything I ate that day. Then the bodies. Several rows of them laid out near the wall, covered with cloth that isn't quite long enough. Soldiers walk past them without looking. A man is being carried on a stretcher, his leg wrapped in red-stained linen, his eyes fixed on nothing. A medic crouches beside another man sitting against the wall, head in his hands, rocking slightly.
+
+I see a dead soldier near the path. Not laid out with the others but just lying where he fell, waiting. His eyes are open, not staring at anything, just open. A small pouch is clutched in his hand. A personal object no one has pried loose yet.
+
+My step falters. For a moment I can't move — chest tight, hands cold, the thought arriving before I can stop it: *'Am I going to end up like that?'* I look at the body and I see myself — same uniform, same dirt, same empty sky. I don't know if I can survive this. I don't get enough training to prepare me for this.
 
 Then the voices start around me — the choked sounds, the mutters, someone trying to turn back — and I realize I'm not alone in being afraid. That doesn't make me brave. It just makes me one of many.
 
@@ -50,7 +54,11 @@ I keep walking because there's no other choice.
 
 We stand in the yard for what feels like a long time.
 
-Injured soldiers are led past. Others sit against walls, being wrapped or left alone. A pair of soldiers walk past carrying a body between them. They lay it down near the row. One of them pulls a tag from the neck, glances at it, and calls something to a clerk. Then they flip the body over — face-down — and walk away to get the next one.
+Injured soldiers are led past. Others sit against walls, being wrapped or left alone. Someone nearby is crying. Not loud, just a broken sound that won't stop. A medic crouches beside a man on the ground, repeating *"Stay with me"* in a flat voice like he's said it a hundred times today.
+
+A few paces away, a clerk calls out numbers while another marks a board with charcoal. *"Fourteen dead. Twenty-three wounded. Three more from the east wall."* His voice is tired, routine. He could be reading a supply list.
+
+A pair of soldiers walk past carrying a body between them. They lay it down near the row. One of them pulls a tag from the neck, glances at it, and calls the name to the clerk. Then they flip the body over — face-down — and walk away to get the next one.
 
 The tag was the only time the man had a name after death. And it lasted about three seconds.
 
@@ -98,7 +106,7 @@ Corbin is in the center. No one introduces him as the leader. He just picks his 
 
 I take a spot near the edge of the tent. Darrin settles beside me. The third from our batch — someone mutters his name as *Wells* — finds a corner.
 
-A voice from inside — not Corbin, someone else. *"So you're the newbies joining us?"* Not hostile. Just tired. *"Welcome. Sit wherever. It's your tent too."*
+A voice from inside — not Corbin, someone else. *"Oh.. New faces. So you're the newbies joining us?"* Not hostile. Just tired. *"Welcome. Sit wherever. It's your tent now too."*
 
 A pause. Then someone asks, more casual than curious: *"So... what's your name?"*
 
@@ -118,7 +126,7 @@ He shifts, settling back against the canvas.
 
 He gestures with his chin around the tent.
 
-*"That's Sutter. He's been here the longest. Pell's the quiet one. Larris and Gren are over there. Mila doesn't talk much."*
+*"That's Sutter. He's been here the longest. Pell's the quiet one. Mila doesn't talk much."*
 
 He points toward the front.
 
