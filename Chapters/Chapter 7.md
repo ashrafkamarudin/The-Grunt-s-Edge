@@ -8,7 +8,7 @@ I pick mine up by the grip and my arm drops before I'm ready, the weight pulling
 
 Around me men struggle with theirs — one nearly tips over from the weight, another drags his across the ground because he can't get a proper hold, a third tilts his at the wrong angle. No one corrects them. Not yet.
 
-After we've all picked up our shields, a soldier walks down the line and drops a short sword at each of our feet — no sheath, no instruction, just the blade on the ground in front of us — and we bend down to pick it up ourselves. I hold the sword in one hand and the shield in the other, knowing nothing about either of them.
+After we've all picked up our shields, a soldier walks down the line and drops a spear at each of our feet — no instruction, just the shaft on the ground in front of us — and we bend down to pick it up ourselves. I hold the spear in one hand and the shield in the other, knowing nothing about either of them.
 
 The instructor walks to the stack of shields without saying a word. He picks one up, plants his feet, and raises it chest-high — the edge at eye level, his body solid behind it. He holds it there for a few seconds, then drops it. The clatter echoes across the yard.
 
@@ -34,7 +34,7 @@ The instructor doesn't shout. He walks down the line grabbing shields and forcin
 
 *"Hold it there."*
 
-Then they hit us — a group of men pushing against our shields — and we fold immediately, the line crumpling like paper with men stumbling backward and shields tilting and gaps opening everywhere. Someone falls. Someone else drops his sword. I'm pushed into the man beside me and we end up in a heap while the instructor watches without a word.
+Then they hit us — a group of men pushing against our shields — and we fold immediately, the line crumpling like paper with men stumbling backward and shields tilting and gaps opening everywhere. Someone falls. Someone else drops his spear. I'm pushed into the man beside me and we end up in a heap while the instructor watches without a word.
 
 *"Again."*
 
@@ -186,6 +186,6 @@ I walk back to the barracks after that.
 
 ---
 
-Packing takes no time — I own nothing except what I'm carrying, shield and sword and token and clothes — so I tie the bundle and sit on my bunk while other men do the same around me. No one talks or celebrates or argues because there's nothing to argue about; the decision was made somewhere above us and we're just the bodies that move.
+Packing takes no time — I own nothing except what I'm carrying, shield and spear and token and clothes — so I tie the bundle and sit on my bunk while other men do the same around me. No one talks or celebrates or argues because there's nothing to argue about; the decision was made somewhere above us and we're just the bodies that move.
 
 We march out before dawn through the dark streets of Grayford until the gates open and we step through them — the same gate we entered ten days ago. The soldier from the latrines never reappeared. I didn't expect him to. I look back once, but the training yard is somewhere behind those walls and I can't see it anymore, so I turn forward and keep walking.
