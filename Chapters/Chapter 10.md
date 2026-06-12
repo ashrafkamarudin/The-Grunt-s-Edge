@@ -14,11 +14,11 @@ Because the body remembers before the mind catches up.
 
 Somewhere behind and above us, a voice cuts through the noise — sharp, urgent, already strained by how much it has to hold together.
 
-“Left flank. Hold your line!”
+*“Left flank. Hold your line!”*
 
 Another follows almost immediately, closer now, controlled but under pressure.
 
-“Spacing! Do not let them split the edge!”
+*“Spacing! Do not let them split the edge!”*
 
 A horn answers from somewhere to the right, long and uneven, and another replies farther back, overlapping until direction stops meaning anything.
 
@@ -34,11 +34,11 @@ Corbin is near the line, but he isn’t the one giving orders. Higher up, just b
 
 His voice never rises, but it never gets lost either.
 
-“Second line ready.”
+*“Second line ready.”*
 
-“Rotate on break.”
+*“Rotate on break.”*
 
-“Do not chase into the forest.”
+*“Do not chase into the forest.”*
 
 Each order is short, clipped, and followed immediately by movement somewhere in the line, as if the entire formation is already waiting for him to speak.
 
@@ -58,7 +58,7 @@ Someone else.
 
 A shield beside me jerks violently as a body slams into it from the front line, the force enough to push the man behind it half a step back, boots scraping stone as he fights to recover balance that is already gone.
 
-“Front— hold it—!”
+*“Front— hold it—!”*
 
 The line takes it.
 
@@ -74,7 +74,7 @@ Corbin notices.
 
 His hand snaps out and hits my shoulder, not hard enough to knock me down, but hard enough to fix me.
 
-“Foot back.”
+*“Foot back!”*
 
 No anger. No patience either.
 
@@ -82,9 +82,9 @@ Just correction.
 
 I obey instantly, stumbling slightly as I adjust.
 
-“Don’t lean in,” he says, already looking away again.
+*“Don’t lean in,”* he says, already looking away again.
 
-“Let the shield take it.”
+*“Let the shield take it.”*
 
 I nod too fast. I can’t help it.
 
@@ -94,7 +94,7 @@ I try to match it, but everything feels slightly delayed now, like I’m always 
 
 Then a voice snaps somewhere nearby — not Corbin.
 
-“Kid— stop pushing!”
+*“Kid— stop pushing!”*
 
 I freeze.
 
@@ -136,7 +136,7 @@ Wrong direction.
 
 Corbin grabs the back of my armor immediately and yanks me sideways out of it.
 
-“Not there.”
+*“Not there!”*
 
 I stumble back into position, my heart slamming so hard it feels like it’s competing with the noise around us.
 
@@ -190,11 +190,11 @@ They’re still shouting.
 
 I think they are.
 
-“Hold.”
+*“Hold!”*
 
-“Rotate.”
+*“Rotate!”*
 
-“Fill the gap.”
+*“Fill the gap!”*
 
 But they don’t stay in my head long enough to matter.
 
@@ -222,7 +222,7 @@ That hesitation is worse than the mistake.
 
 Something slips through somewhere beyond my shield. I don’t even see it properly at first — only hear it, a sudden burst of noise behind me, steel scraping, someone shouting for a gap to be filled.
 
-“Fill it— now!”
+*“Fill it— now!”*
 
 The line snaps back into place almost immediately.
 
@@ -260,7 +260,7 @@ Closer than the others.
 
 Corbin.
 
-“Eric— hold.”
+*“Eric— hold!”*
 
 I hear it.
 
@@ -366,9 +366,9 @@ Then… nothing clean. No moment I can hold onto. Just a slipping feeling, like 
 
 A stretcher passes nearby. I hear it before I see it. Wood scraping. Fast footsteps. A voice trying to keep control without actually having any.
 
-“Move— move him through!”
+*“Move— move him through!”*
 
-“Bandage is slipping— hold it— hold it!”
+*“Bandage is slipping— hold it— hold it!”*
 
 No one answers calmly.
 
@@ -398,6 +398,4 @@ My throat feels dry when I try to speak, but nothing comes out properly. Just ai
 
 Another scream rises somewhere behind me.
 
-And I realize, fully this time, that the battle didn’t stop when I fell.
-
-It just continued without me.
+And I realize, my first battle ... has come to end.

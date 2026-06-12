@@ -22,7 +22,7 @@ Nobody hesitated.
 
 They just did it. *'...they're not thinking about it anymore.'*
 
-Gren and Larris are already there. I almost don't recognize them at first.
+There I notice 2 unfamiliar faces.. Should be Gren and Larris who returned from medical tent.
 
 Gren's arm is wrapped tighter than before, movement slightly stiff at the shoulder. Larris looks worse — still quiet, but now with a faint limp that doesn't quite disappear when he walks.
 
@@ -107,11 +107,11 @@ A pause.
 
 Darrin nods once. That’s enough.
 
-Eric steps forward.
+I step forward.
 
 *"Can I join too?"*
 
-Corbin glances at him briefly. *"Fine."* Then, after a beat: *"Same rule."*
+Corbin glances at me briefly. *"Fine."* Then, after a beat: *"Same rule."*
 
 He doesn't explain what the rule is. He doesn't need to.
 
@@ -121,7 +121,7 @@ Corbin watches him once. Says nothing.
 
 Training doesn't change after that. It just expands. Spears. Footwork. Shield angles. Repetition. Corbin doesn't teach like an instructor. He demonstrates once. Then walks the line. A hand adjusts a grip. A foot gets nudged half an inch back. A shoulder gets pushed down just enough to stop tension building wrong. No praise. No frustration. Only correction.
 
-At one point, Eric pushes too hard. Then Darrin matches it. They don't talk about it — they just keep going until their arms start to shake.
+At one point, I push too hard. Then Darrin matches it. They don't talk about it — they just keep going until their arms start to shake.
 
 The next round is worse. Breathing gets heavier. Movements start to lag. Corbin stops the formation. Not sharply. Just raises a hand. Everyone freezes. He looks at them for a moment. Then speaks.
 
@@ -135,7 +135,7 @@ He taps the shaft of his spear lightly against the ground.
 
 *"It breaks what you already learned."*
 
-He looks at Darrin. Then Eric. Then the rest.
+He looks at Darrin. Then me. Then the rest.
 
 *"Save something for tomorrow."*
 
@@ -154,7 +154,7 @@ After that, the rhythm sets in. No one announces it. No one agrees to it.
 It just becomes the shape of the days. Train. Eat. Rest. Train again. 
 
 Corbin never pushes them past what they can recover from.
-But he never lets them stop early either. And somewhere in that rhythm, Eric starts to notice something. Not improvement. Not strength. Just the slow disappearance of hesitation in his own body.
+But he never lets them stop early either. And somewhere in that rhythm, I start to notice something. Not improvement. Not strength. Just the slow disappearance of hesitation in my own body.
 
 ---
 
@@ -166,7 +166,7 @@ Over meals, the tent slowly finds its voice. Renn is usually the first to speak.
 
 A few chuckles ripple through the tent.
 
-Eric just looks down at his bowl. *"Planning to survive."*
+I just look down at my bowl. *"Planning to survive."*
 
 "Bold strategy," Renn nods solemnly. *"I respect it."*
 
@@ -231,7 +231,7 @@ After a few afternoons of training, Renn steps back during a drill and watches D
 
 Darrin doesn't respond. Just resets his stance and goes again.
 
-Eric watches. Files it away. *'He's learning faster than I am.'*
+I watch. File it away. *'He's learning faster than I am.'*
 
 ---
 

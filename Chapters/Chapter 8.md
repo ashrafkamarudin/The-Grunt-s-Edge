@@ -8,7 +8,7 @@ When he reaches the front, he turns. *"Fort Lowen. Northeast frontier."* A pause
 
 He looks down the line.
 
-*"March."*
+*"March!"*
 
 The gates open and we move. Riders flank the column on both sides, guiding us forward, pushing stragglers back into formation with short shouts so no one falls behind. No one really tries to.
 
@@ -26,7 +26,17 @@ By the time the fort appears on the horizon, my body is complaining in new ways 
 
 Fort Lowen comes into view slowly — walls of dark stone, a gate flanked by torches, banners I don't recognize hanging limp in the still air. There's smoke rising from somewhere inside, thick and grey, not like chimney smoke.
 
-We pass through the gate.
+The column slows as we approach the gate. The march commander rides ahead, exchanges words with someone at the wall, then disappears inside. We wait. No one tells us why.
+
+After a long moment, he returns. His face doesn't give anything away.
+
+*"Battle's over. We just missed it. They're still clearing the field. We wait here until someone tells us otherwise."*
+
+No one asks what it cost. No one needs to.
+
+He gestures forward. The gates open.
+
+We pass through.
 
 The first thing I notice is the sound of someone screaming, a high broken noise somewhere to the left that cuts off and starts again. Then there are boots running past before I can see who, and someone shouting for a stretcher. The column presses forward as there's no room to stop.
 
@@ -102,7 +112,7 @@ We stop at one of them.
 
 Inside, the tent holds ten men. Most are already there when we arrive. They look up when we enter, then look away.
 
-Corbin is in the center. No one introduces him as the leader. He just picks his spot first, sits, drops his gear, and the others shift around him without being told. That's how you know.
+Someone is in the center. Seems like the leader. No one introduces him as the leader. He just picks his spot first, sits, drops his gear, and the others shift around him without being told. That's how you know.
 
 I take a spot near the edge of the tent. Darrin settles beside me. The third from our batch — someone mutters his name as *Wells* — finds a corner.
 
@@ -122,7 +132,7 @@ A shrug.
 
 He shifts, settling back against the canvas.
 
-*"I'm kind of new here too. Got here a few days before you lot."*
+*"I'm kind of new here too. Got here a week before you lot."*
 
 He gestures with his chin around the tent.
 
@@ -138,7 +148,7 @@ A pause.
 
 He nods toward the tent entrance.
 
-*"...and a few more are in the medical tent. They'll be back in a day or two. If they're lucky."*
+*"...Gren and Larris are still in the medical tent. Gren hurt his arm, and Larris his leg. Last I heard, the healers expected them back in a day or two."*
 
 The tent goes quiet. Not hostile. Just heavy.
 
