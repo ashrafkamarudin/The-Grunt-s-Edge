@@ -1,3 +1,5 @@
+# Chapter 10 — The Long Day
+
 The ground changes before I see anything.
 
 At first it isn’t something I recognize as danger. Just a strange shift under my boots — a deep, uneven tremor rolling through the earth like something moving fast beneath the forest line. Too heavy to ignore, but too far away to understand.
@@ -163,6 +165,8 @@ A horn screams somewhere off to the side, high and fractured.
 And the battle keeps going without waiting for me to catch up.
 
 ---
+
+It’s been almost a full day. I didn’t think I’d make it this long.
 
 The line doesn’t break all at once.
 
