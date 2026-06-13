@@ -72,11 +72,17 @@ I hesitate. *"...Odd jobs. Labor."*
 
 He nods. Reaches into a box and pulls out a wooden token. He reads it quickly, then slides it across the table.
 
-I pick it up. A string of characters carved into pale wood. GRF and some numbers I don't understand.
+I pick it up. A string of characters carved into pale wood. GRF and some numbers I don't understand. The clerk is still writing — he doesn't look up.
 
-He's already calling the next person.
+*"Three silver a month. Tenure until campaign ends. Paid when the campaign concludes. Death sum of ten silver to your listed family."*
 
-I step aside and look at the token. The letters and numbers don't tell me anything. But they mean something to this place.
+A pause. He finally glances up.
+
+*"If you have anyone to send it to."*
+
+Then he's already calling the next person.
+
+I step aside and look at the token. Three silver a month. Ten silver if I die. I don't know if that's a lot or nothing — I don't know what silver buys here, how the currency works, what anything is worth. In a world I barely understand, the number means nothing to me.
 
 *'GRF742. Something fifty-one. This is who I am now.'*
 
