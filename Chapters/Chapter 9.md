@@ -156,6 +156,10 @@ It just becomes the shape of the days. Train. Eat. Rest. Train again.
 Corbin never pushes them past what they can recover from.
 But he never lets them stop early either. And somewhere in that rhythm, I start to notice something. Not improvement. Not strength. Just the slow disappearance of hesitation in my own body.
 
+After training, the three of us sit together without deciding to. Renn passes me his waterskin without being asked. Darrin settles beside me, close enough that our shoulders almost touch. No one talks. We just breathe, let our arms rest, watch the light shift across the tents.
+
+It's not a moment. Not something you'd mark. But I realize somewhere in the silence that I've stopped thinking of them as strangers.
+
 ---
 
 The days settle into a rhythm - Squad training at dawn. Individual drills after. Meals in between. Rest wherever there’s time left. No one calls it routine. But it becomes one anyway.
