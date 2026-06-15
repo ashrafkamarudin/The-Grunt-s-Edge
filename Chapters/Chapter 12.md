@@ -4,13 +4,13 @@ I wake up before I fully want to, ribs still there as that dull pressure that ma
 
 When I finally move, pain pulls through my chest halfway and I pause again, holding that position until it eases enough for me to finish the motion properly. Ren is already awake when I manage it, looking over at me without much expression like he already knows what I’m going to say.
 
-“How’s it?”
+*“How’s it?”*
 
-“Still hurts.”
+*“Still hurts.”*
 
 He just nods once, like that confirms the expected state of the world.
 
-“Yeah. Take it easy today. No morning training anyway.”
+*“Yeah. Take it easy today. No morning training anyway.”*
 
 He shifts slightly where he sits, relaxed in a way that makes his own injuries feel like something background rather than urgent, like they’ve already been filed away as something to deal with later. Darrin already went out, he adds after a moment, and that pulls my attention up a little more than it should.
 
@@ -44,11 +44,11 @@ I forget to breathe properly for a second.
 
 Then the knight at the entrance snaps his attention onto me.
 
-“Move, soldier. If you’re not injured or helping, get out.”
+*“Move, soldier. If you’re not injured or helping, get out.”*
 
 I step back immediately.
 
-“Ah— sorry.”
+*“Ah— sorry.”*
 
 My voice comes out too fast, and I almost turn away, almost let it end there, but something inside doesn’t settle with it. Inside, someone groans again, another voice gives a short command, and the light flickers once more.
 
@@ -56,11 +56,11 @@ Not useful. I know that.
 
 But I still point slightly toward the entrance instead of leaving fully.
 
-“I can help. Just… small stuff.”
+*“I can help. Just… small stuff.”*
 
 The knight doesn’t look convinced, but after a moment he gestures sharply anyway.
 
-“Don’t get in the way.”
+*“Don’t get in the way.”*
 
 That’s it.
 
@@ -78,11 +78,11 @@ He's wearing a robe. Not white. Not really. It used to be something close to it,
 
 He moves fast, like the person wearing it doesn’t have the luxury of standing still for long.
 
-“Hey. You free?”
+*“Hey. You free?”*
 
 A hand gestures toward a stretcher without slowing down.
 
-“If you’re not hurt, give me a hand with this one. Bandage him.”
+*“If you’re not hurt, give me a hand with this one. Bandage him.”*
 
 I hesitate for half a beat too long, then step forward anyway.
 
@@ -90,11 +90,11 @@ The man on the stretcher looks worse up close. Not dying in a way that’s obvio
 
 I swallow once.
 
-“I can bandage.”
+*“I can bandage.”*
 
 My voice sounds unsure, but it doesn’t matter. The robe just pushes cloth into my hands.
 
-“Then do it. You’ll figure it out.”
+*“Then do it. You’ll figure it out.”*
 
 No further instruction.
 
@@ -102,7 +102,7 @@ I kneel carefully, keeping my ribs steady as I work. Every time I lean forward, 
 
 By the time I finish securing the bandage, the healer is already moving again.
 
-“Good. You’re not useless.”
+*“Good. You’re not useless.”*
 
 That’s the only acknowledgment I get before he turns away.
 
@@ -112,19 +112,19 @@ Not because I’m told to. Just because standing still suddenly feels wrong.
 
 The healer doesn’t slow down for me. He just talks as he works.
 
-“Hold that leg. Don’t let it drop.”
+*“Hold that leg. Don’t let it drop.”*
 
 I move in before I fully process it, gripping the injured man’s shin while the healer unwraps a blood-soaked bandage.
 
-“Like this?” I ask, unsure.
+*“Like this?”* I ask, unsure.
 
-“Higher,” he says immediately. “If you let it hang, swelling gets worse.”
+*“Higher,”* he says immediately. *“If you let it hang, swelling gets worse.”*
 
 I adjust.
 
 The man on the cot groans.
 
-“Stop moving it,” the healer snaps, not at me, but at the patient. Then, to me, quieter but still sharp, “Don’t brace with your wrist. Use your forearm. You’ll lose grip if he jerks.”
+*“Stop moving it,”* the healer snaps, not at me, but at the patient. Then, to me, quieter but still sharp, *“Don’t brace with your wrist. Use your forearm. You’ll lose grip if he jerks.”*
 
 I switch.
 
@@ -132,13 +132,13 @@ My ribs complain, but I keep position. I shift my weight to find a better angle.
 
 Another patient is pulled in beside us. The healer glances once.
 
-“Cloth behind you. Sack on the left.”
+*“Cloth behind you. Sack on the left.”*
 
 I hesitate.
 
-“I don’t know where—”
+*“I don’t know where—”*
 
-“Behind you. Sack. Left side.”
+*“Behind you. Sack. Left side.”*
 
 I turn fast, grab it, pass it over.
 
@@ -150,7 +150,7 @@ My ribs pulse each time I bend. It makes me hurry. I should know better. At one 
 
 The healer notices without even looking fully.
 
-“A bit tighter. It’ll slip otherwise.”
+*“A bit tighter. It’ll slip otherwise.”*
 
 I redo it.
 
@@ -158,25 +158,25 @@ A short silence follows, only the sound of breathing and fabric shifting.
 
 Then, as he presses his hands over another wound and a faint flicker of light pulses between his fingers, I speak without thinking.
 
-“That… is that magic?”
+*“That… is that magic?”*
 
-“Focus,” he says immediately. “Hold pressure there.”
+*“Focus,”* he says immediately. *“Hold pressure there.”*
 
 I shut my mouth and press down where he points.
 
 But a moment later, as the patient steadies, he answers without looking at me.
 
-“Don’t stare at it. It drains you more than it helps.”
+*“Don’t stare at it. It drains you more than it helps.”*
 
 I nod slightly, even though he probably isn’t watching.
 
 Time stops feeling clean after that.
 
-There is no clear beginning or end to tasks. Just bodies coming in, instructions thrown at me, mistakes corrected without ceremony. I learn quickly that “good enough” is whatever stops the bleeding long enough for the next problem to be handled. I try to move faster, but my ribs won’t let me. Every crouch is a negotiation.
+There is no clear beginning or end to tasks. Just bodies coming in, instructions thrown at me, mistakes corrected without ceremony. I learn quickly that *“good enough”* is whatever stops the bleeding long enough for the next problem to be handled. I try to move faster, but my ribs won’t let me. Every crouch is a negotiation.
 
 At one point, I ask quietly while passing cloth,
 
-“Do you always work like this?”
+*“Do you always work like this?”*
 
 The healer snorts once.
 
@@ -186,19 +186,19 @@ By the time the light outside shifts, I’ve lost track of how many times I’ve
 
 When there’s a rare pause, the healer finally looks at me properly.
 
-“You’re not one of the attendants.”
+*“You’re not one of the attendants.”*
 
 It’s not a question.
 
-“Not really,” I say.
+*“Not really,”* I say.
 
 He grunts.
 
-“…your ribs.”
+*“…your ribs.”*
 
 I stop.
 
-“Sit.”
+*“Sit.”*
 
 No room to argue. I lower myself carefully, and the moment I do the pain in my side tightens like it’s been waiting to be noticed.
 
@@ -228,25 +228,25 @@ My shoulders feel late. My arms heavier than they should be.
 
 I stay seated a moment longer than necessary.
 
-“…I thought you don’t heal levies,” I say.
+*“…I thought you don’t heal levies,”* I say.
 
 It comes out slower than I expect.
 
 He looks at me.
 
-“Yeah. Normally, we don’t.”
+*“Yeah. Normally, we don’t.”*
 
 A beat.
 
-“You were useful today. Consider it a reward.”
+*“You were useful today. Consider it a reward.”*
 
 His eyes flick once to my side.
 
-“Eat properly tonight. Don’t skip meals.”
+*“Eat properly tonight. Don’t skip meals.”*
 
 I blink slightly.
 
-“Good work today.”
+*“Good work today.”*
 
 A tap lands on my shoulder as he turns away.
 
