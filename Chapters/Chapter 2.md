@@ -229,7 +229,7 @@ That's all I catch — two words out of the whole sentence — but the meaning c
 
 She's being kind.
 
-I open my lips to respond and nothing comes out. My throat is locked and my tongue feels like it belongs to someone else, and I know the words are somewhere in my memory, buried fourteen years deep, but I can't reach them, can't shape them, can't force them past my teeth.
+I open my lips to respond and nothing comes out. My throat is locked and my tongue feels like it belongs to someone else, and I know the words are somewhere in my memory, buried twelve years deep, but I can't reach them, can't shape them, can't force them past my teeth.
 
 The girl waits.
 

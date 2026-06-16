@@ -24,7 +24,7 @@ The park is quiet for a Friday night. Most people are at home or at bars or anyw
 
 I find a spot near the bank — a gentle slope of grass that overlooks the water, far enough from the path that no one will bother me — and I sit down, set the convenience store bag beside me, and eat. The grass is damp. The river murmurs. The food tastes like nothing.
 
-I chew and stare at the dark water. The city lights ripple across the surface, breaking apart and reforming. Fourteen years. That's most of my life now. Fourteen years in this world, and I still get nights like this — nights where the world feels thin, like if I pressed hard enough against the air I'd feel something on the other side.
+I chew and stare at the dark water. The city lights ripple across the surface, breaking apart and reforming. Twelve years. That's most of my life now. Twelve years in this world, and I still get nights like this — nights where the world feels thin, like if I pressed hard enough against the air I'd feel something on the other side.
 
 Nights where my hands don't feel like mine.
 
@@ -44,11 +44,11 @@ I set the tea down and lean back on my hands, looking up at the sky. City glow d
 
 My mind drifts.
 
-I think about the village. I always do on nights like this, not that I know why. I don't remember enough of it to justify the pull — just fragments, the smell of smoke on thatch, livestock shifting in their pens, my mother humming while she worked. A handful of scraps that shouldn't mean anything after fourteen years.
+I think about the village. I always do on nights like this, not that I know why. I don't remember enough of it to justify the pull — just fragments, the smell of smoke on thatch, livestock shifting in their pens, my mother humming while she worked. A handful of scraps that shouldn't mean anything after twelve years.
 
 But they do. They mean... everything? Something I can't name, anyway. A hollow feeling behind my ribs, a longing for a place I barely remember and a life I never got to finish. I don't know if I miss the village itself or if I just miss the idea of belonging somewhere so completely that being pulled away left a scar I can't see.
 
-*'Pointless. It's been fourteen years.'*
+*'Pointless. It's been twelve years.'*
 
 I remember the night it ended.
 
@@ -70,7 +70,7 @@ Not a single mention.
 
 Just... nothing.
 
-Fourteen years of nothing.
+Twelve years of nothing.
 
 I felt far the whole time. Not far from a place — just far. Some kind of distance I couldn't name. Like something was behind a wall I couldn't see or find or break through.
 
@@ -88,7 +88,7 @@ But tonight the thoughts won't leave.
 
 *'What if it wasn't random?'*
 
-I've asked myself that question a thousand times over fourteen years and never found an answer. The light came from nowhere and took me to nowhere. There was no logic to it. No pattern. But I keep asking anyway, because if it wasn't random... then there must be a reason, right? And if there's a reason, then maybe I'm not just—
+I've asked myself that question a thousand times over twelve years and never found an answer. The light came from nowhere and took me to nowhere. There was no logic to it. No pattern. But I keep asking anyway, because if it wasn't random... then there must be a reason, right? And if there's a reason, then maybe I'm not just—
 
 *'Doesn't matter. You'll never know.'*
 
@@ -118,7 +118,7 @@ The sky above me is not the orange-gray glow of the city. It's black — true bl
 
 My breath catches.
 
-I lie still for a long moment, staring at a sky I haven't seen in fourteen years — a sky without light pollution, a sky that looks the way it looked when I was six years old lying in the grass behind my family's home, making up names for constellations I'd never learn.
+I lie still for a long moment, staring at a sky I haven't seen in twelve years — a sky without light pollution, a sky that looks the way it looked when I was six years old lying in the grass behind my family's home, making up names for constellations I'd never learn.
 
 *'No.'*
 
@@ -182,13 +182,13 @@ My chest is tight. My hands are shaking. I should be terrified — I am terrifie
 
 *'I am.'*
 
-*'After fourteen years.'*
+*'After twelve years.'*
 
 *'I'm back.'*
 
-The words sit in my chest like a stone dropped into still water. Fourteen years of convenience stores and bus rides and rented rooms, fourteen years of feeling far without understanding why — gone, in a single breath of sleep.
+The words sit in my chest like a stone dropped into still water. Twelve years of convenience stores and bus rides and rented rooms, twelve years of feeling far without understanding why — gone, in a single breath of sleep.
 
-I'm twenty years old with no clothes, no plan, not a single thing to my name, and I don't know where I am — which region, which side of which continent — because the forest tells me nothing and the stars tell me nothing.
+I'm eighteen years old with no clothes, no plan, not a single thing to my name, and I don't know where I am — which region, which side of which continent — because the forest tells me nothing and the stars tell me nothing.
 
 But I know. The smell of the air, the weight of the darkness, the sound of the river moving over ancient stone — something in my chest recognises this world the way a tuning fork recognises its note.
 

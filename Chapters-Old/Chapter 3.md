@@ -86,7 +86,7 @@ On and on. The neighbour's wash line. The well water tasting funny. the rabbit w
 
 He didn't understand half of it. But her voice was steady and unhurried. She didn't seem to mind that he didn't answer. She filled the silence for both of them.
 
-It was the most human sound he'd heard in fourteen years.
+It was the most human sound he'd heard in twelve years.
 
 ---
 
@@ -102,7 +102,7 @@ He understood that.
 
 Every word.
 
-He opened his mouth. The sounds sat in his throat, fourteen years old. He reached for them.
+He opened his mouth. The sounds sat in his throat, twelve years old. He reached for them.
 
 *"I am..."*
 
@@ -228,7 +228,7 @@ That night, he lay awake after the fire had died to embers.
 
 The house was quiet. Kael's breathing was deep and even from his corner. Lena had curled up near the hearth, a thin blanket pulled to her chin.
 
-Eric stared at the dark ceiling and thought about people he hadn't seen in fourteen years.
+Eric stared at the dark ceiling and thought about people he hadn't seen in twelve years.
 
 His mother. Her voice, calling him in before dark. That was all he had left of her. A single memory that played over and over.
 

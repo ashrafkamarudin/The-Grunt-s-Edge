@@ -14,7 +14,7 @@ Then it hit him.
 
 Not the cold nor the hunger. The *situation.*
 
-His breath shortened. His chest tightened. The rational part of his brain, the part that had spent fourteen years learning to analyse and plan and stay calm, was drowned out by a surge of pure animal panic.
+His breath shortened. His chest tightened. The rational part of his brain, the part that had spent twelve years learning to analyse and plan and stay calm, was drowned out by a surge of pure animal panic.
 
 *'I'm in another world!'*
 
@@ -294,7 +294,7 @@ He opened his lips to respond.
 
 Nothing came out.
 
-His throat was locked. His tongue felt like it belonged to someone else. He knew the words somewhere in his memory, buried fourteen years deep, but he couldn't reach them. Couldn't shape them. Couldn't force them past his teeth.
+His throat was locked. His tongue felt like it belonged to someone else. He knew the words somewhere in his memory, buried twelve years deep, but he couldn't reach them. Couldn't shape them. Couldn't force them past his teeth.
 
 The girl waited.
 

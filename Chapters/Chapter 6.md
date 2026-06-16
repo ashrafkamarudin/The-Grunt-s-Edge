@@ -48,7 +48,7 @@ He writes.
 
 *"Age?"*
 
-*"Twenty."*
+*"Eighteen."*
 
 *"Origin?"*
 

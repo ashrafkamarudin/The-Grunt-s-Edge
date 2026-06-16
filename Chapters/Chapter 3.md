@@ -28,7 +28,7 @@ A girl walks in — brown hair tied back, plain dress, practical apron. She's ca
 
 I catch something. Not the whole sentence, but fragments, enough to know she's asking if I'm hungry, if I'm awake, something along those lines.
 
-I don't know this language. Or I do — somewhere. It's the language from before, from when I was six, the one I haven't heard in fourteen years. It's buried in my head, but it's there.
+I don't know this language. Or I do — somewhere. It's the language from before, from when I was six, the one I haven't heard in twelve years. It's buried in my head, but it's there.
 
 I just need to dig it out.
 
@@ -86,11 +86,11 @@ Now that the words have stopped, the other thoughts creep in.
 
 *'This is my world. The one I was born in. Then why doesn't it feel like coming home?'*
 
-I spent fourteen years on Earth feeling like I didn't belong. Now I'm back here, and it doesn't feel right either. Maybe it never will. Maybe I don't have a world that fits.
+I spent twelve years on Earth feeling like I didn't belong. Now I'm back here, and it doesn't feel right either. Maybe it never will. Maybe I don't have a world that fits.
 
 *'If I'm stuck here... what then?'*
 
-I think about my family. The ones from before. My parents died in the attack — I saw it. But my siblings. Benson. Elysia. They'd be... I do the math slowly. Benson would be in his mid-twenties. Elysia around eighteen.
+I think about my family. The ones from before. My parents died in the attack — I saw it. But my siblings. Benson. Elysia. They'd be... I do the math slowly. Benson would be in his early twenties. Elysia around sixteen.
 
 I don't even know what they look like anymore. Benson would be a man now. Elysia — I keep picturing her as a child, but she'd be grown. I don't recognize any version of them.
 
@@ -100,7 +100,7 @@ I don't know. I don't even know where to start looking. I don't know what kingdo
 
 *'What if I find them? What do I even say?'*
 
-*'Sorry I vanished for fourteen years. I was in another world.'*
+*'Sorry I vanished for twelve years. I was in another world.'*
 
 I almost laugh. Almost.
 
@@ -166,13 +166,13 @@ I don't know why I say it. The words come out before I think about them.
 
 She stops. Looks at me.
 
-I didn't mean to say that. I don't talk about my mother. I don't talk about any of it. I don't even know why I remember that detail after fourteen years.
+I didn't mean to say that. I don't talk about my mother. I don't talk about any of it. I don't even know why I remember that detail after twelve years.
 
 But the word is already out, and I can't take it back, and now I'm thinking about her — not her face, I can't see her face, but the sound, the way she used to hum while she worked, the way the village smelled at dusk, the way my father's hand felt around my arm before the light took everything.
 
 I shut it down.
 
-*'...doesn't matter. Fourteen years.'*
+*'...doesn't matter. Twelve years.'*
 
 Lena just nods. A small smile crosses her face, there and gone.
 

@@ -36,7 +36,7 @@ Nothing special. Just another Friday.
 
 But something sat heavy in his chest tonight.
 
-He chewed mechanically and stared at the dark water, watching the reflection of the city lights ripple and distort across the surface. Fourteen years. That was most of his life now. Fourteen years in this world, and he still got nights like this.
+He chewed mechanically and stared at the dark water, watching the reflection of the city lights ripple and distort across the surface. Twelve years. That was most of his life now. Twelve years in this world, and he still got nights like this.
 
 Nights where the world felt thin.
 
@@ -76,7 +76,7 @@ He'd spent years learning the language. Years reading everything he could get hi
 
 He never found a thing.
 
-Fourteen years.
+Twelve years.
 
 He'd felt far the whole time. Not far from a place. Far from something deeper, something in his marrow. A distance he couldn't name or measure. Like his soul was reaching for a handhold that didn't exist in this world.
 
@@ -90,7 +90,7 @@ But tonight the thoughts wouldn't leave.
 
 *'What if it wasn't random?'*
 
-He'd asked himself that question a thousand times over fourteen years. Never found an answer. The light had come from nowhere and taken him to nowhere. There was no logic to it. No pattern.
+He'd asked himself that question a thousand times over twelve years. Never found an answer. The light had come from nowhere and taken him to nowhere. There was no logic to it. No pattern.
 
 He finished the tea and set the bottle in the bag. The grass was damp beneath him. The air smelled like river water and asphalt.
 
@@ -130,7 +130,7 @@ Branches framed the view. Tall trees. Old trees. Their crowns shifted in the win
 
 His breath caught.
 
-He lay still for a long moment, staring at a sky he hadn't seen in fourteen years. A sky without light pollution. A sky that looked the way it had looked when he was six years old, lying in the grass behind his family's home, making up names for constellations he'd never learn.
+He lay still for a long moment, staring at a sky he hadn't seen in twelve years. A sky without light pollution. A sky that looked the way it had looked when he was six years old, lying in the grass behind his family's home, making up names for constellations he'd never learn.
 
 *'No.'*
 
@@ -202,19 +202,19 @@ He wanted to refuse it. His mind was still racing, still looking for an exit —
 
 He could feel it.
 
-In his chest. In his bones. That nameless distance he'd carried for fourteen years was gone.
+In his chest. In his bones. That nameless distance he'd carried for twelve years was gone.
 
 He was no longer far.
 
 *'I am.'*
 
-*'After fourteen years.'*
+*'After twelve years.'*
 
 *'I'm back.'*
 
-The words sat in his chest like a stone dropped into still water. Fourteen years of convenience stores and bus rides and rented rooms. Fourteen years of feeling *far* without understanding why. Gone. In a single breath of sleep.
+The words sat in his chest like a stone dropped into still water. Twelve years of convenience stores and bus rides and rented rooms. Twelve years of feeling *far* without understanding why. Gone. In a single breath of sleep.
 
-He was twenty years old.
+He was eighteen years old.
 
 No clothes. No plan. Not a single thing to his name.
 
