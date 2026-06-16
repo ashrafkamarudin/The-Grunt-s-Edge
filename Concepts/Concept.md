@@ -4,9 +4,9 @@
 
 Eric was born in a fantasy world but was accidentally pulled into modern Earth at the age of six after a catastrophic spatial-temporal magical disaster.
 
-For fourteen years, he lived an ordinary modern life.
+For twelve years, he lived an ordinary modern life.
 
-At age twenty, the dimensional tether binding his soul to his original world finally snapped back, dragging him home.
+At age eighteen, the dimensional tether binding his soul to his original world finally snapped back, dragging him home.
 
 Unfortunately, "home" is no longer home.
 
@@ -14,7 +14,7 @@ His parents are dead.
 
 His younger sister barely remembers him.
 
-His older brother spent fourteen years searching for a missing child who no longer exists.
+His older brother spent twelve years searching for a missing child who no longer exists.
 
 Without identity papers, status, or family records, Eric is conscripted into the Royal Army — a solution the frontier village of Eastwood finds for its levy problem rather than a choice Eric makes for himself.
 

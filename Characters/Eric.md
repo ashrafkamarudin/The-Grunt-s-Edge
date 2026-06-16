@@ -4,7 +4,7 @@
 
 * Birth Name: Eric
 * Military Alias: Vane
-* Age: 20 (Current), 6 (Original World)
+* Age: 18 (Current), 6 (Original World)
 * Occupation: Infantry Soldier
 * Physical Description: Tall, lean build, weathered hands from manual labor
 * Personality: Practical, cautious, survival-oriented, emotionally latent, selective attachment, utility-based self-worth
@@ -13,9 +13,9 @@
 
 ## Background
 
-Eric disappeared from his native world at age six and spent fourteen years living a completely normal life in the modern world.
+Eric disappeared from his native world at age six and spent twelve years living a completely normal life in the modern world.
 
-At age twenty, he was forcibly returned to his original world.
+At age eighteen, he was forcibly returned to his original world.
 
 He awoke naked in a forest, followed a river, collapsed at the edge of a frontier village called Eastwood.
 
@@ -95,7 +95,7 @@ This tension is more interesting than clean heroism. He's not choosing to be goo
 Eric does not fully own either world.
 
 - Childhood memories of his original world: fragmented, emotional, unreliable
-- Fourteen years of the modern world: structured, distant, like someone else's life
+- Twelve years of the modern world: structured, distant, like someone else's life
 
 Neither feels like his present reality. He often mentally time-skips between them, comparing without meaning to, feeling displaced in both directions. This reinforces the core theme: *far from everything.*
 
@@ -215,7 +215,7 @@ He is:
 
 # 🌍 ERIC — AFFINITY PROFILE (EXPOSURE MODEL)
 
-Eric’s affinities are shaped by 14 years in a modern world.
+Eric’s affinities are shaped by 12 years in a modern world.
 
 ---
 
