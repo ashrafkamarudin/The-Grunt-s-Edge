@@ -24,7 +24,7 @@
 - She stops mid-sentence. Looks at him differently.
 - *"sigh... who are you?"*
 - Pause.
-- His first words in fourteen years:
+- His first words in twelve years:
 - *"I am... Eric."*
 
 ## Part 4: Aftermath
