@@ -1,244 +1,483 @@
-# Chapter 2 — The Forest
+# Chapter 2: The Other Side
 
-I open my eyes.
+The river was closer than he remembered.
 
-The sky is lighter now — not daylight, but a shift toward gray, the black bleeding into something softer, and dawn is still an hour or two off. The trees are starting to take shape around me, their outlines no longer swallowed by pure dark.
+Eric sat with his knees drawn against his chest, listening to the water move through the darkness. He could just make out its surface between the trees, a strip of restless black catching the occasional glint of starlight.
 
-I'm still naked. Still on the forest floor. The ground is cold against my skin and the air bites at my exposed shoulders and chest, and when I breathe out I see it mist faintly in front of my face.
+He had been staring at it for several minutes.
 
-For a moment I just lie there, staring up at the pale gaps between the branches, trying to remember how to be a person.
+The cold was becoming difficult to ignore.
 
-Then it hits me — not the cold or the hunger but the *situation* — and my breath shortens and my chest tightens and my brain just... stops. There's no plan. There's no analysis. There's just noise.
+At first, the shock of returning had overwhelmed everything else. He had been too busy looking at the sky, touching the ground, and convincing himself that the impossible thing had actually happened. Now that the first rush of emotion had passed, his body was making its complaints known.
 
-*'I'm in another world!'*
+His back was cold. His feet were colder. The ground beneath him was damp, and the wind kept finding its way through the trees.
 
-I sit up too fast and the world tilts, my vision swimming.
+He rubbed his arms.
 
-*'Shit! I'm in another world and I don't know anything!'*
+*Fourteen years.*
 
-I scramble to my feet but my legs are stiff and my muscles move slow, so I stumble and catch myself on a tree trunk, standing there breathing hard while the forest stretches in every direction around me — endless and dark and unfamiliar.
+He was home.
 
-My heart is hammering so loud I can hear the blood in my ears. The river is somewhere to my left — I can still hear it — but where does it lead? I don't know. I don't know anything.
+The thought still felt strange. He had imagined this moment more times than he could count, though never quite like this. In those imagined versions, he usually found his family first. Sometimes his parents were waiting for him. Sometimes Benson was older, standing in front of the house with Elysia beside him. Sometimes he simply walked through the village and recognized everything.
 
-I start moving.
+He had never imagined sitting naked in a forest, with no idea where he was.
 
-Not in a direction — just *moving*, my feet carrying me through the underbrush while branches scrape my arms and chest and leaves slap against my thighs. I trip over a root and catch myself and keep going, my breath coming in ragged gasps.
+Eric looked down at himself.
 
-*'Stop. Think. Think...'*
+"Right."
 
-But I can't. I don't even know what I'm looking for. A road? A person? A sign? What would a sign even look like in this world?
+His voice sounded small in the open air.
 
-*'Doesn't matter. Just move.'*
+He had no clothes, no phone, no wallet, no shoes. Not even the plastic bag from the convenience store. Everything he had owned in the other world had vanished with him.
 
-Six years old again. Naked on a sidewalk. Same feeling. Same nothing. Don't think about it. Move.
+He looked back toward the river.
 
-I keep running, frantically searching for something — anything — a landmark, a sign, a person, a road, a fucking bus stop, anything that tells me where I am or where to go, but there's nothing, just more trees, endless and identical and silent.
+There was no point sitting here. The temperature was dropping, and he had no way to start a fire. Even if he could find enough dry wood, he had no lighter, matches, or anything else useful.
 
-So I keep running.
+He knew how to start a fire in theory. He had watched enough survival videos to understand the general idea. In practice, he had never needed to do it. The closest he had come was lighting a barbecue with a cheap fire starter.
 
-Branches whip my face and thorns rake my arms and my feet — soft, modern feet that have never walked on anything worse than pavement — take the punishment of roots and stones and sharp debris, and I don't slow down because I can't slow down. The forest blurs past me and my lungs burn and my legs ache and the cold is still there gnawing at my skin but the heat of exertion drowns it out. I run until my muscles scream and my chest feels like it's splitting open.
+He glanced at his hands.
 
-I run until I can't run anymore.
+They were clean enough, though his fingernails were packed with dirt. His feet were bare. The soles had spent twenty years walking on concrete, tiles, and carpet. They were not prepared for a forest floor.
 
-My pace drops. Stumble. Walk. Tree trunk. I lean against it, chest heaving, spit stringing from my lips, my vision spotting at the edges.
+He needed people.
 
-I stay there.
+That was the only sensible answer.
 
-Bent over.
+The river might lead him somewhere inhabited. Rivers usually passed through settlements, or at least close enough to roads and paths that someone might come across him. He could follow it until he found something.
 
-Gasping.
+It was not much of a plan, but it was a plan.
 
-Shivering now that I've stopped moving.
+Eric pushed himself upright. His legs complained immediately. They felt stiff from sitting on the ground, and his knees were still unsteady. He took a moment to find his balance.
 
-My head is pounding. My throat is raw. Every breath tastes like blood.
+Then he looked around.
 
-*'Tired.'*
+The forest was not completely dark anymore. The sky between the branches had begun to pale, though the trees themselves remained mostly silhouettes. Dawn was approaching.
 
-That's all. Just tired. And cold. The cold is still there.
+He decided to wait for the light.
 
-*'The cold. Focus on the cold.'*
+Moving through unfamiliar woodland in the dark, naked and without a proper sense of direction, was an excellent way to break something. He had already managed to arrive in another world. There was no need to make the experience worse by walking into a hole.
 
-My skin is tight. Muscles stiff. Shivering won't stop.
+He found a patch of ground beneath a broad tree, away from the dampest part of the riverbank. The roots offered some shelter from the wind, though not much. He gathered a handful of fallen leaves and pushed them beneath his legs, then sat with his back against the trunk.
 
-Naked on the forest floor. Wind on my skin. I can feel the heat leaving with every breath.
+It was a poor substitute for a blanket.
 
-*'Need to move. Find shelter... or something.'*
+He tucked his arms beneath his chest and tried to make himself smaller.
 
-But there's no shelter, no dry leaves to burrow in, nothing to start a fire with — which means the only option is to find people, which means the river.
+Sleep did not come.
 
-I push off the tree. My legs are unsteady and everything hurts, but I take a step and then another, and my foot comes down on a root and I stumble, catch myself, keep moving — until a branch catches my foot and I go down hard.
+Every unfamiliar sound made him look up. Something rustled in the undergrowth to his right. A branch cracked somewhere farther away. Once, he heard a short, sharp cry that might have been a bird, though he could not identify it.
 
-My palms hit the ground first — sharp gravel and dead twigs biting into my skin — and my knee follows, slamming against a rock that sends a bolt of pain up my leg. I lie there for a moment, face inches from the forest floor, breathing in the smell of wet earth and rotting leaves.
+He kept his eyes on the darkness.
 
-The pain cuts through the fog.
+The forest had never felt particularly threatening to him before. In the modern world, forests were places people visited for walks, camping, and scenery. There were marked trails, signs, benches, rubbish bins, and usually a road somewhere nearby.
 
-I push myself up and look at my hands — the palms are scraped raw, tiny beads of blood welling up where the skin has broken — and my knee is worse, a deep gash just below the kneecap welling red and mixed with dirt and small stones.
+This place had none of those things.
 
-*'haa... bleeding.'*
+There was only the river, the trees, and the knowledge that he was not equipped to deal with whatever lived between them.
 
-The thought is flat. Distant. Like it belongs to someone else.
+He pulled his knees closer.
 
-*'Great. Now I'm bloody too.'*
+*Just get through the night.*
 
-I sit there on the cold ground, naked and bleeding. The panic is gone. Not because I'm okay. Because there's nothing left to run on.
+***
 
-I take a breath.
+By the time the sky turned grey, Eric's teeth had started chattering.
 
-Then another.
+He stood up slowly, rubbing his hands together. His joints felt stiff, and his stomach had begun to ache with hunger. He had eaten a small onigiri the previous evening. That was all.
 
-*'Okay... okay.'*
+He looked at the river again.
 
-I look at the cut on my knee. Dirty. Full of grit and leaf bits. That's going to get infected, probably.
+In daylight, it was less imposing. The water ran over dark stones, breaking into small ripples around the shallower sections. The banks were uneven, with patches of mud and exposed roots. On the opposite side, the forest continued without any obvious change.
 
-*'...doesn't matter right now. Move.'*
+Eric crouched near the water.
 
-I stand up. My knee throbs and I put weight on it and wince, but it holds. The river is still audible, maybe thirty meters away, so I limp toward it.
+He was thirsty, but he hesitated.
 
----
+He had no idea whether the water was safe. It looked clear, but clear water was not necessarily clean. There could be animal waste upstream, dead animals, parasites, or any number of things he did not want to think about.
 
-The bank is wide and rocky, the water moving fast and clear enough to see the dark shapes of stones beneath the surface.
+He looked around for a better source.
 
-*'Looks clean.'*
+There wasn't one.
 
-I stare at it.
+He could try to find rainwater caught in leaves, but there was no guarantee he would find enough. He could wait until he reached a settlement, but he had no idea how long that would take.
 
-*'Which means absolutely nothing.'*
+He dipped his fingers into the river.
 
-I don't know what's in that water — mud, dead things, who knows — and one bad sip could have me shitting myself to death before I ever find help. But dying of thirst would happen a lot faster, so I cup my hands and drink. The water is cold and clean-tasting and I drink until my throat stops aching, then I sit back on my heels and wait.
+Cold. Very cold.
 
-Nothing happens. No immediate sickness. Good. That means nothing.
+He brought a little water to his nose. It smelled faintly of stone and earth. Nothing unusual, though that meant very little.
 
-*'Upstream or downstream.'*
+Eric cupped both hands and drank.
 
+The water was cold enough to make his teeth ache. He swallowed a few mouthfuls, then stopped and waited, as if his stomach might immediately announce that he had made a terrible mistake.
 
-Upstream... goes where? Higher ground. Mountains maybe. Thinner air. Colder. Less people, probably and harder to walk too.
+Nothing happened.
 
-Downstream... flatter. Valleys. Rivers join other rivers. Water draws people. Towns, villages, whatever they have here.
+He knew that proved nothing, but he was not going to solve the problem by standing beside the river and being thirsty.
 
-I look at my knee. Still bleeding.
+He drank a little more.
 
-*'...downstream, I guess.'*
+Then he sat back and looked at the current.
 
-I don't have a better reason.
+Upstream or downstream?
 
-I reach down and touch the cut on my knee without thinking — finger to the wound, check the blood, then back. I don't know why I do it. I just do.
+He tried to remember what he knew about rivers. Settlements were often built near them. People needed water, transport, and farmland. Following a river was a reasonable way to find signs of habitation.
 
-I stand up. My knee is bleeding properly now, blood running in a thin line down my shin, and the cut on my foot stings, and the cold is still there gnawing at my skin, and I'm already tired and I haven't walked anywhere yet.
+But which direction?
 
-I start walking.
+Upstream might lead toward smaller streams and higher ground. Downstream might lead toward larger settlements, though it could also lead into a marsh or a broad, empty valley.
 
-The river leads me through the forest and I keep to the bank where the ground is firmer, avoiding the underbrush that scrapes at my bare legs, but the wind cuts across the open water and bites into my wet skin and my teeth chatter and my arms are wrapped around my chest, not that it helps much.
+He watched a small branch drift past.
 
-After about an hour, the forest begins to change.
+Downstream, he decided. If nothing else, the river would eventually collect other streams. There might be more signs of people.
 
-The trees thin and the undergrowth becomes less wild, and I start noticing signs — a broken branch that looks deliberately snapped, a patch of ground where the leaves have been trampled flat, the remains of a fire pit near the bank. My chest tightens again. Different this time. Don't know what to call it.
+He stood and began walking.
 
-*'...maybe.'*
+The first few minutes were manageable. He kept close to the bank, choosing firmer ground where he could. The trees were less dense beside the water, and he could see far enough ahead to avoid the worst of the undergrowth.
 
-I follow the signs and then suddenly a path emerges — narrow, barely visible, but a path nonetheless — worn dirt between the trees with footprints pressed into the mud.
+His bare feet found every stone.
 
-I follow it.
+He tried to walk carefully, placing each step before shifting his weight. It slowed him down, but the alternative was worse. Even small cuts could become a problem when he had no shoes, no antiseptic, and no clean bandages.
 
-The sun is fully up now, pale light filtering through the canopy, and the air is marginally warmer but the wind hasn't let up, and my shivering has become constant, my limbs heavy and slow. The cut on my knee has scabbed over with dried blood but each step pulls at it and fresh red seeps through the crack — nothing dramatic, just a slow leak I can't afford. My head is starting to feel light and the edges of my vision flicker when I blink, but I keep telling myself just a little further, just a little further Eric, you can do it, you need to.
+A twig snapped beneath his heel.
 
-The path curves around a thicket of bushes and then I see it.
+He stopped, lifted his foot, and examined it. A thin red line crossed the skin near the ball of his foot. It was not deep, but it stung.
 
-Smoke. Thin columns rising above the trees — chimney smoke, people cooking breakfast — and I quicken my pace, ignoring how my knee screams and my scraped hands throb, because I don't care, I'm almost there.
+"Fantastic."
 
-The trees open and a village sits in the valley below.
+He brushed away a bit of dirt and continued.
 
-Small. Maybe twenty buildings huddled together behind a wooden palisade — sharpened logs standing eight feet tall with outward-angled stakes hammered into the ground at the base to stop anything from charging the wall head-on. At the near end, a wooden watchtower rises above the rest — just a raised platform on four posts with a roof and a bell hanging from the crossbeam. It isn't built for war. It's built for warning. A place to ring the bell and grab your spear while whatever is out there is still at the tree line.
+The forest gradually brightened. Birds began calling from the branches, and somewhere in the distance something moved through the undergrowth with enough weight to disturb the leaves.
 
-Smoke rises from a few hearths, thin and grey against the morning sky.
+Eric kept walking.
 
-I stop at the edge of the treeline and my breath catches.
+He did not know what animals lived here. He remembered a few things from childhood, fragments of names and stories, but none of them were particularly useful. He could not tell whether the sounds belonged to something harmless or something that would consider a naked man an easy meal.
 
-The village is laid out like a crescent, following the curve of the river. A single dirt path runs through the centre flanked by houses with low doors and shuttered windows. A well stands in the middle of an open square. Beyond the palisade, a few small fields and vegetable patches — no wheat or barley, just enough to feed the people who live here.
+He tried not to think about it.
 
-It looks exactly like the village I was born in.
+After a while, his stomach began to growl.
 
-For a moment, something flickers. Barefoot on dirt. Smoke. A voice calling — my mother's? I don't know. It's gone before I can hold it.
+He looked at the plants along the riverbank. Some had berries, small and dark, growing in clusters. He approached one, then stopped before touching them.
 
-Then I look closer. The well is on the opposite side. The fields are planted differently. The houses have a slightly different shape to their roofs.
+He knew better than to eat random berries.
 
-*'Same, but not.'*
+The thought was almost funny. He had spent years reading about survival, but now that he was actually in a survival situation, most of what he remembered amounted to a list of things not to do.
 
-I stand there, naked and bleeding, staring at a village that looks like somewhere I should know. Like walking into a room and forgetting why.
+Don't eat unfamiliar plants.
 
-The cold has been eating at me for hours. My knee won't stop bleeding. I haven't eaten in almost a day.
+Don't drink stagnant water.
 
-*'Doesn't matter now.'*
+Don't wander without a plan.
 
-Nothing left.
+Don't panic.
 
-My legs give out.
+The last one was proving particularly difficult.
 
-I don't feel myself fall. One moment I'm standing, the next I'm on my knees, then on my side, the cold ground pressing against my cheek while the village blurs at the edges of my vision and the smoke from the chimneys smears across the sky like brushstrokes. I try to get up but my arms won't move.
+He continued along the river.
 
-*'No. No, I'm almost —'*
+***
 
-Footsteps. Voices — distant, like they're coming from the end of a long tunnel. Someone is running toward me. I try to lift my head but it feels like it weighs a hundred pounds.
+He had been walking for perhaps forty minutes when the forest floor changed.
 
-A shape appears above me — a face, old and wrinkled, with a beard — and the voice says something in a language I haven't heard since I was six years old, the words familiar but coming at me like sounds through deep water.
+The ground near the bank became rockier. The trees thinned slightly, and the undergrowth gave way to patches of grass. It was easier to walk, though his feet were beginning to hurt.
 
-*'gods... boy... blanket... quick...'*
+Eric stopped beside a large stone and rested.
 
-I catch the meaning, barely. Enough to know it's aimed at someone else and that help is coming.
+His breathing was heavier than it should have been. He was not particularly fit, but he was not completely sedentary either. He walked regularly and had occasionally gone running. Still, walking barefoot over uneven ground was an entirely different activity.
 
-My eyes stay open for another few seconds. Then the world goes dark.
+He lifted one foot and examined the sole.
 
----
+There were several small scratches. Nothing serious, but the skin was tender. He switched his weight to the other leg.
 
-I open my eyes.
+A faint sound came from behind him.
 
-I'm indoors. Warm. Something rough and heavy is draped over my body — wool, I realize — and I'm lying on something soft, hay maybe, a bed of hay. The ceiling is low with wooden beams and the walls are plastered wattle, and a fire crackles somewhere nearby casting flickering light across the room.
+He turned.
 
-I'm indoors. Alive. Warm. The fire crackles. The air is still.
+Nothing.
 
-I don't know what to do with that.
+He waited, listening.
 
-And then, slowly, the panic begins to creep back in.
+The forest was quiet except for the river and the occasional birdcall. He looked between the trees, trying to make out movement.
 
-My heart starts to race and my breathing quickens and my fingers curl into the blanket, gripping it like it's the only solid thing in the world. I look around the room — low ceiling, wooden beams, firelight, the rough wool scratching my chin — and I ask myself where I am, and the answer is a house, I'm in a house, someone probably found me and carried me inside.
+A squirrel, perhaps. Or something similar.
 
-I let that sink in for a moment. Let the warmth of the fire and the weight of the blanket settle into my skin.
+He exhaled and looked back toward the river.
 
-*'I'm alive.'*
+That was when he noticed the ground.
 
-The thought sits there. I don't know what to do with it. Whoever these people are, they didn't leave me to freeze.
+A patch of mud near the water had been disturbed. Several impressions crossed it, partly filled with water from the previous night's rain. They were too blurred for him to identify, but they were clearly not made by the river.
 
-*'...thanks.'*
+He crouched.
 
-I don't know who I'm saying it to. Whoever found me, I guess. It's not like they can hear me.
+Footprints?
 
-*'I'm not in the forest anymore. I'm okay. For now.'*
+Maybe.
 
-Then the thoughts come anyway — what do I tell them, how do I explain showing up naked in the middle of nowhere, they're going to ask questions I can't answer, what if they think I'm crazy, what if they throw me out, what if —
+He looked farther along the bank. A broken branch hung low over the ground, its end pale where the wood had snapped. A few metres beyond it, some grass had been flattened.
 
-The door creaks.
+Someone might have passed through here.
 
-I turn my head.
+The possibility lifted his spirits more than it should have.
 
-A girl stands in the doorway — maybe seventeen, brown hair pulled back, plain dress and practical apron, a wooden bowl in her hands with steam curling from it. She sees I'm awake and she smiles.
+He stood and followed the disturbed ground for a short distance. There were no clear tracks, only scattered signs that could have meant almost anything. Still, he was no longer convinced that the riverbank was completely untouched.
 
-She says something. The sounds reach my ears and my brain reaches for them, clumsy and slow.
+Then he saw something farther ahead.
 
-*'ah... awake...'*
+A dark circle among the stones, surrounded by a few pieces of charred wood.
 
-That's all I catch — two words out of the whole sentence — but the meaning comes through anyway, filled in by the softness of her voice and the smile on her face.
+A fire pit.
 
-She's being kind.
+Eric approached carefully.
 
-I open my lips to respond and nothing comes out. My throat is locked and my tongue feels like it belongs to someone else, and I know the words are somewhere in my memory, buried twelve years deep, but I can't reach them, can't shape them, can't force them past my teeth.
+The ash was old and damp. He crouched beside it, touched one of the blackened sticks, and rubbed it between his fingers. It crumbled.
 
-The girl waits.
+Someone had made a fire here. Perhaps days ago. Perhaps longer.
 
-I stare at her, knuckles white on the blanket. The words are there, somewhere. I know they are. I just can't... reach them.
+It was not proof that people lived nearby, but it was proof that someone had been here.
 
-*'...give it a moment.'*
+He looked around again.
 
-She waits.
+This time, the forest seemed a little less endless.
 
-I wait.
+"Okay," he murmured. "That's something."
 
-Nothing comes.
+He stood and continued downstream.
+
+***
+
+The path was easy to miss.
+
+At first, Eric thought the flattened grass was simply another animal trail. Then he noticed that it continued between the trees, with patches of bare earth where repeated footsteps had worn away the vegetation.
+
+It was narrow, barely more than a strip of dirt, but it had a direction.
+
+He followed it.
+
+The path moved away from the river for a while, winding between the trees before returning toward the bank. In places, roots had pushed through the soil. In others, the ground was soft and muddy, holding shallow impressions.
+
+Some of the footprints were larger than his.
+
+He slowed down.
+
+People.
+
+He was almost certain now.
+
+A sudden wave of relief moved through him. It was not quite happiness. He had not found a house, a road, or even a person yet. But the path meant that he was no longer completely lost in untouched wilderness.
+
+Someone had walked here.
+
+Someone might walk here again.
+
+He followed the trail more carefully, watching for fresh signs and listening for voices.
+
+Nothing came.
+
+The sun had climbed higher, though the trees still blocked much of its light. The air was warmer than it had been at dawn, but his skin remained cold. The wind moved through the open spaces between the trees and raised goosebumps along his arms.
+
+He wrapped them around his chest and kept walking.
+
+His knee began to hurt.
+
+He looked down and found a shallow cut just below the kneecap. He could not remember when he had sustained it. Perhaps he had struck a rock when he first woke. Perhaps he had scraped it while moving through the undergrowth.
+
+The wound was dirty, with a little dried blood around its edges.
+
+He touched the skin beside it.
+
+Tender.
+
+"Not ideal."
+
+He had no way to clean it properly. The river was nearby, but he did not want to keep washing it with untreated water. He had no bandages, no disinfectant, and no proper clothing to protect it.
+
+For now, he would have to keep it from getting worse.
+
+He resumed walking, trying not to put too much pressure on that leg.
+
+The path curved around a cluster of bushes. Beyond them, the trees were noticeably thinner. There was more light ahead, and the air carried a faint smell of smoke.
+
+Eric stopped.
+
+He sniffed again.
+
+Smoke.
+
+Not the smell of damp wood or decaying leaves. This was familiar. The smell of a hearth, of wood burning somewhere with purpose.
+
+He looked toward the brighter patch between the trees.
+
+His heart began to beat faster.
+
+He walked on.
+
+The path widened slightly, and the ground became firmer. He noticed another broken branch, then a shallow rut that might have been left by a cart. There were small signs of use everywhere once he began looking for them.
+
+He was getting closer.
+
+He tried to walk faster, but his knee protested. He slowed again, breathing through the discomfort.
+
+A few minutes later, the trees opened.
+
+Eric stopped at the edge of the forest.
+
+Below him, in a shallow valley beside the river, stood a village.
+
+***
+
+It was small.
+
+A collection of low buildings clustered behind a wooden palisade. The wall followed the curve of the settlement, built from thick logs driven into the earth. Some of the tops had been sharpened. At the base, angled stakes projected outward, making it harder for anything large to charge directly at the barrier.
+
+A wooden watchtower stood near the entrance. It was not particularly tall, just a raised platform supported by four heavy posts, with a small roof and a bell hanging beneath the crossbeam.
+
+Smoke rose from several chimneys.
+
+The village was awake.
+
+Eric could see movement between the buildings. A person carrying something across an open space. Another figure near a wooden fence. A dog, or something that looked like one, moving along the inside of the palisade.
+
+He stared.
+
+For a moment, he could not make himself move.
+
+The village was not the place he remembered. The buildings were arranged differently, and the river bent in the opposite direction. The palisade was new to him. There were no familiar faces, no voices he could recognize from this distance.
+
+But the shape of it stirred something.
+
+The low roofs. The smoke. The narrow dirt track leading toward the entrance. The little patches of cultivated ground beyond the wall.
+
+It reminded him of home.
+
+Not the home he had just left in the modern world. The other one. The one he had lost when he was six.
+
+He remembered running between houses, his feet dusty from the road. He remembered the smell of cooking food drifting through the village in the evening. He remembered his mother's voice calling him back before it grew too dark.
+
+The memories were incomplete. A few images, a feeling of warmth, the impression of a place that had once been ordinary enough to take for granted.
+
+He had spent fourteen years trying not to forget it.
+
+Now he was looking at something that might have belonged to that same world.
+
+Eric swallowed.
+
+"People."
+
+The word came out almost as a whisper.
+
+He looked at the village again.
+
+There would be questions. Plenty of them. He had no explanation for appearing naked in the forest. He did not know the local customs, the state of the kingdom, or even whether he was anywhere near the place he had once lived.
+
+But there were people.
+
+People meant food. Shelter. Clothes. Information.
+
+He could ask for help.
+
+The thought was so simple that he almost laughed.
+
+Then his stomach cramped.
+
+The laugh never came.
+
+He took a step forward.
+
+His knee buckled slightly, and he caught himself against a tree. Pain ran through his leg. He looked down and saw that the cut had begun bleeding again, a thin red line trailing down his shin.
+
+He pressed his lips together.
+
+He was closer now. He could make it.
+
+The path continued down the slope toward the village. He followed it, one careful step at a time.
+
+As he descended, the details became clearer. The palisade was made from uneven logs, some darker than others. The entrance was a simple gap between two heavier posts, with a wooden gate that could be pulled across if needed. A few small fields lay outside the wall, though most of the ground was covered in rough grass and scattered stones.
+
+There was no grand road leading into the settlement. Only a dirt track, worn by feet, hooves, and the occasional cart.
+
+It looked poor.
+
+Not abandoned. Not desperate. Just small and practical, built by people who had to make use of whatever they had.
+
+Eric slowed when he reached the last line of trees.
+
+He was still naked.
+
+The realization returned with uncomfortable clarity.
+
+He looked down at himself, then toward the village. His arms were scratched, his feet dirty, and his knee was bleeding. He probably looked less like a traveller and more like someone who had escaped from somewhere.
+
+He considered turning back into the forest to find something to cover himself.
+
+Then he looked at the village again.
+
+No.
+
+He needed help now.
+
+He took another step.
+
+The ground seemed to shift beneath him.
+
+Eric stopped and blinked. The village blurred slightly, then returned to focus. He had not eaten since the previous evening, and the walk had taken more out of him than he wanted to admit.
+
+He tried to steady his breathing.
+
+*Just a little further.*
+
+He had said the same thing to himself in the forest, and it had worked.
+
+He could do it again.
+
+A few more steps.
+
+The entrance was not far now. He could see the gate more clearly. Someone was standing near it, though he could not tell whether the person had noticed him.
+
+Eric raised one hand.
+
+He tried to call out.
+
+His throat was dry, and the sound barely came.
+
+"Help..."
+
+He swallowed and tried again.
+
+"Please..."
+
+The figure near the gate moved.
+
+Eric took another step, then another. His knee trembled beneath him. The edges of his vision began to darken, and the village seemed to tilt gently to one side.
+
+He reached for a tree that was no longer there.
+
+His hand closed on empty air.
+
+The ground came up quickly.
+
+He struck it with his shoulder and rolled onto his side. Pain flared through his arm and knee, but he could not gather the strength to push himself upright.
+
+For a moment, he stared at the dirt.
+
+He could smell grass and smoke. The village was close enough that he could hear voices now, though the words were indistinct.
+
+Footsteps approached.
+
+Someone shouted.
+
+Eric tried to lift his head.
+
+A shadow fell across him.
+
+He could not make out the face above him, only the shape of a person bending down. A voice spoke, urgent and unfamiliar, yet strangely recognizable.
+
+He wanted to answer.
+
+He wanted to explain that he was not dangerous, that he did not know where he was, that he had simply woken up in the forest and needed help.
+
+But his mouth would not cooperate.
+
+The last thing he felt was a rough hand touching his shoulder.
+
+Then the world went dark.

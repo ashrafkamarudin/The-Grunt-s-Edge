@@ -1,395 +1,715 @@
-# Chapter 4 — The Deal
+# Chapter 4: The Weight of a Name
 
-By the morning after the horn, I can stand without holding the wall.
+Eric woke to the sound of someone chopping wood.
 
-I push off the hay bed and test my weight. My knee holds — not painless, but bearable. The floor is cold against my bare feet. I take a few steps, slow and limping, from the hay bed to the door and back. The room feels smaller than it did when I was lying down.
+The blows came at steady intervals, each one followed by a brief pause. He lay still, staring at the unfamiliar ceiling above him, trying to remember where he was.
 
-I'm not healed yet. But at least I'm functional.
+Then the smell reached him. Smoke, old timber, and something simmering over a fire.
 
-The village feels different today. Hard to say how. Just... quieter. Like everyone's holding their breath.
+Eastwood.
 
-Lena finds me on my second lap. She watches from the doorway, arms crossed, saying nothing. She sets down the bowl.
+He shifted beneath the blanket. Pain pulled at his knee, and his body reminded him of the previous day's walk. His feet throbbed. His shoulders felt stiff, and even his hands seemed sore.
 
-I ask her about the horn.
+For a moment, he wondered whether he had dreamed the forest, the river, and the village.
 
-She tells me.
+He looked down.
 
----
+The blanket was unfamiliar. So was the room. A small wooden table stood against one wall, with a clay cup resting on it. Beside the door sat a pair of boots, worn and considerably too large for him.
 
-She's sitting on the stool, not looking at me, her hands wrapped around a cup that's long gone cold. Her fingers move along the rim — a nervous habit I haven't seen before.
+No dream, then.
 
-*"There was a meeting. About the conscription."*
+He pushed himself upright. The room tilted slightly before settling. He waited for the dizziness to pass, then carefully lowered his feet to the floor.
 
-The word registers. Conscription. Draft. That's what the horn was about.
+The door opened.
 
-*"They need someone to send. To the army."*
+A girl stood in the doorway with a bundle of folded clothes in her arms. She looked to be in her mid-teens, with dark hair loosely tied behind her head. She stopped when she saw him sitting up.
 
-She looks at me.
+"You're awake."
 
-*"They chose you."*
+Eric recognised the words. He thought he understood them, at least.
 
-I let that sit for a moment. Conscription. Army. They chose me.
+"Yes," he replied.
 
-*"Who decided?"*
+His voice came out rough.
 
-She shakes her head. *"Doesn't matter. They just... did."*
+The girl placed the clothes on the foot of the bed. "Good. Father said you might sleep until midday."
 
-*'...doesn't feel like anything yet. Is that normal? Probably not.'*
+Eric looked at the clothes. A plain shirt, trousers, and a belt. They were old but clean.
 
-A flicker of something — irritation, maybe. Who are they to decide this for me? I don't even know them. I've been here a few days and they're already shipping me off.
+"For me?"
 
-*'Should I just... run? Tonight?'*
+She nodded. "They're spare clothes. The trousers might be a little long."
 
-But I already know the answer to that. My knee. No supplies. Nowhere to go.
+He touched the shirt, unsure what to say.
 
-*'...doesn't matter. Can't change it.'*
+"Thank you."
 
-I push it aside. Not like I know what else to do with it.
+The words came more easily now. He had heard them often enough yesterday, and the meaning had settled into place.
 
----
+The girl gave a small nod. "There's water by the door. Wash first. Breakfast is nearly ready."
 
-A man I haven't seen before comes in the evening — thin, grey beard, eyes that don't blink enough. He moves slow and deliberate, like he's counting the cost of every step before he takes it.
+She turned to leave.
 
-He sits on the stool Lena usually uses. She's not here.
+"Wait."
 
-He looks at me for a long moment. I don't know if he's studying me or just thinking about something else.
+She looked back.
 
-*"You heal fast."*
+Eric searched for the words. His thoughts were clear, but the language still seemed to catch between them and his mouth.
 
-It's not a question. Just an observation.
+"Your name?"
 
-I don't respond.
+The girl blinked, then seemed to understand.
 
-*"I'm Barrow. I speak for this village."*
+"Lena."
 
-Pause.
+He repeated it quietly. "Lena."
 
-*"Young man, what's your name?"*
+"And yours is Eric."
 
-*"Eric."*
+He nodded.
 
-He nods. No reaction.
+She studied him for a moment, then smiled faintly. "You remember that much, at least."
 
-*"Where are you from, ... Eric?"*
+The door closed behind her.
 
-I don't answer.
+Eric dressed slowly. The shirt was rough against his skin, and the trousers needed to be rolled at the ankles. He tightened the belt as far as it would go. The clothes smelled faintly of woodsmoke and soap, but they fit well enough.
 
-The pause stretches. The fire pops. My hand finds the edge of the blanket without me deciding to touch it. I don't know why I do that.
+He looked down at himself.
 
-He waits. I don't answer.
+It was a strange feeling, wearing clothes that belonged to a place he had only just found. Stranger still was the fact that he had no idea what he was supposed to do next.
 
-He doesn't push. Just moves to the next question. I notice that. It's good to know — he knows when to stop.
+Fourteen years.
 
-*"Is anyone coming for you?"*
+He had spent fourteen years imagining what he would do if he ever returned. He had pictured finding his family, finding his home, and asking what had happened after he vanished.
 
-*"No."*
+Instead, he had woken in a forest with no clothes, no money, no familiar faces, and no idea how far he was from the place he remembered.
 
-He nods again. Slow.
+He had not even confirmed that the world was the same.
 
-Then he leans forward, elbows on his knees.
+The chopping outside stopped.
 
-The fire pops. Neither of us speaks.
+Eric took the cup of water and drank. Then, after a moment's hesitation, he opened the door.
 
-*"I won't pretend to like this,"* he says. *"Dragging an outsider into our problems isn't something I'd choose... But we don't have the coin to pay the levy, and winter's coming."*
+The house was small, with a central room that served as both kitchen and dining area. A fire burned in a stone hearth. Pots hung above it, and a narrow shelf held several bowls and jars.
 
-He pauses.
+Kael stood outside, splitting a log on a chopping block. He wore a thick shirt with its sleeves rolled up. His movements were economical, the axe rising and falling without wasted effort.
 
-*"There's a conscription order. One able-bodied man from every settlement. We can send someone, or pay in resources."*
+He glanced toward the doorway.
 
-He looks at me.
+"You're up."
 
-*"We don't have enough to pay. And we can't spare a man from the village — everyone we have is needed for winter."*
+Eric nodded. "Yes."
 
-*"You're the only option that doesn't take food from someone's table."*
+Kael rested the axe against the block. His gaze moved briefly over Eric's face, then down to his knee.
 
-Another pause.
+"Can you stand?"
 
-*"So I... no. We're making you an offer."*
+"Yes."
 
-I don't move.
+"Walk?"
 
-*"You let us claim you're from here. Your name goes on the roll as one of ours."*
+Eric considered lying. He decided against it.
 
-My hand finds the edge of the blanket. I don't remember deciding to do that.
+"Some."
 
-*"In return, you get clothes that aren't rags. A knife. Enough food to reach the garrison."*
+Kael gave a short nod, apparently satisfied with the answer. "Eat first."
 
-He lets that sit.
+The girl ladled stew into a wooden bowl and set it on the table. There was bread beside it, darker and denser than anything Eric was used to eating.
 
-*"And this — no one in this village will ask where you came from, or how you ended up in that forest. Ever."*
+He sat.
 
-He leans back. Watches me.
+The stew was thick, with chunks of root vegetables and a little meat. It was not particularly seasoned, but the warmth spread through him as he ate. He tried not to eat too quickly. His stomach had other ideas.
 
-*"I won't lie to you. The army is hard. But they feed you. They give you a place to sleep. A salary. For someone with nowhere to go..."*
+Kael came inside and washed his hands at the basin. He sat across from Eric with a cup of water.
 
-He shrugs.
+For a while, nobody spoke.
 
-*"It's not a bad option."*
+Eric concentrated on the food. He was beginning to recognise more words now, but understanding a conversation was still another matter. The people here spoke quickly when they were comfortable with one another. Their sentences ran together, and unfamiliar words slipped past before he could catch them.
 
-A pause. He looks at me straight.
+Lena seemed to notice.
 
-*"...So how about it?"*
+"Slowly," she said, gesturing toward his bowl.
 
-I open my mouth. Nothing comes out. Conscription. Army. Clothes. Knife. A future I didn't choose. It's all happening too fast.
+Eric looked down. He had nearly finished.
 
-I stay silent.
+"Sorry."
 
-He watches me. The fire pops.
+She shook her head. "You don't need to be."
 
-Then he nods, slow.
+Kael ate in silence. When he finished, he stood and took his bowl to the basin.
 
-*"...I'll give you time to decide. You have until tomorrow morning."*
+Eric watched him.
 
-He reaches the door. Pauses. Doesn't turn around.
+"Can I help?"
 
-*"I hope... you make the right choice."*
+Kael looked at him.
 
-He leaves.
+Eric tried again. "Work. I can work."
 
-The door closes.
+He was not entirely sure how to explain himself. He could not stay here indefinitely, eating their food and occupying their space. He had already been given shelter, clothes, and meals. Whatever else he had lost, he still understood the weight of accepting help.
 
-*'...right choice. What's the right choice? I don't even know.'*
+Kael considered him for a moment.
 
----
+"Your leg needs rest."
 
-I don't sleep that night.
+"I can do something."
 
-I lie on the hay and stare at the ceiling. The fire has burned to embers. The cold seeps through the shutter, settling on my bare arm, raising goosebumps I can't be bothered to cover. My knee aches in a slow pulse that matches my heartbeat.
+"Not today."
 
-I think about staying. But staying where, exactly? I don't think I'm wanted here. The village made that pretty clear. I'm a stranger they've been tolerating. Now they've found a purpose for me.
+Eric lowered his eyes.
 
-I think about leaving. I half-sit up and look at the door. My knee shoots a warning — sharp, immediate.
+It was not a rejection, exactly. Kael's voice had been firm, but there was no anger in it.
 
-*'...and go where? With what leg?'*
+"Let the wound close properly," the older man added. "You can make yourself useful when you can stand without looking ready to fall over."
 
-I don't know the land. I don't have food. I'd probably be dead in two days anyway.
+Lena hid a smile behind her cup.
 
-*'...stupid. Forget it.'*
+Eric understood enough to know he had been made fun of.
 
-I lie back down. The thought dies.
+He almost smiled himself.
 
-I think about the army. Unknown. Dangerous. But they feed you, right? Shelter, purpose — or at least the promise of them. I've been eating this village's food for days. At least in the army I'd earn what I take.
+***
 
-I think about my old world. Gone.
+The morning passed slowly.
 
-I think about this one. I have nothing. No name. No home. No people.
+Kael returned to the woodpile. Lena worked around the house, carrying water, cleaning bowls, and occasionally stepping outside to collect something from the small storage shed behind the house.
 
-But I have family somewhere. Benson. Elysia. They're out there in this world. If I stay in this village, I'll never find them.
+Eric remained near the hearth.
 
-A flicker of something surfaces — fear, maybe. Or anger. It's there for a second, then sinks again.
+He disliked it.
 
-*'...it'll come later. It always does.'*
+Not the warmth or the food, but the helplessness. He had spent years living on his own, studying, managing his expenses, and deciding how to spend his time. He had been able to take care of himself.
 
-*'If I stay, where do I go?'*
+Here, he could barely ask for a glass of water without searching for the right words.
 
-*'If I go, what's waiting?'*
+When Lena passed him with a basket, he stood.
 
-The army's unknown, but at least it's something. I'll be fed. Paid. I'll travel, see places, hear things. More than I'll ever learn from this room.
+She looked at his knee. "What are you doing?"
 
-I don't arrive at courage. I arrive at resignation.
+"Help."
 
-But resignation doesn't mean giving up. It means accepting the only road forward.
+"You should rest."
 
-Survive the army. Earn the salary. Learn the world. Then find them.
+"I rested."
 
----
+She glanced toward the door, then back at him. "Can you carry that?"
 
-I must have slept at some point. I don't remember when. When I open my eyes, the fire is cold and the light through the shutter is pale grey.
+Eric looked at the basket. It contained several folded cloths and a handful of small items. Nothing heavy.
 
-I didn't dream. Or if I did, I don't remember it.
+"Yes."
 
-The elder returns. He stands in the doorway, waiting.
+Lena hesitated before handing it over.
 
-I open my mouth. Close it.
+"Carefully."
 
-He doesn't rush me.
+He took it with both hands.
 
-I look at my hands. The bandages are off now. The cuts are scabbing over. I'm healing. That's the only thing I'm sure of.
+She led him outside, where the morning air was cool and the village was beginning to stir. Smoke rose from several rooftops. Somewhere nearby, a dog barked. A cart rattled along the dirt road, its wheels bumping over uneven ground.
 
-*"...I'll do it."*
+Eastwood looked different in daylight.
 
-He nods.
+The palisade was made of thick, uneven logs, sharpened at the top. Some sections had been reinforced with newer timber, while others looked old enough to have weathered several generations of rain. Beyond it, houses stood close together, most of them built from timber and packed earth. A few small plots of land stretched toward the river.
 
-*"Good. Then it's settled."*
+It was a poor village. He could see that now.
 
----
+There were no paved streets, no shops with glass windows, no electric lights. The houses were practical and worn, built for surviving rather than impressing anyone.
 
-He stays a while to talk. I ask him what the army actually does.
+Yet people were already moving through the morning. A man led two goats along the road. An older woman swept the front of her house. Two children carried a bucket between them, arguing over who was holding more of its weight.
 
-He tells me what he knows — basic, incomplete, pieced together from rumors and old conscripts. Training at a garrison town a few days south. Then assignment to a unit. The term lasts until the campaign ends — no one knows how long that is.
+Life continued.
 
-He says it like it's nothing. *No one knows how long that is.* So I'm signing up for something with no end date. Could be months. Could be years.
+Lena pointed toward a low building beside the house.
 
-I don't ask. I don't think I want the answer.
+"Put it there."
 
-Food and shelter. A small salary.
+Eric followed her instructions and set the basket down on a bench.
 
-Desertion means execution if caught.
+"Good."
 
-*"But you have no family here,"* he adds. *"That's the only thing that stops most men."*
+He waited, uncertain whether he should return inside.
 
-He says it flat. No emotion, just information. He doesn't know more than he's telling me. I can tell.
+Lena was already collecting the cloths. "Come. I'll show you where the water is."
 
-*"He doesn't have answers either,"* I think. But I don't say it.
+She led him around the side of the house to a covered well. A wooden bucket hung from a rope. She demonstrated how to lower it and pull it back up, then handed him the rope.
 
-I ask why the levy exists now, after so long.
+Eric tried.
 
-He shrugs. *"Monster attacks are getting worse. That's what they say. Beyond that..."*
+The bucket dropped too quickly, striking the water with a loud splash. He pulled it back, but the rope scraped against his palms.
 
-He doesn't know more. I don't press.
+Lena watched him struggle.
 
-But I'm still on the word. *Monsters.* Right. This world has monsters. I knew that once. I'd just... forgotten.
+"Not so fast."
 
-And now I'm joining an army that fights them. 
+"I know."
 
-*'...did I just make a mistake?'*
+He did not know.
 
-A pause. The thought sits there.
+She took the rope and showed him again, this time letting it slide through her hands in a controlled manner.
 
-*'...doesn't matter now. Already said yes.'*
+Eric tried a second time.
 
-I push it down.
+The bucket reached the water without a splash. Pulling it up was harder, but he managed.
 
-Barrow stands.
+"Better," she said.
 
-*"Well... if you don't have any more questions, let's go. I'll show you around the village. Can't have you not knowing anything about it if we're going to say you're from here, right?"*
+He handed her the bucket.
 
-I follow him out.
+It was a small thing. A simple task. Yet he felt a quiet satisfaction at having managed it without making a mess.
 
-The cold hits me first — sharper than I remember, wider than a room can hold. I've been inside so long I forgot how open the sky feels.
+Lena poured the water into a container.
 
-We walk. The ground is muddied from foot traffic. He points as we go.
+"Do you remember anything?" she asked.
 
-*"That's the well. You've probably heard it from your room."*
+Eric looked at her.
 
-*"Smithy's over there. Aldric runs it."*
+"About here. Before you came."
 
-*"Storehouse at the end. Meeting hall in winter."*
+He understood the question, but the answer was difficult.
 
-I follow his hand, committing nothing to memory. Just letting the village take shape around me.
+"Some."
 
-He stops near the gate.
+"Where you lived?"
 
-*"The name's Eastwood, in case you were wondering. You're from Eastwood now."*
+He shook his head.
 
-I say it quietly. *"Eastwood."*
+"Your family?"
 
-*"That's right. Don't forget it."*
+He hesitated.
 
-He starts walking again.
+The faces came back in fragments. His father's hand. His mother's voice. His brother standing in the doorway. A baby wrapped in a blanket.
 
-*"If anyone asks, you grew up on the north end. Your father was a hunter. Died a few years back. Simple story. No one'll dig."*
+"Yes," he said. "Family."
 
-I nod. I don't know what to say to that.
+Lena waited.
 
-We pass a woman carrying kindling. She nods at Barrow. Glances at me. Says nothing.
+Eric looked down at his hands.
 
-We keep walking.
+"Long time."
 
-At the door to the recovery room, Barrow pauses.
+She seemed to understand that he did not want to say more.
 
-*"Well then. Rest while you can. Tomorrow will be long."*
+"All right."
 
-He leaves.
+She carried the water back toward the house.
 
-I sit down.
+He followed.
 
-*Eastwood.* The village has a name now. It feels more real than it did this morning.
+***
 
----
+By midday, Eric's knee had begun to ache again.
 
-Lena finds me after Barrow leaves.
+He tried not to show it, but Kael noticed when he came back from the yard.
 
-She stands in the doorway. Not quite entering. Her hand rests on the doorframe.
+"Sit."
 
-*"Are you okay?"*
+Eric stopped.
 
-The question catches me off guard.
+"Your leg."
 
-I don't answer.
+"It's fine."
 
-She tries again. *"Do you need anything? I can get more water. More food for the road."*
+Kael looked at him without changing expression.
 
-I still don't know what to say.
+Eric sat.
 
-*"What happens now? Do you just... go with him?"*
+The older man crouched and examined the bandage. The wound was still red around the edges, but it no longer looked as angry as it had the previous day.
 
-*"...I'll be fine."*
+"Keep it clean. Don't put too much weight on it."
 
-I don't believe it. I don't think she does either.
+Eric nodded.
 
-She nods anyway.
+Kael replaced the cloth and tied it securely. His hands were rough, but the movements were careful.
 
-Her hand lingers on the doorframe. Then drops.
+"Thank you."
 
-She leaves.
+Kael grunted and stood.
 
-Her footsteps fade.
+Eric watched him return to the woodpile.
 
-I sit there for a long time after she leaves. The fire crackles. The air is still.
+He wanted to ask about the village, about the road, about how far away the nearest town was. More than anything, he wanted to ask whether anyone had heard of a place that matched the one he remembered.
 
-I just agreed to join an army. To leave this village. To walk into something I know nothing about.
+But he did not know how to explain what he was looking for.
 
-*'...that's real now.'*
+The names in his memory were old. Even if he could pronounce them, would anyone recognise them?
 
-I don't feel anything yet.
+He had been gone for fourteen years. Perhaps the village he remembered no longer existed. Perhaps the people he had known had moved away. Perhaps the place had been destroyed.
 
-But I know it'll come.
+Or perhaps he was not even in the same part of the world.
 
----
+He rubbed his palms together.
 
-I wake before dawn on the third day.
+There was a question he could ask.
 
-I dress in the clothes Barrow left — rough wool, too big in the shoulders, too short in the leg. I tie the knife to my belt. I pick up the bundle.
+"Kael?"
 
-Then I wait.
+The older man looked over.
 
-The room is cold. The fire died hours ago. I stand by the door, listening to the village wake up around me. Footsteps. Voices. A dog.
+Eric took a moment to form the sentence.
 
-I don't know what time the rider will come. So I wait.
+"How far... town?"
 
-The sun rises. Light through the shutter.
+Kael pointed east, beyond the palisade.
 
-Then footsteps approaching.
+"Two days by cart. Less on horseback."
 
-I step outside.
+Eric absorbed that.
 
-The rider's at the gate. Same uniform. Same tired horse. Same scroll case at his belt. He doesn't dismount.
+"City?"
 
-Barrow is standing with him.
+Kael's expression suggested the answer would not be encouraging.
 
-I walk through the village. The clothes are too big, shifting with each step. The knife is at my belt. The bundle is in my hand. Everything I have now fits in one grip.
+"Farther."
 
-People watch from doorways. At the well. They stop and look. Some don't — they turn away, which tells me more than the stares.
+"How far?"
 
-I keep my eyes forward.
+"Several days."
 
-I reach the gate. Barrow nods at the rider.
+Eric nodded.
 
-*"This is him. Eric. From Eastwood."*
+That was not much to go on, but it was something.
 
-The rider looks at me. Looks at Barrow. Doesn't question it.
+Kael returned to his work.
 
-*"You're the one?"*
+Eric watched him split another log. The axe struck, and the wood separated cleanly.
 
-I nod.
+He looked at the pile.
 
-Barrow turns to me. He doesn't say much. Doesn't need to.
+"Can I try?"
 
-*"You follow him. Do what they tell you. You'll be fine."*
+Kael paused.
 
-A pause.
+"No."
 
-*"May Fortuna watch over you, Eric."*
+Eric blinked.
 
-It's the first time he's said my name.
+"Why?"
 
-*'...Fortuna. I don't know who that is. But I'll take whatever help I can get.'*
+"Because you can barely stand."
 
-The rider jerks his head toward the road.
+The answer was so straightforward that Eric had no response.
 
-*"Move."*
+Lena, passing behind him, laughed quietly.
 
-I move.
+***
 
-I don't look back. I don't know if anyone's watching. It doesn't matter.
+In the afternoon, Lena sat at the table with a small piece of cloth and a needle. Eric sat opposite her, watching as she worked.
+
+She had offered to teach him some words.
+
+It began with objects around the room.
+
+"Table."
+
+Eric repeated it.
+
+"Fire."
+
+He repeated that too.
+
+"Water."
+
+"Water."
+
+She pointed toward the door. "Door."
+
+"Door."
+
+Some words were easier than others. A few sounded familiar enough that he could guess their meanings, while others seemed to have no connection to anything he knew.
+
+Lena corrected his pronunciation when it was wrong.
+
+He repeated the words until he could say them without hesitation.
+
+"Food," she said, pointing at the loaf of bread.
+
+Eric looked at it. "Food."
+
+"Yes."
+
+He pointed at the bread. "Bread?"
+
+Lena smiled. "Bread."
+
+He repeated it.
+
+The lesson continued.
+
+At first, she seemed amused by how slowly he learned. Then she became more patient, waiting for him to work through unfamiliar sounds rather than supplying the answer immediately.
+
+It reminded him of learning a language at school, though the circumstances were considerably stranger.
+
+He tried a question.
+
+"How... say... family?"
+
+Lena's needle stopped.
+
+She looked at him.
+
+Then she gave him the word.
+
+He repeated it.
+
+She corrected him once, then again. The third attempt was close enough.
+
+"Good."
+
+Eric nodded, committing the word to memory.
+
+He wanted to learn more. Not just because he needed to understand the people around him, but because language was a bridge. Without it, he was trapped behind a wall of expressions and gestures, unable to explain who he was or ask what had become of the world.
+
+He pointed at himself.
+
+"Eric."
+
+Lena nodded. "Eric."
+
+He pointed at her.
+
+"Lena."
+
+She smiled. "Yes."
+
+He pointed toward the doorway, where Kael was visible outside.
+
+"Kael."
+
+"Father," Lena corrected gently.
+
+Eric looked at her.
+
+She pointed toward Kael again. "My father."
+
+Eric repeated the word. "Father."
+
+"That's right."
+
+He tried the sentence. "Lena's father."
+
+She nodded, pleased.
+
+He looked toward the doorway again. "Kael."
+
+Lena smiled. "You can call him Kael. He's used to it."
+
+Eric gave a small nod. That was one less thing to worry about.
+
+He looked at the two of them.
+
+"Thank you," he said.
+
+Lena tilted her head.
+
+"For what?"
+
+He struggled to find the words.
+
+"Food. Clothes. House."
+
+He paused.
+
+"Help."
+
+Lena looked at him for a moment, then returned to her sewing.
+
+"You're welcome."
+
+It was the first full sentence she had spoken that he understood without needing her to slow down.
+
+***
+
+Later, a knock sounded against the open door.
+
+A man stood outside. Eric recognised him as the one who had introduced himself as Aldric the previous day.
+
+His eyes moved from Lena to Eric.
+
+"He's awake, then."
+
+Lena nodded.
+
+Aldric stepped inside. He carried a small sack over one shoulder, which he placed near the wall.
+
+"Kael."
+
+The older man appeared from outside.
+
+"What's wrong?"
+
+"Nothing. I brought the grain you asked for."
+
+Kael glanced at the sack. "I'll settle it later."
+
+"That's not why I'm here."
+
+Aldric's gaze returned to Eric.
+
+Eric sat still.
+
+He could understand some of what they were saying, but not all of it. Their voices were not raised, yet something in the way Aldric stood made the room feel smaller.
+
+"How is he?" Aldric asked.
+
+"Recovering."
+
+"Good."
+
+The word did not sound particularly warm.
+
+Aldric looked at Eric's bandaged knee.
+
+"Can you work?"
+
+Eric understood that.
+
+He straightened.
+
+"Some."
+
+Aldric gave a short nod. "Then he'll need to."
+
+Kael's expression hardened slightly.
+
+"When he's ready."
+
+"Of course. I didn't say otherwise."
+
+Aldric looked around the room, then back at Kael.
+
+"You know what people are saying."
+
+"I know what you're saying."
+
+"People are worried. We have enough trouble keeping our own fed."
+
+Kael folded his arms.
+
+"He's not eating more than the rest of us."
+
+"Not yet."
+
+The words were quiet, but Eric understood enough.
+
+He looked down at his hands.
+
+He knew he was an extra mouth to feed. He knew the village was poor. He had seen the houses and the worn fences, the small fields, the patched roofs. He did not need to understand every word to recognise the concern.
+
+Food was not unlimited. Space was not unlimited. A stranger could not expect a village to carry him forever.
+
+Lena put down her sewing.
+
+"He's injured."
+
+"I can see that."
+
+"Then why are you talking about him as if he isn't here?"
+
+Aldric turned toward her.
+
+"Because this concerns the whole village."
+
+"He's still a person."
+
+"I didn't say he wasn't."
+
+The room fell quiet.
+
+Kael stepped between them, not quite blocking either of them, but making it clear the conversation would go no further in that direction.
+
+"He'll help when he can. Until then, leave it."
+
+Aldric held his gaze.
+
+For a moment, Eric thought the older man might argue.
+
+Instead, Aldric picked up his sack and pushed it closer to the wall.
+
+"Fine. But don't promise what you can't afford."
+
+He turned toward the door.
+
+Before leaving, he glanced at Eric.
+
+"Rest while you can."
+
+Then he was gone.
+
+Eric remained silent.
+
+He understood enough to know that Aldric did not want him there. He also understood that the man had not threatened him or tried to throw him out. His words had been blunt, but they came from a concern Eric could not dismiss.
+
+Lena picked up her sewing again.
+
+"Don't mind him."
+
+Eric looked at her.
+
+"He is... angry?"
+
+Lena considered the question.
+
+"Sometimes."
+
+"Because me?"
+
+She hesitated.
+
+"Not only because of you."
+
+Eric waited, but she did not explain further.
+
+Kael returned to the yard.
+
+The conversation was over.
+
+***
+
+That evening, Eric sat near the hearth while Lena prepared supper.
+
+His knee hurt less than it had that morning, though Kael had forbidden him from doing anything that required much walking. He had spent the afternoon learning words, carrying a few light items, and watching the village move through its routines.
+
+It was not much.
+
+Still, he had done something.
+
+Lena placed a bowl in front of him.
+
+"Eat."
+
+He smiled faintly.
+
+"Eat. Yes."
+
+She sat opposite him.
+
+For a while, they ate in silence. Kael came in later and joined them, setting his cup beside his bowl.
+
+Eric looked at the two of them.
+
+He had no right to assume they would keep him here. He had no idea how long he could stay, or what would happen when his injuries healed. Tomorrow, he would have to ask more questions. He needed to find out where he was, whether there were roads to other settlements, and whether anyone could help him discover what had happened to his family.
+
+But those questions could wait until he had the words to ask them.
+
+For now, there was food in front of him, a roof above his head, and a fire keeping the cold outside.
+
+He was not home.
+
+He was not even close to knowing where home might be.
+
+But for the first time since waking in the forest, he had managed to get through an entire day without feeling that he was about to disappear into the wilderness again.
+
+When the meal was finished, Eric carried his bowl to the basin.
+
+Kael glanced at him but said nothing.
+
+Lena gave him a small nod.
+
+It was an ordinary gesture. Almost nothing.
+
+Eric found himself holding on to it.
+
+He washed the bowl, set it beside the others, and returned to his place near the hearth.
+
+Tomorrow, he would try to do a little more.
+
+For tonight, that was enough.

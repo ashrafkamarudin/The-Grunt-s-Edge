@@ -1,315 +1,549 @@
-# Chapter 5 — The Column
+# Chapter 5: A Place at the Table
 
-I follow the rider through the gate and I don't look back.
+Eric woke to the smell of smoke.
 
-The rider's already on his horse. Two others sit on the ground nearby — bundles beside them, clothes that don't fit. One looks about my age, square-jawed, shoulders back like he's trying to be bigger than he is. The other is younger, narrower, keeps one hand on his pocket like he's checking something's still there.
+For a few moments, he lay still beneath the blanket, staring at the wooden ceiling. The room was quiet, save for the occasional creak of the house and the faint sounds of movement downstairs.
 
-The rider looks at me and jerks his chin toward them.
+His knee still ached. Not as badly as before, but enough to remind him that he wasn't quite back to normal.
 
-*"You're the third. Move."*
+He shifted beneath the blanket and winced.
 
-He nudges his horse forward. The two others stand and follow.
+"Careful with that leg."
 
-I follow.
+Kael's voice came from the doorway.
 
----
+Eric turned his head. The older man stood there holding a small bundle of firewood.
 
-We walk.
+"Morning," Eric said.
 
-The rider leads. The three of us fall in behind him. The younger one walks ahead of me. The square-jawed one drops back after a while and looks at me.
+The word came more easily now. He still had to think before speaking, but the sounds and meanings were beginning to settle into place.
 
-*"Hey, you from Eastwood?"*
+Kael nodded. "How's the knee?"
 
-*"Yeah."*
+Eric considered it before answering. "Better. Still hurts."
 
-*"I'm Darrin."* He jerks his head at the younger one. *"Him too. Tomas."*
+"Then don't push it."
 
-Tomas doesn't react. Just keeps walking, hand on his pocket.
+Kael set the wood beside the wall. "There's no need to rush. You'll have plenty of work when you're better."
 
-*"Two from Oakfell?"* I ask.
+Eric wasn't sure whether that was meant to be reassuring.
 
-*"Oakfell's bigger. Got a mill and a proper well. Bigger village means bigger quota."*
+After Kael left, he sat up slowly and rubbed his face.
 
-*"How many does Oakfell have to send?"*
+His body felt stiff. His knee was sore, his shoulders ached, and he was beginning to suspect that sleeping on a proper bed had spoiled him more than he realised.
 
-*"Only two. Me and Tomas."* He shrugs. *"Tomas hasn't said a word since we left. Just walks."*
+Still, it was a bed.
 
-I look at Tomas again. Still checking his pocket.
+A roof.
 
-*"His father was angry,"* Darrin adds. *"Mother cried at the gate."*
+A warm room.
 
-I don't know what to say to that. Neither does he, apparently.
+He wasn't about to complain.
 
-*"...I'm Eric."*
+At least, not seriously.
 
-He nods. We walk in silence for a while.
+***
 
----
+The next few days passed quietly.
 
-The road passes through farmland, then forest, then farmland again. The rider stops once to let his horse drink. Doesn't offer us food. We eat from our own bundles — hard bread, dried meat, whatever the villages gave us.
+Eric's knee improved little by little. Kael checked the wound and changed the bandage when necessary, never making much of it. Lena helped him with ordinary words and phrases, repeating them patiently when he struggled.
 
-Darrin talks sometimes. His village has a well that everyone shares. His father works the mill. He's never been more than a day's walk from home.
+He learned where the cups were kept, which bowl belonged to whom, and how to ask for things without having to point at them.
 
-I nod at the right moments. Don't offer much.
+His speech was still awkward. He could follow most simple conversations if people spoke slowly, but longer sentences often escaped him. Sometimes he understood the individual words without understanding what they meant together.
 
-Tomas eats alone. Checks his pocket. Doesn't speak.
+Lena seemed to find that amusing.
 
----
+"You understood that," she said one morning after he'd answered a question incorrectly.
 
-We reach the gathering point near evening of the second day.
+"I understood the words."
 
-A crossroads. A well. A supply cart. Riders standing around, ignoring us.
+"Then why did you do the wrong thing?"
 
-The crowd.
+Eric looked at the object in his hands, then back at her.
 
-I stop walking when I see it.
+He didn't have an answer.
 
-Dozens of them. Sitting on the ground, leaning against trees, standing in small clusters with the same bundles and clothes that don't fit and the same empty look. I count without meaning to. Must be at least sixty.
+Lena smiled and explained it again.
 
-I keep my face still. Or try to.
+As his knee recovered, Kael allowed him to take on small tasks. At first, these were little more than carrying things from one room to another or helping bring water inside. Later, he was trusted with heavier work, though Kael still watched to make sure he didn't overdo it.
 
-Darrin stops beside me. Stares.
+Eric discovered that ordinary life in Eastwood required considerably more effort than he was used to.
 
-*"Wow... that's a lot more than I expected."*
+There was no tap to turn when someone needed water. No switch to bring light into a room. No refrigerator to keep food fresh, no stove that could be turned on with a simple twist.
 
-I nod. I don't trust my voice yet.
+Even keeping warm required planning.
 
-Tomas has stopped too, a few steps back. He's not checking his pocket anymore. He's just staring.
+Firewood had to be gathered, split, stacked, and kept dry. Water had to be carried. Meals took time to prepare. Once the sun went down, the house grew dim unless someone kept the fire going or lit a lamp.
 
-Our rider swings off his horse and walks toward a scarred man with a board and charcoal. They exchange few words.
+He missed convenience.
 
-The scarred man looks at us. At me.
+He missed it a lot.
 
-Our rider gestures. *"Three. One from Eastwood. Two from Oakfell."*
+One morning, while carrying a bucket of water, he caught himself thinking about hot showers.
 
-The scarred man makes marks on his board. Glances at Darrin, at Tomas, at me. Makes another mark.
+Not washing with a basin. Not pouring warm water over himself while trying to avoid wasting any.
 
-*"Eastwood. First time sending anyone in years."*
+An actual shower.
 
-*"First time for everything."*
+Hot water whenever he wanted it.
 
-The scarred man walks away.
+He almost laughed at himself.
 
-I stand there. The crowd moves around me. More conscripts arrive. More riders report.
+He had never thought something so ordinary could become a luxury.
 
-I sit down against a tree and watch the gathering grow.
+***
 
-That evening, the mounted knight gathers us in the clearing near the well. He waits until the talking stops — takes his time, lets the silence settle.
+By the time Eric could walk without favouring his knee, the mornings had grown noticeably colder.
 
-He gestures. The riders move through the crowd, handing out spears. Not good ones — old shafts, some warped, some with heads that wobble. But spears.
+The change was difficult to miss.
 
-*"You're marching to Grayford tomorrow at first light. That's your training ground. The march takes five days. Keep pace, follow orders, stay with the column."*
+A thin layer of frost sometimes clung to the grass outside the village. People wore thicker clothing, and smoke rose steadily from the chimneys of the houses. The days seemed shorter, too. By late afternoon, the sunlight had already begun to fade.
 
-He looks across the crowd.
+Winter was approaching.
 
-*"You're part of the military now. That means no trouble. Not with each other, not with the riders, not with anyone we pass on the road."*
+Eastwood was preparing for it.
 
-A pause.
+Eric noticed the changes first through the work.
 
-*"The road is relatively safe. But we're not so far from the frontier that stray monsters can't wander through. It's unlikely, but it happens."*
+There was more firewood to collect and stack. Sacks of grain were carried into storage. Vegetables were sorted, cleaned, and put away. Some were dried, while others were preserved for later use. Hay was moved beneath shelter, roofs were inspected, and fences were checked for loose boards.
 
-He looks across the crowd.
+Nobody seemed particularly surprised by the amount of work.
 
-*"If something attacks, you use your spear. You don't have to hold formation — you haven't trained for that. Just stab it and try to stay alive. Try not to hit each other."*
+It was simply what needed to be done before the weather turned.
 
-He lets that sit. Murmurs ripple through the crowd. A few people shift, grip their new spears tighter.
+Eric, on the other hand, was beginning to understand why people in this world had to plan so far ahead.
 
-*"That's unlikely to happen though heh,"* he adds, almost as an afterthought. *"So don't lose sleep over it."*
+Back on Earth, winter meant putting on a thicker jacket, turning up the heater, and perhaps buying a few extra groceries.
 
-*"If there is trouble I will deal with it."*
+Here, winter meant making sure there was enough food, enough firewood, and enough supplies to last until the weather improved.
 
-He doesn't say how. He doesn't need to.
+There was no running to the nearest convenience store if something ran out.
 
-*"Now rest. We move at dawn."*
+He missed those, too.
 
-He walks away.
+A little more than twenty houses stood within Eastwood's wooden palisade. They were scattered along narrow dirt paths, with small yards and sheds between them. Some were larger than others, but none looked particularly wealthy.
 
-I look at the spear in my hands. The shaft is old, the metal head wobbles slightly, but it's sharp enough to cut. Sharp enough to stab something.
+Near the middle of the village stood a broad communal building. It served several purposes: a place for gatherings and meetings, a storehouse for shared supplies, and somewhere villagers could come together when the need arose.
 
-*'Monsters. I'm supposed to stab monsters with this.'*
+There was a well not far from it, along with livestock pens, storage sheds, and a few areas where people worked together.
 
-I almost laugh. Almost.
+Beyond the palisade lay small fields and patches of farmland.
 
-*'...yeah. This is my life now.'*
+It wasn't much of a village by the standards Eric remembered from Earth.
 
----
+But people seemed to know one another. They greeted each other as they passed, stopped to exchange news, and often lent a hand when someone needed help.
 
-The column forms the next morning at first light.
+There was a rhythm to it all.
 
-About sixty of us stretched across the road. A handful of riders. Two supply carts. The knight at the front. The rest of us have spears we don't know how to use and boots that don't fit.
+And, slowly, Eric was becoming part of it.
 
-The knight calls something. The column lurches forward.
+***
 
-We march.
+Most of his work involved helping Kael.
 
-The first day is slow. Most of us aren't used to walking with purpose. The column stretches and bunches — the young ones fall behind, the older ones push ahead, the riders keep circling back to herd us together. Every hour someone stops to catch their breath. The knight at the front never looks back. Sometimes one of the riders mutters something and the knight's shoulders shift. Once I hear *"village stock"* in a tone I understand without knowing the words.
+The older man was practical and rarely wasted words. He showed Eric what needed doing, explained how to do it, and corrected him when he got something wrong.
 
-I stumble twice in the first few hours. My feet catch on nothing — just the rhythm of the walk, the weight of my body, the weakness in my legs. The first time I catch myself. The second time I nearly go down. Someone behind me grunts. No one helps me up. I get up on my own.
+Splitting firewood proved harder than Eric expected.
 
-*'This is harder than I thought.'*
+His first few attempts were embarrassing. The axe struck awkwardly, the wood shifted, and one particularly stubborn log refused to split no matter how many times he tried.
 
-I don't know what I expected. But it wasn't this.
+Kael watched him struggle for a while before stepping closer.
 
-By midday my legs are screaming. My heels are raw where the boots rub — every step sends a hot spike up through my ankles. I'm thirsty, my throat dry from the morning dust, but I used the last of my water before noon. I see a man peel his boot off during a break and his sock is dark. Couldn't tell if it was sweat or blood. He put the boot back on. He didn't say anything.
+"You're forcing it."
 
-I look at my own feet. I don't want to take the boots off. I'm afraid of what I'll see. So I keep them on.
+Eric leaned on the axe handle, breathing heavily. "It doesn't want to split."
 
-A man asks a rider for water. The rider doesn't answer. The man asks again. *"Shut your mouth and keep walking."*
+"Wood doesn't care what you want."
 
-He keeps walking.
+Kael took the axe and demonstrated. He placed the log properly, adjusted his stance, and brought the blade down with a controlled swing.
 
-I'm thirsty too. My tongue feels thick. I try not to think about it and fail.
+The wood separated cleanly.
 
-During the next break, I sit down and finally pull off my right boot. The sock is damp. When I peel it away, I see the skin on my heel is red and raw, with a blister the size of a coin already starting to swell. It looks wet. It hurts to look at.
+Eric stared at it.
 
-*'...great. Just great.'*
+"Again," Kael said, handing the axe back.
 
-I put the sock back on. I put the boot back on. I don't take the left one off. I don't want to know.
+Eric sighed inwardly.
 
-By evening, the fifteen-year-old boy from the first day is limping. Jaw tight, refusing to fall behind. The riders don't slow for him. I ask if he's alright during a break. He nods. Doesn't meet my eyes. I don't ask again.
+So much for a simple afternoon.
 
-At another rest stop, an older conscript sits next to me. Grey in his beard, a scar across his knuckles, hands callused from years of work. He looks at my boots, then at the spear leaning against my knee.
+He adjusted his grip and tried again.
 
-*"Those fit you?"*
+The next attempt was better. Not good, but better.
 
-I shake my head.
+By the time they finished, his palms were sore and his shoulders felt as though they'd been worked over with a hammer.
 
-*"Thought so."* He nods at the spear. *"You know how to use that?"*
+He looked at the remaining pile.
 
-*"...No."*
+There was still a lot left.
 
-He grunts. *"Neither do I. Fifty years old and they hand me a stick with a nail on top."*
+Wonderful.
 
-I don't know what to say to that.
+At least he was getting better.
 
-He looks at the spear in his own hands. *"I've swung a hammer. Dug ditches. Carried sacks. Never stabbed anything in my life."*
+Kael showed him how to stack the split wood with enough space between the pieces for air to circulate. Eric followed his instructions, occasionally having to rearrange sections when Kael pointed out that he'd packed them too tightly.
 
-He looks at me.
+It was not complicated work, but it required more care than Eric had expected.
 
-*"You?"*
+He was beginning to realise that knowing how something should be done and actually doing it were two very different things.
 
-*"...Same."*
+***
 
-He nods. Stares at the spear for a moment. Then he stands.
+The rest of the village was just as busy.
 
-*"Well. We'll learn, I suppose."*
+Eric helped carry baskets of vegetables, move sacks of grain, and bring hay into storage. Sometimes he was sent to help clean livestock bedding or carry materials for someone repairing a fence.
 
-He walks back to the column. I sit with his words for a while.
+He was still learning, and the villagers knew it.
 
-He gets up when the column moves. I don't see him again.
+A few offered instructions. Others simply handed him a task and corrected him when he made a mistake.
 
-Darrin walks somewhere ahead. Tomas walks somewhere behind. I'm in the middle. The road keeps going.
+Nobody expected him to be particularly good at anything.
 
-The second day, people start talking. And then the real talk starts — the talk about where we're going and why.
+That was probably for the best.
 
-I catch it in fragments, walking near enough to hear without looking like I'm listening.
+One afternoon, he was helping an older farmer hold a length of timber in place while the man repaired a section of fencing. Eric struggled to keep it steady as the farmer worked.
 
-*"—heard the fort's almost lost. They're pulling every warm body they can get."*
+"Hold it higher."
 
-*"That's just something people say. Forts don't get lost."*
+Eric lifted it.
 
-*"This one might. Something came out of the forest. Something big."*
+"Not that high."
 
-I drift past them. Another cluster.
+He lowered it.
 
-*"My cousin's friend served up north. Said the monsters been acting strange for months. Aggressive. Moving where they don't usually go."*
+"A little to the left."
 
-*"Like something's driving them."*
+Eric adjusted his position.
 
-The speaker notices me drifting close. Stops talking. I keep walking.
+The farmer paused and looked at him.
 
-*'Monsters acting strange. A fort that might fall.'*
+"Have you ever done this before?"
 
-I turn the fragments over in my mind. I don't know what's true and what's just talk. But the fact that they're scraping villages for men like me — farmers, boys, old men with grey beards — tells me something. They're desperate. Desperate enough to take anyone.
+Eric considered the question.
 
-*'Can I even learn to fight in time?'*
+"No."
 
-I don't have an answer.
+The farmer grunted. "I can tell."
 
----
+Eric wasn't sure whether to be offended.
 
-On the third day, two men fight.
+He decided it wasn't worth the effort.
 
-It starts over nothing — someone stepped on someone's heel, someone pushed back, and suddenly there's shoving and fists. The column stops. People turn to watch.
+When the fence was finally repaired, the farmer thanked him and offered him a piece of dried fruit. Eric accepted it gratefully.
 
-The riders don't shout. They just ride in, pull them apart, and march them to the front of the column. For the rest of the day, the two walk ahead of the knight's horse, visible to everyone. No one fights after that.
+It wasn't much, but after a morning of work, even something small tasted good.
 
----
+He was learning that food seemed to taste better when he'd spent half the day earning it.
 
-On the fourth day, a man collapses.
+***
 
-He goes down mid-stride — no sound, just folded. The column stops. The knight doesn't. He keeps riding. After a few paces, he calls back without turning: *"Get him up or leave him."*
+Lena was busy in her own way.
 
-A rider dismounts. Forces water into the man's mouth. Slaps him until his eyes focus. Then he's back on his feet, stumbling forward. The column moves again.
+She helped prepare food, carried messages between houses, assisted with sewing, and spent time at the communal storehouse helping organise supplies.
 
-No one asks if he's alright.
+Eric occasionally worked alongside her, though their tasks rarely overlapped for long.
 
----
+Their conversations had become easier.
 
-That night, the rain comes.
+Lena no longer needed to repeat every word, and Eric could now understand most everyday instructions. He still struggled with unfamiliar expressions and longer explanations, but he was getting better.
 
-Not hard — just steady, cold, relentless. The road turns to mud within an hour. There's no shelter, no dry ground, no firewood that will catch. We sit or stand or lie in the wet and wait for morning.
+Sometimes she corrected his pronunciation.
 
-I don't sleep, I just lean against a tree, arms wrapped around myself, shivering so hard my teeth ache. My feet are on fire — I can feel blisters I didn't know I had, hot and wet against the inside of my boots. I'm too tired to take them off. Too scared of what I'll find.
+Sometimes he corrected himself.
 
-Around me, shapes huddle in the dark. Someone coughs. Someone else is crying — trying to hide it, not doing a good job. My stomach is empty. The last of my bread was soggy from the rain. I ate it anyway.
+And sometimes he said something so badly that she had to turn away to hide her laughter.
 
-*'I want to go home.'*
+"You said that wrong," she told him one afternoon.
 
-The thought comes out of nowhere. I don't even know where home is anymore.
+"I know."
 
-*'This is only the march. Training hasn't even started yet.'*
+"You know?"
 
-*'...I don't know if I can do this.'*
+"I knew after you laughed."
 
-*'Can't quit. There's nowhere to quit to.'*
+Lena grinned.
 
-The knight doesn't give the order to stop. He just stops when the light is gone, and starts again before it returns.
+Eric shook his head.
 
----
+He was beginning to suspect she enjoyed correcting him more than she needed to.
 
-Before dawn on the fifth day, someone tries to run.
+Still, he didn't mind.
 
-I hear it more than I see it. Shouts. Feet on wet ground. Then nothing. In the morning, the man is back. The knight makes him stand in front of us.
+It was easier to learn when someone was willing to be patient with him.
 
-*"Next time I won't bring you back."*
+One afternoon, while they were carrying supplies back from the communal building, Eric noticed Lena struggling with a basket that was heavier than it looked.
 
-That's all. No shouting. No violence. Just the fact.
+"Here."
 
-The man rejoins the column. We march.
+He reached for it.
 
-*'He tried to run. They caught him. That's what happens.'*
+"I can carry it."
 
-I think about it for a second. Just a second. What it would be like to slip away at night, find a road heading south, disappear into a village where no one knows my name.
+"I know."
 
-*'...and do what? Go where?'*
+"Then why?"
 
-I don't have an answer.
+"Because I can carry it too."
 
-*'Doesn't matter. Can't run anyway.'*
+She looked at him for a moment before letting him take the basket.
 
-I look at the road ahead and try to find something to feel. Fear? Anger? Regret? Nothing comes yet. Just the ache in my legs, the fire in my feet, the hollow in my stomach. I can't remember the last time I wasn't thirsty.
+Eric adjusted his grip.
 
-I'm about to become a soldier. I don't know how to fight. I don't know if I'll survive training. I don't know anything.
+It was heavier than expected.
 
-*'...please let the training at least be easier than the march.'*
+He said nothing.
 
-I almost snort at that. As if anything here is designed to be easier.
+Lena noticed anyway.
 
-*'...one step at a time.'*
+She smiled but didn't comment.
 
-The road keeps going. So do I.
+***
 
-Grayford appears by midday.
+The hunters returned two days later.
 
----
+Eric was helping Kael move firewood when he noticed several villagers gathering near the gate. Two men had returned from the woods with a pair of deer carried between them.
 
-Grayford.
+The animals were laid out near one of the sheds. A few people came over to help, while others began discussing how the meat would be divided and preserved.
 
-Walls. Stone. Soldiers at the gate. A sound ripples through the column — murmurs, exhales, someone saying *"finally"* under their breath. The word spreads like a sigh.
+It seemed like an ordinary hunting trip.
 
-Somehow, we made it.
+Eric watched as one of the hunters spoke with Kael.
 
-I keep my face still. But inside, something loosens. Just a little.
+"Found tracks farther north," the man said. "Large ones."
 
-I steel myself and step through the gate.
+Kael glanced toward the forest beyond the fields. "Anything following them?"
+
+"Couldn't tell. The ground was too hard in places."
+
+"Could be something passing through."
+
+"Could be."
+
+The conversation didn't seem to alarm either man.
+
+Eric waited until the hunter had moved away before asking Kael about it.
+
+"What tracks?"
+
+"Something large in the woods."
+
+"What kind?"
+
+Kael shrugged. "Hard to know without seeing them."
+
+Eric looked toward the forest.
+
+He still wasn't used to the idea that creatures unlike anything he'd known on Earth lived beyond the village.
+
+He had heard people talk about monsters before. The word still sounded strange to him, even though he was beginning to understand that it covered a great many different things.
+
+Kael noticed his expression.
+
+"Not everything out there hunts people," he said. "Most creatures keep away from us. They have their own places, their own food."
+
+"And the dangerous ones?"
+
+"We watch for them."
+
+Kael returned to stacking the wood.
+
+The hunters knew the surrounding forest better than most. They understood the tracks, the sounds, and the signs that indicated when something dangerous was nearby. They hunted ordinary game for food, but they also kept an eye out for creatures that might threaten the village.
+
+A few villagers took turns watching the palisade and the surrounding paths. Someone was usually stationed near the gate, while the modest watchtower provided a better view of the nearby fields and woodland.
+
+The palisade wasn't much of a fortress. It was a simple wooden barrier, built to slow animals and discourage anything from wandering too close. The gate could be closed when needed, and the watchtower offered an early warning if something approached.
+
+Beyond that, the Empire's patrols helped keep the area reasonably safe.
+
+Mounted soldiers travelled through the region, inspecting roads and settlements, investigating sightings, and occasionally clearing dangerous creatures from nearby routes.
+
+Eric had seen one of these patrols a few days earlier.
+
+They had passed along the road without stopping for long. The villagers had greeted them, exchanged a few words, and gone back to their work.
+
+It had been surprisingly ordinary.
+
+He had expected a world filled with monsters to be considerably more chaotic.
+
+But people here had learned to live alongside them. They understood the dangers, watched for signs, and took precautions.
+
+The forest wasn't safe.
+
+It simply wasn't constantly trying to kill them.
+
+That distinction made him feel a little better.
+
+***
+
+The weather continued to grow colder.
+
+Eric found himself spending more time near the hearth whenever he had the chance.
+
+He was beginning to understand why Kael kept such a careful supply of firewood. A warm room was one of the few comforts that could make the cold bearable, and keeping it that way took constant effort.
+
+One evening, after helping Lena carry supplies, he sat near the fire and stretched his legs.
+
+His hands were sore.
+
+His shoulders ached.
+
+His stomach was full.
+
+He watched the flames shift and flicker.
+
+It was strange how quickly ordinary things could become important.
+
+A warm meal. Dry clothes. A place to sleep. People who expected him to be there the next morning.
+
+He still missed Earth.
+
+He missed the conveniences, the familiar streets, and the life he'd once complained about without thinking twice.
+
+Sometimes he wondered what had happened to the people he'd known. Whether anyone had noticed he was gone. Whether his friends had looked for him.
+
+And his family.
+
+That thought still hurt.
+
+He didn't know if his parents were alive. He didn't know what had happened to Benson or Elysia. Fourteen years had passed, and he had no idea what he would find if he ever managed to reach them.
+
+For now, there was nothing he could do.
+
+He could only keep going.
+
+"You're staring at the fire."
+
+Eric looked up.
+
+Lena was standing nearby with a small bundle of folded clothes.
+
+"Am I?"
+
+"Yes."
+
+"Just thinking."
+
+She placed the clothes beside him. "Father says you'll be helping with the storehouse tomorrow."
+
+Eric glanced at the bundle. "More work?"
+
+"There's always more work."
+
+He gave a quiet sigh.
+
+Lena smiled. "You'll get used to it."
+
+"I hope not."
+
+She laughed and left him by the fire.
+
+Eric looked back at the flames.
+
+Maybe he was getting used to it already.
+
+***
+
+The days settled into a familiar rhythm.
+
+Eric woke, ate, worked, and returned to Kael's house in the evening. His language improved through repetition, and he gradually became more comfortable speaking with the villagers.
+
+He was no longer completely dependent on Lena to understand what people wanted from him.
+
+He could ask questions, follow instructions, and hold simple conversations without having to carefully arrange every word in his head.
+
+There were still moments when he misunderstood something, but those were becoming less frequent.
+
+He also began noticing small things about the village that he hadn't paid attention to before.
+
+The farmer who always complained about his back.
+
+The old woman who insisted on giving him extra food whenever he helped her.
+
+The children who sometimes followed him around, curious about the stranger who spoke strangely.
+
+The way Kael checked the doors before going to bed.
+
+The way Lena always seemed to have something to do.
+
+They were small details, but they made Eastwood feel less like a place he had stumbled into and more like somewhere people lived their lives.
+
+He wasn't sure whether he belonged there.
+
+He wasn't sure whether he could.
+
+But he was beginning to feel comfortable.
+
+And that was something.
+
+***
+
+One evening, the family ate together as they usually did.
+
+The meal was simple, a thick stew with vegetables and pieces of meat. Eric had grown used to the food, though he still occasionally wondered what he wouldn't give for something from a convenience store.
+
+A tuna mayo onigiri.
+
+He could almost remember the taste.
+
+It was an oddly specific thing to miss.
+
+He lowered his spoon and took another mouthful of stew.
+
+Not bad.
+
+Not an onigiri, but not bad.
+
+When the meal was finished, Kael stood and began gathering the bowls.
+
+Eric reached for the nearest one.
+
+Kael gave him a brief look but didn't object.
+
+Lena passed him another.
+
+"Careful. It's hot."
+
+"I know."
+
+He carried it to the washing area and began cleaning the dishes.
+
+The work was simple, though his fingers didn't particularly enjoy the cold water. He rinsed each bowl and placed it beside the others to dry.
+
+By the time he finished, the fire had burned lower.
+
+Kael was already preparing for bed, while Lena had taken her things upstairs.
+
+Eric washed his hands, changed into his sleeping clothes, and climbed into the bed that had become his.
+
+The blanket was thick. The mattress was soft enough, and the warmth lingering from the hearth made the room comfortable.
+
+Outside, the wind brushed against the shutters. A little cold slipped through the gaps in the wooden walls, but it didn't reach him beneath the blanket.
+
+His body was tired.
+
+His hands ached, and his shoulders felt heavy from the day's work.
+
+But it was a good kind of tired.
+
+For once, he didn't have to worry about where he would sleep, where his next meal would come from, or how he would keep himself warm.
+
+There was a roof overhead.
+
+A fire downstairs.
+
+And people in the house who would be there when he woke.
+
+He thought about Earth for a moment. About the life he had left behind, and the things he still wanted to understand.
+
+He didn't have answers.
+
+Not yet.
+
+But tonight, he didn't need them.
+
+Eric pulled the blanket a little closer and closed his eyes.
+
+The cold could wait outside.
+
+Tonight, he could rest.

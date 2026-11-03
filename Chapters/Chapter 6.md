@@ -1,409 +1,693 @@
-# Chapter 6 — Grayford
+# Chapter 6: Before the King's Due
 
-The column stops just outside the gate.
+The cold woke Eric before the sun did.
 
-No one tells us why, we just stop. The knight captain rides ahead alone toward the wall, and we stand there in the road, not moving, not speaking. Five minutes or maybe ten, I don't know. I'm too tired to count.
+He lay beneath the blanket for a while, listening to the wind brush against the shutters. The room was dim, and the air outside the covers felt unpleasantly cold.
 
-A rider mutters something to another. I catch fragments. *"Sixty."* *"Eastwood, Oakfell, a few others."* *"No deaths."*
+He considered staying in bed.
 
-Then the gate opens.
+Then he remembered Kael.
 
-We shuffle forward. At the entrance, we're told to leave our spears. Stack them against the wall. I lay mine down with the rest and don't look back.
+The older man was almost certainly already awake.
 
-I step through the gate and into Grayford.
+Eric sighed, pushed the blanket aside, and sat up.
 
-*'First city I've seen in this world. And I'm here as a conscript, not a visitor.'*
+His knee had recovered enough that he no longer needed to be careful with every step. It still felt stiff in the mornings, but the pain had mostly faded. He dressed, pulled on the boots Kael had given him, and made his way downstairs.
 
-The thought passes quickly. I don't have time to sit with it.
+Kael was near the hearth, tending the fire.
 
----
+"Morning," Eric said.
 
-The first thing I notice is the noise.
+Kael glanced at him. "You're up early."
 
-Orders being called. Equipment rattling. Boots on stone. The sound of a place that runs on movement and function. The streets are wide, purposeful, lined with stone buildings that look built for use, not comfort. Soldiers move through them in ones and twos. A patrol passes without looking at us.
+"Couldn't sleep."
 
-I stop walking for a second. Just one.
+"Cold?"
 
-*'...looks like medieval Europe.'*
+Eric nodded.
 
-The words come out without thinking. Luckily, no one hears. I don't even know why I said it.
+Kael added another piece of wood to the fire. "It'll get worse."
 
-A rider calls something. The column moves again and I follow.
+Eric looked towards the window. "How much worse?"
 
----
+"Much."
 
-We're led to an open square. A table set up near the center, with a clerk sitting behind it and a ledger open in front of him. A charcoal board beside him with numbers and tallies I can't read from here. Not that I really care.
+That was reassuring.
 
-One by one, we're called forward.
+Lena entered from the adjoining room, carrying a small basket. Her hair was tied back, and she was already dressed for the day.
 
-I watch the process from a distance. Name. Age. Origin. A wooden token handed over. Step aside. Next.
+"You're both awake," she said.
 
-Then my turn comes. I step up to the table. The clerk doesn't look at me, he just looks at the ledger.
+"Your father was awake before me," Eric replied.
 
-*"Name?"*
+"He usually is."
 
-*"Eric."*
+Kael gave them a brief look but said nothing.
 
-He writes.
+Lena placed the basket on the table and began arranging bread and bowls. Eric took a seat while Kael brought over a pot of stew left from the previous evening.
 
-*"Age?"*
+They ate together in the warmth of the hearth.
 
-*"Eighteen."*
+The conversation was ordinary. Kael mentioned that a section of the communal building needed attention, and Lena reminded him that someone had already promised to bring timber.
 
-*"Origin?"*
+Eric listened, following most of it now. He still missed words when they spoke quickly, but he could usually understand the subject.
 
-*"Eastwood."*
+When they finished, Kael stood.
 
-A pause. He glances up for the first time. *"Eastwood. First time sending anyone, isn't it?"*
+"Come with me today. We'll be working at the communal building."
 
-*"...I don't know."*
+Eric nodded.
 
-He grunts and makes another mark. *"Ever handled a spear before?"*
+Lena began clearing the table.
 
-*"No."*
+"Will you be there too?" Eric asked.
 
-*"Ever handled any other weapon before?"*
+"Later. I have things to do first."
 
-*"No."*
+"Things?"
 
-*"What work did you do?"*
+"Things."
 
-I hesitate. *"...Odd jobs. Labor."*
+She gave him a small smile before carrying the bowls away.
 
-He nods. Reaches into a box and pulls out a wooden token. He reads it quickly, then slides it across the table.
+Eric looked at Kael.
 
-I pick it up. A string of characters carved into pale wood. GRF and some numbers I don't understand. The clerk is still writing — he doesn't look up.
+"She always has things?"
 
-*"Three silver a month. Tenure until campaign ends. Paid when the campaign concludes. Death sum of ten silver to your listed family."*
+"Usually."
 
-A pause. He finally glances up.
+That seemed to be the end of the explanation.
 
-*"If you have anyone to send it to."*
+***
 
-Then he's already calling the next person.
+The communal building was already busy when they arrived.
 
-I step aside and look at the token. Three silver a month. Ten silver if I die. I don't know if that's a lot or nothing — I don't know what silver buys here, how the currency works, what anything is worth. In a world I barely understand, the number means nothing to me.
+Several villagers were moving supplies from one side of the room to another. A few sacks of grain had been brought in from a nearby farm, and an older man was checking the quantities against a list.
 
-*'GRF742. Something fifty-one. This is who I am now.'*
+Kael greeted him before setting down the tools he had brought.
 
-I tuck it into my pocket and wait.
+Eric looked around.
 
-Then I'm waved toward a table where a man in a blood-stained apron is working. He doesn't look up. Just points at a crate.
+The building was larger than most of the houses in Eastwood. Its main room served as a gathering place, but much of the available space was used for storage. Shelves lined one wall, and several large containers stood near the back.
 
-*"Sit."*
+There were signs of recent work everywhere. Some of the shelves had been reinforced, and a section of the floor near the entrance was being repaired.
 
-I sit. He grabs my foot without asking and pulls off my boot. The sock comes with it. He looks at the heel, at the raw blister, at the red skin around it. He grunts, dips a cloth into something that smells sharp, and wipes it across the wound. I hiss through my teeth.
+"Take those over there," Kael said, pointing towards a stack of timber.
 
-*"Don't be soft."*
+Eric picked up the first piece.
 
-He smears a paste over it. Cool for a second, then it starts to sting. He wraps it in clean cloth, quick and tight, and lets go.
+The work was straightforward. He helped move the timber, carried a few containers, and held boards in place while Kael and another villager secured them.
 
-*"Other foot."*
+It was tiring, but manageable.
 
-The left is worse. The blister has burst at some point — I didn't even feel it. The skin underneath is pink and wet. He does the same thing. Faster this time.
+While they worked, Eric noticed that the older man checking the supplies kept returning to his list. Every sack was counted before being moved.
 
-*"Keep them dry. Change the wrap if it gets wet. You'll be fine."*
+After a while, curiosity got the better of him.
 
-He's already reaching for the next person before I've finished putting my boot back on.
+"What are you counting?"
 
-I stand. Walk back to the others. My feet feel better. Not good. But better.
+The man looked up.
 
-*'...at least they patched me up. Means they want me alive. For now.'*
+"Grain."
 
----
+Eric waited.
 
-After the roll call, we're sorted.
+"How much we have," the man added. "And how much each household has brought in."
 
-A man walks through the crowd, looking at us, pointing. He doesn't ask questions. He just looks.
+Eric nodded. "For winter?"
 
-*"You. Left."* — to a man with a bandaged hand.
-*"You. Right."* — to a broad-shouldered conscript who looks like he's swung an axe before.
-*"You. Middle."*
+"Partly. Some stays here. If a household has a poor harvest or runs short, they can ask for help."
 
-I'm in the middle.
+"Everyone contributes?"
 
-I watch the left group get led away toward the supply yard. The right group — the ones who looked strong, or trained, or lucky — get taken somewhere else. The middle group stays where we are.
+"When they can."
 
-No one explains what any of it means. But I understand enough.
+The older man returned to his counting.
 
----
+Eric looked at the sacks again. It wasn't a complicated arrangement, but he could see why they kept records. A village this small couldn't afford to waste what it had.
 
-We're marched to a barracks block. Barracks C. Lower tier. West hall.
+A little later, another villager entered. He was carrying a bundle of folded papers and had the dusty clothes of someone who had travelled along the road.
 
-The door opens and the smell hits me before I see anything. Sweat. Damp wool. Unwashed bodies. Hay that hasn't been changed in weeks.
+"Back from town?" the older man asked.
 
-Rows of bunks. Three tiers high. Narrow gaps between them. Men already lying in some of them, watching us enter with the tired eyes of people who've been here before us.
+The newcomer nodded. "Went to deliver the hides. Prices weren't good."
 
-*"Row three. Bunks twelve to twenty."*
+"Again?"
 
-I find my bunk. Top tier. I drop my bundle on it. The straw mattress is thin and lumpy. The pillow is a folded cloth. The space around me is barely wider than my shoulders.
+"Apparently there's plenty coming in from the other villages."
 
-I sit down. Or try to. My hands fumble with the laces on my right boot. They're stiff, swollen from the march, and I have to try twice before the knot gives. I pull the boot off. The wrapping underneath is clean but I can see a faint stain already — not blood, just damp. The blister still throbs.
+He placed the papers on the table.
 
-I look at it. Then I look away and put the boot back on. I don't bother with the left. It can wait.
+"There's also word that the lord's men have been asking about the harvest."
 
-Around me, the hall hums with noise. Conversations. Someone coughing. Someone arguing about a bunk. A laugh somewhere in the back.
+Kael looked over. "What did they want?"
 
-Across the aisle, a man is trying to wrap his own hand. He's using a strip of cloth torn from his shirt, working one-handed, struggling with the knot. No one helps him.
+"Nothing from us yet. Just asking how much grain was gathered this year."
 
-Further down, someone sits on his bunk staring at the wall. Not moving. Not speaking. Just staring.
+The older man frowned.
 
-Everyone here has something. A limp. A bandage. A silence that says more than words.
+"Why?"
 
-And the smell... it's everywhere.
+The newcomer shrugged. "How should I know? They ask, we answer."
 
----
+Kael said nothing.
 
-A sergeant appears at the door. He doesn't shout. He doesn't need to. The noise dies on its own.
+Eric glanced between them.
 
-He walks through the center of the hall, looking at no one in particular, and then speaks.
+It sounded like an ordinary question, but the way the men reacted suggested it wasn't entirely welcome.
 
-*"You form up at first light. If you're late, you run until I decide you've run enough."*
+He decided to keep listening.
 
-He keeps walking.
+***
 
-*"You don't leave this barracks without permission. If you wander, you'll be found."*
+They worked until midday.
 
-He pauses.
+By the time Eric returned to Kael's house, his arms were sore and his stomach was demanding attention. Lena was sitting at the table, sorting a collection of small household items.
 
-*"You eat when food is served. Miss it, you wait for the next meal."*
+She looked up when he entered.
 
-*"Your sleeping space stays clean. If it attracts rats, you sleep outside with them."*
+"You're back."
 
-*"Fighting among yourselves earns punishment duty. Drawing blood earns the whip."*
+"Eventually."
 
-*"You speak only when spoken to by an instructor or an officer."*
+"Was it difficult?"
 
-He stops near the far wall. Turns.
+"Not particularly."
 
-*"You don't know anyone here. You don't owe anyone anything. Keep your head down and do your work."*
+She glanced at his arms.
 
-*"Lose issued equipment and you replace it. Can't replace it, you work it off."*
+Eric followed her gaze.
 
-*"Break formation without orders and you answer for it."*
+"All right. A little."
 
-A final pause.
+Lena smiled and returned to her work.
 
-*"Run and you'll be brought back. If you're not brought back, no one will come looking."*
+Kael had gone to speak with one of the farmers, leaving Eric and Lena alone.
 
-He looks across the room once. Then he walks out.
+He sat opposite her and accepted the bowl of food she placed in front of him.
 
-Silence holds for a few seconds. Then the noise returns, quieter than before.
+For a while, they ate quietly.
 
-I lie back on my bunk. Stare at the underside of the wooden frame above me. My feet throb. The smell doesn't go away. Around me, sixty men settle into an unfamiliar dark.
+Then Lena looked at him.
 
-*'...tomorrow it starts.'*
+"Kael said you studied."
 
-I don't know if I'll sleep. I don't know if I want to.
+Eric paused.
 
----
+"Yes."
 
-Morning Came. I don't remember falling asleep. But when the door slams open and metal hits the first bedpost, I'm awake.
+"What does that mean?"
 
-Two soldiers move through the barracks, banging on bunks with sticks, shouting. *"Up! Up! Move your feet!"* The noise is everywhere — metal on wood, boots on stone, voices overlapping. I'm off my bunk before I know I'm moving. My right foot hits the ground and I feel the blister — a sharp reminder that yesterday wasn't a dream.
+He considered how to explain it.
 
-*"Did I say stretch? I said up!"*
+"Before I came here, I went to a university."
 
-*"Get your boots on, get outside, move!"*
+She waited.
 
-Around me, men are scrambling. Someone trips over his own boots and goes down hard. A man on the top bunk across from me jumps down, lands wrong, and curses. Another is still tangled in his blanket, trying to pull his trousers on while a soldier's stick slams against the post beside his head.
+"It's a place where people go to study when they're older. You spend years learning about a particular subject."
 
-*"I said move!"*
+"What did you learn?"
 
-*"You think the enemy waits for you to find your other boot? Move!"*
+"Computer science."
 
-A conscript near the door is fumbling with his belt. The soldier behind him grabs him by the shoulder and shoves him through the doorway.
+Lena repeated the unfamiliar words slowly.
 
-*"Outside! Now! Don't make me tell you again!"*
+"Computer... science?"
 
-We push toward the door. There's no order. No line. Just bodies pressing forward. Someone shoves past me and I stumble into the man ahead of him. He grunts but doesn't turn around.
+Eric smiled faintly. "Something like that."
 
-Outside, the air is cold and the sky is still dark. Conscripts spill into the open space near the barracks, a loose crowd that doesn't know how to be a formation. Men are still pulling on their shirts. A few are barefoot. Someone is missing a boot.
+"What is it?"
 
-We stand there in the cold, not quite ready, waiting for whatever comes next.
+He considered the question.
 
-An officer stands at the front. He waits until the shuffling stops. Then he speaks. Not loud. Flat. Tired before the day has started.
+There wasn't an easy way to explain it without showing her something she had never seen.
 
-*"Levies."*
+"It's a kind of study. It involves numbers, logic, and solving problems."
 
-He says it like it tastes bad.
+"Did you like it?"
 
-*"I'm supposed to train you. In two weeks. That's what I was told."*
+"Most of the time."
 
-He shakes his head slowly.
+"What did you do there?"
 
-*"I've seen bad batches before. But you..."* He gestures vaguely at the crowd. *"...you're something else."*
+"Studied, read, attended lessons. Worked on assignments."
 
-A mutter from somewhere in the crowd. Low but not low enough.
+"Every day?"
 
-The officer's head turns. *"Someone has something to say?"*
+"More or less."
 
-Silence.
+Lena seemed to consider that.
 
-A man steps forward from the middle of the crowd. Broad-shouldered. Older than most of us — maybe forty. The same man who sat next to me during the march and asked about my boots.
+"That sounds tiring."
 
-He doesn't shout. His voice is flat. Tired.
+"It could be."
 
-*"We been walking for days. We're hurt. We're hungry. And you talk to us like we're dirt."*
+She returned to her food.
 
-The officer watches him. Doesn't interrupt.
+"Did you have a teacher?"
 
-*"We're not dogs."*
+"Several."
 
-A pause. The officer nods slowly.
+"Like the village elder?"
 
-*"No. You're right. You're not dogs."*
+"Not exactly. There were many teachers, each teaching different subjects."
 
-He gestures. Two soldiers move in. The man shoves the first one off — strong — but the second one hits him behind the knee. He goes down. They hold him there, face in the dirt.
+Lena nodded, apparently satisfied with that explanation.
 
-The officer walks over. Looks down at him.
+Eric took another mouthful of food.
 
-*"Dogs are useful."*
+He found himself missing those days for a moment. Not necessarily the assignments or the sleepless nights, but the simple familiarity of having a place to go and knowing what was expected of him.
 
-He turns and walks back to his position.
+He pushed the thought aside.
 
-The man is pulled to his feet and marched away. Nose bleeding. Holding his ribs. He doesn't look back.
+There was little use dwelling on it.
 
-*'...don't be that guy.'*
+Lena looked at him again.
 
-I look at the officer. I look at the spot where the man was standing. Then I don't think about it anymore.
+"Did you have a family there?"
 
-The officer surveys the crowd. His voice is flat again, like nothing happened.
+The question caught him off guard.
 
-*"I don't want to be here. You don't want to be here. But here we are."*
+He lowered his spoon.
 
-*"So here's how this works. You follow orders. You don't fight each other. You don't talk back. That's it. That's all I ask. Do that, and I won't have to notice you."*
+"Yes."
 
-A pause.
+"Are they still there?"
 
-*"You get one day. One. Because you're too broken to train. After today, you move when I say, eat when I say, sleep when I say."*
+Eric was quiet for a moment.
 
-*"Two weeks. Then you're on your way to the north-east fort. I'll teach you what I can in that time. The rest you'll learn by staying alive — or you won't."*
+"I don't know."
 
-He points at two men near the back. The ones from the fight on the march. I recognize them.
+Lena watched him, then looked down at her bowl.
 
-*"You two. Faster next time."*
+"I'm sorry."
 
-He doesn't explain why he chose them. He walks away.
+"It's all right."
 
----
+She didn't ask anything else.
 
-A soldier leads us through Grayford as the sun rises. He doesn't look back. Just points and walks.
+The conversation moved on, but the question stayed with him.
 
-*"Latrines. Use them before formation, not during."*
+***
 
-I break off from the group toward the latrines. A soldier sitting near the wall watches me pass.
+In the afternoon, Eric accompanied Lena to the communal building.
 
-*"Latrines?"*
+She needed to deliver a list of supplies and collect a few things for the household. The older man from earlier was still there, now speaking with another villager.
 
-I nod and keep moving.
+Eric waited while Lena checked the items.
 
-When I come back, he's still there. Resting against the stone like he never fully decided to stand up again. His eyes track me for a second longer than necessary.
+He had begun recognising some of the people who regularly worked in the building. There was the older man who kept the records, a woman who helped organise food, and several villagers who came and went with supplies.
 
-*"You're from one of the Eastwood batches?"*
+The building seemed to be the centre of more than just storage.
 
-Not a statement. A guess.
+People came here to exchange news, settle small matters, and discuss village concerns.
 
-I pause.
+As Lena finished, a man entered carrying a small bundle. Eric recognised him as one of the villagers who sometimes travelled to the nearby town.
 
-*"...Yeah."*
+He greeted the others before speaking.
 
-He gives a small grunt, like that confirms something unpleasant.
+"Met a man from the lord's household while I was there."
 
-*"Thought so."*
+The older man looked up.
 
-A beat. He shifts, wincing slightly as he does.
+"About the harvest?"
 
-*"Same route I came in on, years back. Eastwood line, Oakfell line... all the same mess."*
+"Not this time. He was asking about the villages along the road. Said there might be another order coming."
 
-He exhales through his nose.
+Kael, who had arrived shortly before them, turned towards the man.
 
-*"They don't change much."*
+"What kind of order?"
 
-I wait, but he doesn't look like he's in a teaching mood. More like he's remembering something he didn't want to.
+The man shrugged.
 
-Then, quieter:
+"Didn't say. Only that the lord's men were expecting word from the capital."
 
-*"Listen."*
+"Did he say when?"
 
-Not commanding. Just tired warning.
+"Soon, apparently."
 
-*"Don't assume what happens here is training."*
+The older man muttered something under his breath.
 
-I frown. *"Then what is it?"*
+"Always something."
 
-A short laugh. No humor.
+Kael remained quiet.
 
-*"Sorting."*
+Eric looked between them.
 
-He tilts his head toward the barracks.
+"What kind of order?"
 
-*"They see who breaks, who adapts, who dies quietly enough not to slow the rest down."*
+The man glanced at him, then back at Kael.
 
-Silence sits between us.
+"Sometimes they ask for supplies," Kael explained. "Grain, timber, whatever they need."
 
-Then he adds, almost reluctantly:
+"And sometimes?"
 
-*"Stick close to whoever looks like they've been through it before. Don't try to be clever. Don't try to stand out."*
+Kael looked at him.
 
-A pause.
+"Men."
 
-*"And don't expect them to notice if you die. They don't care."*
+The word hung in the air.
 
-He waves lightly.
+Eric glanced around the room.
 
-*"Go on."*
+Nobody seemed surprised by it. If anything, the villagers looked as though they had been expecting the possibility.
 
-I turn and walk back. The exchange stays with me longer than it should.
+"Soldiers?" he asked.
 
-*'Sorting. Not training. I don't know which is worse.'*
+"That's what they call for when they want men," the older man said. "The army needs recruits, so the villages are told to provide them."
 
-I file it away.
+"Does that happen often?"
 
-*"Mess hall. You eat when food's served. If you're late, you don't eat."*
+"Often enough."
 
-We file into the mess hall — a long building with benches and tables. A bowl of porridge, thick and warm, with a piece of dark bread and a strip of dried meat. I eat slower than I expected to. Low murmurs around me.
+The older man returned to his work, though his expression had soured.
 
-A conscript across the table looks at his portion. *"Not bad. Thought they'd give us scraps."*
+The man who had brought the news shook his head.
 
-Someone else grunts in agreement. Another one — younger, the one who was limping during the march — almost smiles. *"Maybe it won't be so bad here."*
+"My brother was taken from a village farther south. That was years ago. His wife hasn't heard from him since."
 
-No one argues. It's not much — I'm not full when I finish — but it's more than I thought they'd give us.
+Nobody responded.
 
-Then a few tables over, a man stands up. Pushes his bowl off the table. He's muttering something — I don't catch it. A soldier behind him says something low. The man doesn't sit down.
+Eric looked at Kael.
 
-Two soldiers lift him by the arms and drag him out. His heels scrape across the stone floor. The bowl stays on the table. No one touches it.
+"Has Eastwood had to send people before?"
 
-*'...don't know what he did. Don't need to know. Just need to not do it myself.'*
+"Yes."
 
-*"...don't stop. Keep moving."*
+"How many?"
 
-The soldier at the door gestures. We follow.
+"Not many. We're a small village."
 
-Bathhouse. Schedule is simple: evening, after training. No exceptions.
+The older man gave a quiet snort.
 
-*"This way."*
+"Small enough that every person matters."
 
-Infirmary. I recognize the man in the blood-stained apron. He doesn't look at me.
+Kael didn't disagree.
 
-Training yard. Open ground. Packed dirt. Posts and lines. A few dummies at one end. This is where we'll spend the next two weeks.
+Eric looked down at the supplies Lena was holding.
 
-*"Keep moving."*
+He was beginning to understand why the villagers had reacted the way they had. To someone living in a distant city, a few recruits might be just numbers on a page. Here, each person had a family, a home, and work that someone else would have to take over.
 
-Parade ground. Where we form up. Where the officer stands.
+"Do they get to choose?" Eric asked.
 
-By the time we've walked through every location, the sun is dropping. My feet ache — better than yesterday, but the wrapping has shifted and I can feel the blister rubbing with every step. Not healed. But healed enough.
+"Sometimes the village agrees on who can go," Kael said. "If the order allows it."
 
-We're led back to the barracks. No one speaks.
+"And if nobody agrees?"
 
----
+The older man answered this time.
 
-I sit on my bunk. Around me, the barracks hums with sixty tired men. Someone is already asleep. Someone else is talking in a low voice. The smell is still there.
+"Then the officials decide for us."
 
-I take out the wooden token and look at it. The letters and numbers still mean nothing to me. But they mean something to this place.
+His tone made it clear what he thought of that.
 
-I tuck it into my shirt.
+Nobody spoke for a moment.
 
-*'Well... this is it. My military life begins.'*
+Lena finished checking the supplies.
 
-*'...I wonder if anyone will remember my name.'*
+"Father, I've got everything."
+
+Kael nodded.
+
+They left the communal building together.
+
+***
+
+Later that afternoon, Aldric came to Kael's house.
+
+Eric was outside stacking the last of the firewood when he saw the village representative approaching. Aldric greeted him with a brief nod.
+
+"Kael inside?"
+
+Eric pointed towards the door.
+
+Aldric went in.
+
+Eric continued stacking the wood, though he found himself listening when their voices carried through the open doorway.
+
+"Have you heard anything definite?" Aldric asked.
+
+"Nothing certain."
+
+"That man from town said the lord's men were asking about the villages."
+
+"I heard."
+
+"They'll come here next."
+
+"Probably."
+
+Aldric let out a slow breath.
+
+"We're already short on supplies."
+
+"We have enough for now."
+
+"For now," Aldric repeated. "The harvest wasn't as good as last year. The northern fields gave us less than we expected, and the grain we've put aside won't last forever."
+
+Kael didn't answer.
+
+Aldric continued.
+
+"If they ask for grain, we'll have to see what we can spare. If they ask for timber, perhaps we can manage something. But if they want a man..."
+
+He stopped.
+
+Eric placed another piece of wood on the pile.
+
+"Then we'll have to find someone," Kael said.
+
+Aldric gave a humourless laugh.
+
+"Find someone? As if there's a spare person lying around."
+
+"We'll deal with it when the order comes."
+
+"And what do you expect people to do? The farms need workers. The hunters keep us fed. The rest have their own families to look after."
+
+"I know."
+
+"Then you know what we're facing."
+
+There was a pause.
+
+Aldric's voice lowered.
+
+"My youngest still needs help with the fields. If they take another able-bodied man from this village, someone else's household will have to take on more work. We can't keep losing people."
+
+Kael remained silent.
+
+"Last time, it was the miller's nephew," Aldric continued. "His mother waited nearly two years before she heard anything. And when he finally came home, he could barely walk."
+
+Eric slowed his work.
+
+He hadn't heard that story before.
+
+"Not everyone has the same luck," Kael said.
+
+"Luck?" Aldric replied. "That's what we're calling it now?"
+
+Kael didn't answer.
+
+Aldric sighed.
+
+"I know it's not your decision. But people will look to us when the order comes. They'll want to know what we're going to do."
+
+"We'll talk to them."
+
+"Talking won't make it easier."
+
+"No," Kael said. "It won't."
+
+The conversation ended shortly afterwards.
+
+When Aldric came outside, he passed Eric without saying much.
+
+Eric watched him walk down the path.
+
+There was no hostility in the man's expression. Only a tired sort of concern.
+
+Eric returned to stacking the firewood.
+
+He had heard enough to understand that whatever was coming, it wasn't going to be easy for the village.
+
+***
+
+That evening, Kael was quieter than usual.
+
+Dinner passed without much conversation. Lena seemed to notice, but she didn't ask anything while they were eating.
+
+After the bowls had been cleared, she went upstairs.
+
+Eric remained near the hearth while Kael checked the fire.
+
+"Kael?"
+
+The older man looked at him.
+
+"That order. When will it come?"
+
+"Soon, I expect."
+
+"Do you know what they'll ask for?"
+
+"No."
+
+Eric waited.
+
+Kael sat across from him.
+
+"The Empire sends its orders through the lord's men. They come to the villages and tell us what is required."
+
+"So the lord decides?"
+
+"Not entirely. The orders come from higher up. The lord's people bring them here."
+
+Eric nodded slowly.
+
+"And Eastwood has to provide whatever they ask?"
+
+"Usually."
+
+"Even if we can't?"
+
+Kael was quiet for a moment.
+
+"Sometimes they'll allow another payment. Grain instead of men, or something else of value. But that isn't always offered."
+
+Eric looked at the fire.
+
+"And if they ask for soldiers?"
+
+"Then the village must provide recruits."
+
+"How many?"
+
+"We don't know yet."
+
+Eric remembered Aldric's words. The harvest. The farms. The miller's nephew who had returned barely able to walk.
+
+"Will they take people by force?"
+
+Kael considered the question.
+
+"Usually, the village is given the chance to provide someone first. If we cannot agree, the officials have ways of choosing."
+
+"What ways?"
+
+"Sometimes they draw lots."
+
+Eric wasn't sure he liked the sound of that.
+
+Kael continued.
+
+"Military service isn't always the same for everyone. Some return with money. Some find a place in the army. Others don't return at all."
+
+"And people here just accept it?"
+
+Kael looked at him.
+
+"What choice do they have?"
+
+Eric fell silent.
+
+The fire cracked softly between them.
+
+He looked at the older man.
+
+"Have you served?"
+
+Kael shook his head.
+
+"No. I was needed here."
+
+Eric nodded.
+
+He didn't ask whether Kael had wanted to go. The answer seemed unimportant now.
+
+"What happens if the village can't provide anyone?"
+
+"Then we provide what we can. But the Empire won't simply forget its order."
+
+Kael leaned back.
+
+"Get some sleep. We may have a busy few days."
+
+Eric nodded, though he wasn't sure he would sleep easily.
+
+***
+
+The soldiers arrived the following morning.
+
+Eric was outside with Kael, helping carry a final load of firewood towards the house, when the sound of hooves came from the road.
+
+He looked up.
+
+Three mounted soldiers were approaching Eastwood.
+
+They wore the colours of the Imperial Army, their armour and equipment marked with the insignia Eric had seen on patrols before. The lead rider carried a sealed document case attached to his saddle.
+
+The villagers noticed them almost immediately.
+
+A few people stopped working. Others came out of their houses and gathered near the gate.
+
+Kael set down the wood.
+
+"Stay here," he told Eric.
+
+Then he walked towards the village entrance.
+
+Eric watched him go.
+
+The soldiers stopped just beyond the gate. Their leader dismounted and spoke briefly with the watchman before being directed towards the communal building.
+
+Aldric arrived a moment later, followed by two of the village elders.
+
+The lead soldier removed the document case from his saddle.
+
+"I carry an order from the Imperial authorities," he announced. "For the settlement of Eastwood."
+
+One of the elders stepped forward.
+
+"We are ready to receive it."
+
+The soldier handed over the sealed document.
+
+The elder examined the seal before breaking it.
+
+Eric couldn't hear the words as the man read. He watched the elder's expression instead.
+
+At first, it was unreadable.
+
+Then his eyes narrowed.
+
+He looked towards Aldric.
+
+Aldric took the document and read it himself.
+
+His shoulders stiffened.
+
+The villagers began murmuring.
+
+Kael stood among them, his expression unchanged.
+
+Eric approached him.
+
+"What does it say?"
+
+Kael didn't answer immediately.
+
+The elder folded the document and began speaking to the villagers, explaining that Eastwood's obligation had been formally issued and that a meeting would be held later that day.
+
+Eric looked at the soldiers.
+
+They had delivered their message. There was no urgency in their movements, no sign of hostility. One of them was already checking his horse's tack while another spoke with the watchman.
+
+For them, this was probably just another stop on the road.
+
+For Eastwood, it was something else entirely.
+
+Eric looked back at Kael.
+
+The older man finally turned towards him.
+
+"The Empire has come to collect."

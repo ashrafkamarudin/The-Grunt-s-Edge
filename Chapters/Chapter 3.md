@@ -1,237 +1,826 @@
-# Chapter 3 — The Girl Who Talked
 
-I wake to the sound of a fire.
 
-Not loud — a small one, crackling nearby, casting orange light across a ceiling I don't recognize. Low wooden beams. Plastered walls. A single shuttered window.
+# Chapter 3: Eastwood
 
-I'm lying on something soft. Hay, I think. A blanket over me — rough wool, smelling of smoke and age, scratching against my chin when I move.
+Something was shouting.
 
-I don't know where I am.
+Eric couldn't make out the words. The voice seemed far away, rising and falling above the steady rush of water.
 
-I try to sit up. Pain flares in my knee — not sharp, but deep, the kind that sits in the joint and doesn't leave. My palms sting where the bandages press against raw skin. Every muscle feels like it's been wrung out and hung to dry.
+He tried to open his eyes.
 
-*'...shit.'*
+Light pressed against them. He closed them again.
 
-I lie back and stare at the ceiling.
+His body felt strangely heavy. His legs ached, his feet burned, and something sharp throbbed just below his knee. He tried to move, but the effort made his head spin.
 
-I run through what I remember. The forest. The river. The village. Collapsing. Waking up here. That's it. Everything before that — another world, another life — feels like a dream I'm already forgetting.
+A shadow fell across him.
 
-*'...where am I, really?'*
+“There's someone here.”
 
-I don't have an answer. I don't have anything.
+Another voice answered. Closer this time.
 
-The door opens.
+“Don't touch him yet.”
 
-A girl walks in — brown hair tied back, plain dress, practical apron. She's carrying a wooden bowl, steam rising from it. She sees I'm awake and smiles. She says something. The sounds reach my ears — familiar, but slippery, like trying to hold water in my hands.
+Eric forced his eyes open.
 
-*'...awake... hungry...?'*
+The world appeared in pieces. A grey sky. Blurred branches. Several faces looking down at him. One man held an axe. Another carried a long wooden spear.
 
-I catch something. Not the whole sentence, but fragments, enough to know she's asking if I'm hungry, if I'm awake, something along those lines.
+He tried to speak.
 
-I don't know this language. Or I do — somewhere. It's the language from before, from when I was six, the one I haven't heard in twelve years. It's buried in my head, but it's there.
+His throat was too dry.
 
-I just need to dig it out.
+“Easy,” someone said.
 
-She sets the bowl down beside me. Sits on a stool near the bed. She starts talking.
+The language.
 
-And she doesn't stop.
+Something stirred in the back of his mind.
 
----
+He knew those sounds. He was certain of it. The words were familiar, yet their meaning seemed to slip away whenever he tried to grasp them.
 
-I don't know how long I'm in that room. Days blur. Light through the shutter, then dark, then light again. The fire crackles and fades and gets fed again, and I lose count.
+A hand reached toward his shoulder. Eric flinched.
 
-The food is always the same — root stew, dark bread, sometimes a piece of dried meat chewing feels like a chore and swallowing takes effort but I eat it anyway because my body needs it even if I don't want it.
+“Leave him. He's frightened.”
 
-She comes in the morning, at midday, in the evening. Always with food. Always talking.
+“Or pretending.”
 
-*"—and then the goat got into Old Marta's garden again, and you should have heard her. Screaming like the world was ending. Honestly, that goat's been a menace since spring and nobody does anything about it because it belongs to the elder's cousin, so of course it gets special treatment. If it were my goat, I'd have turned it into stew by now—"*
+“Look at him. He can barely move.”
 
-I catch fragments. Goat. Garden. Screaming. Cousin. Stew. Enough to follow the shape.
+Someone crouched beside him. The man had a weathered face and a short beard. He looked at Eric's feet, then at the blood around his knee.
 
-*"—and the children have been impossible lately. Running through the square, kicking up mud, almost knocked over my washbasin yesterday. I told them if they did it again I'd tell their mothers, and they just laughed. Laughed. Not even sorry. I swear, if I have to chase one more brat out of our yard—"*
+“Can you hear me?”
 
-On and on. The well water tasting strange. Her father came home late and didn't say a word. The bread didn't rise. She stubbed her toe on the same root three times this week.
+Eric stared at him.
 
-I nod at the right moments. At least I'm good at that.
+The question sounded familiar. He thought he understood it, but he couldn't find an answer.
 
-At some point I try to say something back. Just a word. I don't even remember what she asked — something simple, maybe my name or where I'm from. I open my mouth and the sound that comes out is wrong. Clumsy. The shape of it doesn't match what I heard in my head.
+He opened his mouth.
 
-She looks at me. Tilts her head.
+Nothing came.
 
-I shake mine. Look away.
+The man looked over his shoulder. “Get some water.”
 
-She doesn't push. Just keeps talking. I listen harder.
+A cup appeared. Someone supported Eric's head while the bearded man brought it to his mouth.
 
----
+He drank too quickly.
 
-That night, after she leaves, I lie in the dark and think about the language.
+“Slowly.”
 
-I understand it. Or I'm starting to. Which means I knew it before — from before the modern world, from when I was six. It's buried somewhere in my head, and her talking is waking it up.
+The water spilled down his chin. He coughed, swallowed, then tried to reach for the cup himself.
 
-*'What language is that, anyway?'*
+His arm barely moved.
 
-I don't know. I don't remember it having a name. It was just... the way people talked.
+The man holding it gave him another small mouthful.
 
-I open my mouth and try a word under my breath. Just one. *"Water."* The sound comes out closer this time. Not perfect, but closer.
+Eric looked past him.
 
-*'...I can speak it. I just need to remember how.'*
+There were people everywhere. Men with tools and weapons. A woman standing behind them. A boy peering from between two adults. Beyond the crowd stood a wooden wall, with a narrow tower rising above it.
 
-I practice in the dark, alone, whispering words I caught from her. *"Bread."* *"Goat."* *"Cold."* Some come out right. Some don't. I repeat the ones that don't until they feel less foreign.
+A village.
 
-It feels stupid, talking to myself in a dark room. But if I'm going to survive wherever this is, I need to be able to speak.
+He had found people.
 
-I stop practicing and let the silence settle.
+Relief came so suddenly that he almost laughed. Instead, his eyes stung.
 
-Now that the words have stopped, the other thoughts creep in.
+He tried to say something.
 
-*'This is my world. The one I was born in. Then why doesn't it feel like coming home?'*
+A word surfaced.
 
-I spent twelve years on Earth feeling like I didn't belong. Now I'm back here, and it doesn't feel right either. Maybe it never will. Maybe I don't have a world that fits.
+“Water.”
 
-*'If I'm stuck here... what then?'*
+He hadn't expected it. The sound felt clumsy, but he recognised it.
 
-I think about my family. The ones from before. My parents died in the attack — I saw it. But my siblings. Benson. Elysia. They'd be... I do the math slowly. Benson would be in his early twenties. Elysia around sixteen.
+The bearded man glanced at him.
 
-I don't even know what they look like anymore. Benson would be a man now. Elysia — I keep picturing her as a child, but she'd be grown. I don't recognize any version of them.
+“More?”
 
-*'Are they alive?'*
+Eric tried to answer. He wanted to say yes, but the word refused to come. He settled for a weak nod.
 
-I don't know. I don't even know where to start looking. I don't know what kingdom this is, what region, what side of what forest. I don't even know the name of this village.
+The man gave him another sip.
 
-*'What if I find them? What do I even say?'*
+Eric stared at him, trying to remember how to speak. He knew this language once. He had used it every day as a child. Yet fourteen years of other words had buried it beneath layers he couldn't easily reach.
 
-*'Sorry I vanished for twelve years. I was in another world.'*
+He remembered his mother's voice.
 
-I almost laugh. Almost.
+A familiar phrase.
 
-*'...doesn't matter. Can't do anything with that right now. Let's just focus on what's in front of me.'*
+A lullaby, perhaps.
 
-I go back to whispering words in the dark. *"Bread. Goat. Cold. Lena."*
+But when he tried to recall the actual words, his mind offered nothing.
 
-Her name is Lena. She points at herself, says it slow, repeats it until I nod. She doesn't ask for mine. I don't offer it.
+“Where did you come from?”
 
-I still don't trust her or anyone here. I'm in a room I don't know, in a village I don't know, in a world I barely remember, and some girl is bringing me food and talking about goats and I can't tell if I'm being helped or just kept alive for some other reason.
+The question reached him slowly.
 
-The language is coming back. Slowly. Like remembering a song you haven't heard in years.
+Where. Come. From.
 
----
+He understood enough to recognise what was being asked, but not enough to form an answer.
 
-On the second day, I try to stand.
+His lips moved.
 
-I wait until she's gone. Push the blanket off. Swing my legs over the edge of the hay bed. My knee protests — a dull throb that sharpens when I put weight on it, and I grip the wall and pull myself up anyway.
+“I…”
 
-I make it two steps before my legs fold.
+The rest disappeared.
 
-I catch myself on the stool. It scrapes across the floor. I stand there, breathing hard, holding onto the stool like it's the only thing keeping me upright. My palms throb under the bandages. My knee is screaming now.
+The bearded man leaned closer, waiting.
 
-I don't try again. Not yet. I lie back and stare at the ceiling, breathing hard.
+Eric couldn't continue.
 
-*'...can't even stand.'*
+A hand touched his forehead. Someone said something about a fever. Another voice asked whether he had been alone.
 
-If something happens — if I need to run, fight, anything — I'll be dead before I get to the door.
+The bearded man glanced toward the tree line.
 
-*'...doesn't matter. Can't change it tonight.'*
+“Check the path. See if anyone else is out there.”
 
-When she comes back, she looks at the stool, shifted out of place. Looks at me. Says nothing. Pushes it back with her foot.
+Two people moved away.
 
-Next morning, I test my knee. The sharp edge is gone — still hurts, but it's a duller ache now, the kind that means healing. I flex it further than yesterday without my jaw tightening.
+Eric wanted to ask where he was. He wanted to ask what year it was, what kingdom this belonged to, whether anyone knew his family.
 
-I don't try to stand. Not yet. But it's coming.
+But his thoughts had begun to blur.
 
----
+The cup slipped from his fingers.
 
-She's changing the bandage on my knee, same as always, talking about something I'm only half-following. Something about the neighbour's wash line.
+The last thing he saw was the bearded man reaching to catch it.
 
-She finishes the wrap. Runs her fingers along the edge to check it's smooth.
+Then the world disappeared.
 
-She doesn't let go.
+***
 
-Her hands rest there, on my knee, not moving. She's looking at the bandage, but I don't think she sees it.
+He woke to movement.
 
-The fire pops. She doesn't react.
+His body swayed with each step. Something rough pressed against his back, and the air smelled of damp earth, wood smoke, and sweat.
 
-Then she says it. Still looking at the bandage. Still not moving her hands.
+Voices passed above him.
 
-*"My mother died. When I was young. I don't remember her much."*
+“Careful with his leg.”
 
-A pause.
+“I am being careful.”
 
-*"Just the smell of her. That's it."*
+“Then stop complaining.”
 
-She presses the linen down one more time. Lets go.
+Eric tried to open his eyes, but his eyelids felt too heavy.
 
-*"Mine hummed."*
+The ground seemed to rise and fall beneath him. He was being carried.
 
-I don't know why I say it. The words come out before I think about them.
+That was good.
 
-She stops. Looks at me.
+He tried to hold on to the thought.
 
-I didn't mean to say that. I don't talk about my mother. I don't talk about any of it. I don't even know why I remember that detail after twelve years.
+A door creaked. The air grew warmer. He heard footsteps on wooden boards, followed by the scrape of furniture.
 
-But the word is already out, and I can't take it back, and now I'm thinking about her — not her face, I can't see her face, but the sound, the way she used to hum while she worked, the way the village smelled at dusk, the way my father's hand felt around my arm before the light took everything.
+Then he was lowered onto something soft.
 
-I shut it down.
+A mattress.
 
-*'...doesn't matter. Twelve years.'*
+The word came to him from somewhere distant.
 
-Lena just nods. A small smile crosses her face, there and gone.
+He had not slept in a proper bed for what felt like an eternity.
 
-*"That's nice,"* she says.
+Someone pulled a blanket over him.
 
-I didn't know how to respond, so I didn't.
+“His feet are in a terrible state.”
 
-She goes back to the bandage.
+“He walked here?”
 
-Neither of us says anything else about it.
+“Looks like it.”
 
----
+“Madness.”
 
-The horn comes on the third day. Or maybe the fourth. I'm asleep when it happens.
+The voices moved away.
 
-It rips through — not loud, but long, a low blast that hangs in the air and won't fade. I'm awake before I know I was asleep, staring at the ceiling, heart hammering. The fire has died down. The room is cold. Lena isn't here.
+Eric drifted.
 
-I don't move. I just listen.
+***
 
-Voices outside. Distant. Urgent. Footsteps running past. A dog barking.
+He woke again to the smell of herbs.
 
-Another blast.
+Something cool touched his forehead. He turned his head, and a sharp pain travelled through his knee.
 
-I track it. Somewhere outside the village. A signal.
+“Stay still.”
 
-*'...what was that?'*
+The voice was unfamiliar, but closer than before.
 
-I wait for more. Nothing. The footsteps fade. The voices settle. The dog keeps barking.
+Eric opened his eyes.
 
-I lie there and stare at the ceiling. I wonder what the horn means. Probably nothing good. But I won't find out by lying here.
+The room was small. A wooden ceiling stretched overhead, darkened by years of smoke. A narrow window let in a strip of afternoon light. Beside the bed stood a broad-shouldered man with rough hands and a weathered face.
 
-*'...can't do anything with that.'*
+The man was watching him.
 
-I let it go.
+“Can you understand me?”
 
----
+Eric blinked.
 
-She's gone for quite a long time.
+The words came slowly.
 
-When she comes back, she's quiet. She sets the bowl down without looking at me. Her hands move through the motions — stir the pot, stoke the fire, straighten the blanket — but she's not present. She's somewhere else.
+He recognised the question now. Not every part of it, but enough.
 
-She doesn't talk.
+He nodded.
 
-I watch her for a moment. Strange — she's never this quiet. Now I'm curious about the horn and what it meant. I probably won't find out just by staring at her.
+The man's expression eased slightly.
 
-*'...weird. I guess, she'll talk if it's important.'*
+“Good.”
 
-I turn back to the ceiling. I have my own problems to deal with after all.
+Eric tried to speak.
 
-I'm in another world and I still don't know what to do. I don't know where to go. I don't even know if there's a way back — or if I'd take it if there was.
+His tongue felt awkward. He searched for the words, assembling them one at a time.
 
-But I think... I want to stay. At least for now. I want to find out more about this world — the one I was born in.
+“Where…”
 
-I can figure out the next step.
+He stopped.
 
-Stay until I can walk. Learn the language. Gather enough information to understand where I am and what's out there. Then decide.
+The man waited.
 
-It's not a plan. Not really. It's just the next thing.
+“Where… am I?”
 
-The horn. Her silence. None of it matters if I can't figure out the bigger problem first.
+The sentence came out slowly, with an awkward pause in the middle.
 
-*'...haa. One step at a time, I guess.'*
+The man studied him for a moment.
+
+“Eastwood.”
+
+The name settled somewhere in Eric's mind.
+
+Eastwood.
+
+He tried to picture a map. A kingdom. A road. Anything that might help him understand where he had ended up.
+
+Nothing came.
+
+“Can you tell me your name?”
+
+Eric knew this question.
+
+“Name.”
+
+The word came to him first. Then the answer.
+
+“Eric.”
+
+The man repeated it, carefully.
+
+“Eric.”
+
+Hearing his name spoken in this language made something tighten in his chest.
+
+He looked down at the blanket covering him. His eyes moved to the clean cloth wrapped around his knee, then to his feet.
+
+Someone had washed them.
+
+Someone had treated his wounds.
+
+He looked back at the man.
+
+“Thank…”
+
+He hesitated.
+
+The word was there. He could almost hear his mother saying it.
+
+“Thank you.”
+
+The words came out unevenly.
+
+The man's expression shifted. Not quite a smile.
+
+“You're welcome.”
+
+Eric wanted to ask more. There were too many questions, all pushing against one another.
+
+But the room tilted when he tried to sit up.
+
+The man placed a hand against his shoulder.
+
+“Don't. You've had a rough time.”
+
+Eric gave up and leaned back.
+
+He wanted to know the man's name.
+
+He knew how to ask. He remembered the shape of the question, though it took him a moment to find the words.
+
+“You… name?”
+
+The man seemed to understand.
+
+“Kael.”
+
+Eric repeated the name silently.
+
+Kael.
+
+He tried to say it aloud, but his throat was still too dry.
+
+The man took the cup from him.
+
+“Rest. We can talk when you're stronger.”
+
+Eric wanted to argue. He had been lost in a forest, naked and alone. He had finally found people, and now they wanted him to sleep.
+
+But his body had other plans.
+
+His eyes closed.
+
+***
+
+The next time he woke, the room was darker.
+
+A small fire crackled somewhere nearby. He could hear movement in the adjoining room, along with the occasional clink of a pot or bowl.
+
+His stomach tightened.
+
+He was hungry.
+
+The thought was so ordinary that it almost made him smile.
+
+He shifted carefully. His knee hurt, but the pain was duller than before. His feet still burned beneath their bandages.
+
+A door opened.
+
+The broad-shouldered man entered carrying a bowl.
+
+“You're awake.”
+
+Eric pushed himself up on his elbows.
+
+“Hungry?”
+
+The word took a moment to register.
+
+He nodded.
+
+The man placed the bowl on a small stool beside the bed. It contained a thin stew, with barley and pieces of vegetable floating in the broth.
+
+There was a little meat, too.
+
+Eric stared at it.
+
+He had eaten convenience-store food less than a day ago.
+
+At least, it felt like less than a day ago.
+
+The memory of the onigiri seemed impossibly distant. The plastic packaging, the cold green tea, the bright lights of the shop.
+
+He swallowed.
+
+The man handed him a wooden spoon.
+
+“Slowly. You haven't eaten properly in some time.”
+
+Eric took the spoon.
+
+The first mouthful was almost painfully good.
+
+Warmth spread through his stomach. He ate another, then another, trying to keep himself from rushing.
+
+The man sat on a stool nearby.
+
+“Do you remember how you got here?”
+
+Eric stopped eating.
+
+The question was easier to understand now, but answering it was another matter.
+
+“I…”
+
+He searched for the words.
+
+“Forest.”
+
+The man nodded.
+
+“You were in the forest?”
+
+Eric nodded.
+
+“Which part?”
+
+Eric stared at him.
+
+The question was too complicated. He understood the individual words, perhaps, but couldn't assemble their meaning quickly enough.
+
+“I don't…”
+
+He stopped.
+
+The words he needed were somewhere in his mind.
+
+“Know.”
+
+The man waited.
+
+Eric tried again.
+
+“I don't know.”
+
+The sentence came out slowly, but he managed it.
+
+“Were you travelling?”
+
+Eric didn't understand.
+
+The man repeated the question, then gestured toward the window and made a walking motion with his hand.
+
+Eric shook his head.
+
+“Did someone leave you there?”
+
+He caught the word for someone, but not the rest. He shook his head again, unsure whether he was answering correctly.
+
+The man watched him.
+
+“Where are your clothes?”
+
+Eric glanced at himself beneath the blanket.
+
+He knew the words for clothes, but explaining what had happened was beyond him.
+
+“Don't know.”
+
+The man waited, perhaps expecting more.
+
+There was nothing else to say.
+
+Eric looked toward the window. The sky outside had darkened, and the reflection of the fire flickered against the glass.
+
+“Is this…”
+
+He struggled with the words.
+
+“Kingdom?”
+
+The man frowned.
+
+“What kingdom?”
+
+Eric hesitated.
+
+He had no idea what answer he expected.
+
+“Never mind.”
+
+The man leaned back.
+
+“You'll have to tell us more eventually. People are going to ask questions.”
+
+Eric nodded.
+
+He knew that much.
+
+A silence settled between them.
+
+Then a voice came from outside the room.
+
+“Kael?”
+
+The man turned toward the door.
+
+“Here.”
+
+A second man entered without waiting for an invitation.
+
+He was older, with a broad neck and greying hair. His clothes were clean but worn, and his face carried the hard expression of someone accustomed to making decisions that other people disliked.
+
+His eyes moved from Kael to Eric.
+
+“So this is him.”
+
+Kael stood.
+
+“Yes.”
+
+The older man looked Eric over.
+
+“Can you understand us?”
+
+Eric hesitated.
+
+He understood more than he had earlier. The man's tone helped. So did the familiar words he had begun to recognise.
+
+“Some.”
+
+The older man frowned.
+
+“Some?”
+
+Eric nodded.
+
+“Some words.”
+
+It took effort to put the sentence together.
+
+“Good enough. Then we can start with the important questions. Who are you, where did you come from, and why were you walking around the forest without a stitch of clothing?”
+
+Eric understood pieces.
+
+Who. Where. Forest. Clothing.
+
+The rest was too much.
+
+He looked at Kael, hoping for help.
+
+Kael spoke to the older man.
+
+“One question at a time. He's barely able to speak.”
+
+The older man gave a frustrated breath.
+
+“Fine. What's your name?”
+
+Eric understood.
+
+“Eric.”
+
+“Where did you come from?”
+
+Eric looked down.
+
+“Forest.”
+
+“You were found in the forest. I'm asking where you came from before that.”
+
+Eric frowned.
+
+He knew what the man wanted. He simply didn't know how to explain it.
+
+“Far…”
+
+He stopped.
+
+“Far away.”
+
+The older man stared at him.
+
+“Where?”
+
+Eric shook his head.
+
+The man tried another question.
+
+“Do you have family nearby?”
+
+Eric understood the word family.
+
+His grip tightened around the spoon.
+
+“No.”
+
+“Anyone looking for you?”
+
+Eric hesitated.
+
+“I… don't know.”
+
+The older man looked at Kael.
+
+“And we're supposed to believe that?”
+
+Kael folded his arms.
+
+“He's barely able to sit up.”
+
+“He seems able to answer questions.”
+
+“Then ask him when he's stronger.”
+
+The older man looked back at Eric.
+
+“Have you been in trouble with the authorities?”
+
+Eric didn't understand.
+
+“Have you hurt anyone?”
+
+He caught the word for hurt. He shook his head.
+
+“Are you a soldier?”
+
+He recognised soldier.
+
+“No.”
+
+“A merchant?”
+
+Eric didn't know the word.
+
+The older man frowned.
+
+“Then what are you?”
+
+Eric opened his mouth.
+
+He had been a student once. A worker. A person who lived in a city with roads, trains, supermarkets, and hospitals.
+
+None of those answers seemed useful here.
+
+“I don't…”
+
+He struggled.
+
+“Know how…”
+
+He stopped, frustrated.
+
+The words were there, but he couldn't make them work.
+
+The older man looked unconvinced.
+
+Kael moved between them slightly.
+
+“That's enough for tonight.”
+
+The older man glanced at him.
+
+“You're taking this very lightly.”
+
+“I'm not.”
+
+“You've agreed to keep him.”
+
+“I have.”
+
+“Then remember what you agreed to.”
+
+Kael's expression remained steady.
+
+“I remember.”
+
+The older man looked at Eric one last time.
+
+“My name is Aldric. I'm one of the village elders. You can stay here for now, but don't mistake that for an invitation to do as you please. We have little to spare, and we don't take kindly to trouble.”
+
+Eric caught only parts of it.
+
+His name. Village. Stay. Trouble.
+
+He understood enough to know the man wasn't welcoming him.
+
+He gave a small nod.
+
+Aldric seemed satisfied enough with that.
+
+He turned toward the door.
+
+“Kael, a word.”
+
+Kael followed him outside, leaving the door partly open.
+
+Eric lowered his spoon.
+
+Their voices were quieter now, but the house was small.
+
+“You shouldn't have taken him in without knowing more,” Aldric said.
+
+“He was dying outside the gate.”
+
+“And now he's our problem.”
+
+“Mine.”
+
+“Don't be clever. You know what I mean.”
+
+A pause followed.
+
+Then Aldric continued.
+
+“We're already short on hands. The stores won't stretch forever, and the levy is coming. We can't keep taking in people who can't contribute.”
+
+“He'll work when he's recovered.”
+
+“You don't know that.”
+
+“No.”
+
+“Then why take the risk?”
+
+There was a long silence.
+
+“Because someone had to.”
+
+Aldric gave a frustrated breath.
+
+“You always make these things difficult.”
+
+“I'm not asking you to agree.”
+
+“No. You're simply expecting everyone else to live with your decisions.”
+
+Footsteps moved away.
+
+The door opened again a moment later. Kael returned and closed it.
+
+Eric looked at him.
+
+“Trouble?”
+
+He wasn't sure if he had said the right word. It was one of the few he remembered clearly.
+
+Kael pulled the stool closer to the bed.
+
+“Nothing you need to worry about tonight.”
+
+Eric wasn't convinced.
+
+He had heard enough to understand that his presence was unwelcome to at least one person. He looked down at the bowl in his hands.
+
+“Sorry.”
+
+The word came easily.
+
+Perhaps because he had used it so many times in his other life.
+
+Kael shook his head.
+
+“Eat.”
+
+Eric obeyed.
+
+The stew had begun to cool.
+
+He finished it anyway.
+
+***
+
+Later, Kael brought him another blanket.
+
+Eric was already drifting toward sleep when he felt the weight settle over him.
+
+“Your feet will need a few days,” Kael said. “Your knee, too. Don't try walking until I tell you.”
+
+Eric nodded.
+
+“Thank…”
+
+He paused.
+
+“Thank you.”
+
+Kael gave a small nod in return.
+
+He picked up the empty bowl and moved toward the door.
+
+“Kael?”
+
+The man stopped.
+
+Eric hesitated.
+
+“Why…”
+
+He struggled to remember the sentence.
+
+“Why help me?”
+
+Kael looked at him for a moment.
+
+“Because you needed help.”
+
+Eric understood.
+
+The answer was simple.
+
+Too simple, perhaps. He had expected a reason involving rules, duty, or payment. Something he could understand and eventually repay.
+
+Kael offered none.
+
+He opened the door.
+
+“Get some sleep.”
+
+The room grew quiet again.
+
+Eric lay beneath the blankets, listening to the sounds of the unfamiliar house. The fire crackled. Somewhere outside, a dog barked. Wind brushed against the wooden walls.
+
+He was alive.
+
+He had found people.
+
+He had a bed, food, and someone who had treated his wounds.
+
+But he was also in a place he didn't understand, surrounded by people who didn't know him and had no reason to trust him.
+
+For the first time since waking in the forest, he allowed himself to think about what came next.
+
+He would need clothes.
+
+He would need to find out where he was.
+
+He would need to understand what had happened to the world he remembered.
+
+And somehow, he would need to find a way to live here.
+
+He closed his eyes.
+
+A few words drifted through his thoughts.
+
+Some were familiar. Others remained out of reach.
+
+He tried to remember his mother's voice again.
+
+This time, he could almost hear the words.
+
+Almost.
+
+Outside, Eastwood settled into the night.
+
+For now, the village had agreed to let him stay.
+
+For now, that was enough.
+
