@@ -2,720 +2,644 @@
 
 The recruits were woken before sunrise.
 
-A shout tore through the assembly ground, followed by the sharp clatter of boots and the creak of wagons being prepared. Men stirred beneath blankets and cloaks. Some rose immediately. Others needed a second shout before they began gathering their belongings.
+Soldiers moved between the rows of makeshift sleeping spaces, shouting for everyone to get up. Men stirred beneath blankets, groaned, and scrambled to gather their belongings. Some were already awake, sitting quietly with their backs against their packs.
 
-Eric sat up, rubbing the sleep from his eyes.
+Eric pushed himself upright, rubbing the stiffness from his shoulders.
 
-The ground had been hard beneath him. Even through his borrowed blanket, the cold had crept into his back during the night. His breath showed faintly in the air.
+The air was cold. Not bitterly so, but enough to make him reluctant to leave the warmth of his blanket. Around him, men hurried to pull on their boots and outer clothing, their breath faintly visible in the early morning air.
 
-Around him, the camp was already moving. Soldiers walked between the groups, checking that recruits had their packs and that nothing had been left behind. A clerk stood near the wagons with a list, calling names as men assembled.
+He checked the small bundle of food Kael had prepared for him, then touched the knife Lena had given him. Both were still there.
 
-Eric reached for his belongings.
+Darrin was already standing, rolling his shoulders beneath his pack.
 
-Kael's food bundle was still tied securely inside his pack. Lena's knife sat in its worn sheath, tucked where he could reach it without searching. He checked both before tightening the straps.
+"Morning," he said, sounding far too cheerful for the hour.
 
-There was little else to check.
+"Is it?" Tomas muttered.
 
-He stood and rolled his shoulders. They were already stiff from sleeping on the ground.
+Darrin grinned. "It will be once we're moving."
 
-"You're awake, then."
+Tomas pulled his cloak tighter around himself. The wooden pendant beneath his shirt was hidden from view.
 
-Darrin stood nearby, pulling his pack over one shoulder. His hair was a mess, and he looked as though he had slept no better than Eric.
+They joined the other recruits and were directed towards a supply depot near the gate. Soldiers were already waiting there, with equipment arranged in rough rows.
 
-"Didn't have much choice," Eric said.
+Armour was handed out. It was basic, made from leather and iron, worn in places and repaired in others. There was no time for careful fitting. Each man received what was available.
 
-Darrin grinned. "That's the spirit."
+Eric strapped his armour on as best he could. The leather sat awkwardly across his chest, and one shoulder piece shifted whenever he moved. He tightened the straps, but the fit remained uncomfortable.
 
-Tomas was a little farther away, fastening the strap on his pack. He had his usual quiet expression, though his eyes looked tired.
+A soldier handed him a thick padded layer to wear beneath it. The material was coarse wool, heavy but warm enough to provide some protection against the chill. A cloak, woollen cap and gloves were issued as well. They were not particularly fine, and some were visibly patched, but they were better than facing the road in ordinary clothes.
 
-A soldier called for the recruits to form up.
+The cloak was thick, though it restricted his movement when worn over the armour. The gloves were stiff and made it harder to work the buckles. Eric pulled them off to adjust his straps, then put them back on.
 
-The three of them joined the others.
+A shield was issued to each recruit. Eric took his and tested its weight. It was heavier than he expected.
 
-Names were checked. Packs were inspected. A few men were told to rearrange their loads. One recruit had brought more than he could reasonably carry and was ordered to leave some of it with the wagons.
+Darrin lifted his own and gave it a few experimental swings.
 
-**Once everyone had been accounted for, the soldiers led them towards a supply depot near Grayford's gate. The building was little more than a long wooden structure with a fenced yard, but it was already busy. Soldiers moved between stacks of equipment while clerks checked names against their lists.**
+"Not bad," he said.
 
-**The recruits were directed into a line.**
+"You're going to be carrying it all day," Tomas pointed out.
 
-**Armour was handed out one man at a time. Most of it was basic leather reinforced with iron plates, worn from previous use. Some pieces were scratched, others had straps that looked close to breaking. There was little concern for whether a particular set fitted the person receiving it. A soldier passed the equipment over, and the next man stepped forward.**
+Darrin lowered it. "I know."
 
-**Eric received a leather vest, a pair of reinforced shoulder pieces and a shield. The vest was stiff and smelled faintly of old leather. One of the straps had been repaired with a different length of cord. He fastened it as best he could, then shifted the shoulder pieces until they sat reasonably well.**
+A sergeant walked along the line, checking straps and shields. He stopped occasionally to tug at a loose fastening or reposition a shoulder piece. There was little conversation. A nod or grunt was all most men received.
 
-**The fit was poor. The vest pulled awkwardly across his chest, and the iron reinforcements pressed against his sides. When he moved his arms, the edges rubbed beneath his shoulders. He adjusted the straps again, but there was only so much he could do.**
+When he reached the front, he turned towards them.
 
-Darrin looked down at his own armour.
+"Listen carefully. That's where you're going. When I say march, you move, and you don't stop until we get there."
 
-"Comfortable," he said.
+He let his eyes travel across the assembled recruits.
 
-Tomas glanced at him. "You look ridiculous."
+"Keep your place. Keep the man in front of you in sight. Do not wander off the road. Do not leave the column because you're tired, hungry or uncomfortable."
 
-"At least I look protected."
+A few men shifted.
 
-"You look like you're wearing someone else's clothes."
+"If you're injured, tell a soldier when we halt. You do not stop in the middle of the road and hold everyone else up. If your equipment needs adjusting, deal with it at the next stop. Eat and drink when you're told. Keep moving when you're told."
 
-"That's because I am."
+His expression hardened.
 
-Eric looked at his own vest. He couldn't disagree.
+"You will be marching as a group. That means you move as a group. If one man falls behind, the whole column suffers. Do you understand?"
 
-**A sergeant began walking along the line, stopping in front of each recruit. He checked the straps, glanced at the shield, and gave a nod or a grunt before moving on. There was no conversation, only verification. If something was loose, he pointed it out. If something was secure enough, he moved on.**
+A scattered chorus of yeses answered him.
 
-**When he reached the front of the line, he turned to face them.**
+"Good."
 
-**"Listen carefully."**
+He stepped back.
 
-**The recruits quieted.**
-
-**"You're being sent to the training station. That's where you're going, and that's where you'll stay until you're told otherwise."**
-
-**His gaze moved along the line.**
-
-**"When I give the order to march, you move. Keep your place in the column. Keep the man in front of you in sight. You don't wander off, you don't leave the road, and you don't stop because you're tired."**
-
-**He paused.**
-
-**"If you're injured, tell a soldier when we halt. If you fall behind, catch up. If you have a problem with your equipment, deal with it at the next stop. You will not hold up the column."**
-
-**A few recruits shifted beneath their new armour.**
-
-**The sergeant looked down the line once more.**
-
-**"You'll be given time to eat and drink when the soldiers decide. Until then, you keep moving. Understand?"**
-
-**A scattered response came from the recruits.**
-
-**"Louder."**
-
-**"Yes, sir!"**
-
-**The sergeant stepped aside.**
-
-**"March!"**
+"March!"
 
 The column began to move.
 
-The first steps were easy.
+The first stretch was cold enough that Eric barely noticed the weight of his armour. The road was quiet, with low grass and scattered trees along its edges. A light breeze moved across the open ground, finding its way through gaps in cloaks and clothing.
 
-The road led away from Grayford through open fields, its surface uneven from wagon wheels and the passage of countless feet. Frost clung to the grass along the roadside. Smoke rose from the settlement behind them, thinning as the distance grew.
+The recruits followed the soldiers in a long column. A few supply wagons travelled behind them, their wheels creaking over the uneven road.
 
-Eric looked back once.
+Eric settled his shield against his side and tried to find a comfortable way to carry it. The strap rubbed against his arm. His pack pulled at his shoulders, and the armour shifted whenever he moved.
 
-Grayford was already beginning to disappear behind the low rise. He had spent only a short time there, but it was the last place he had known before this journey began.
+The padded layer helped, but the weight of the armour still pressed against him. His cloak caught against the shield now and then, forcing him to adjust it. He could already see other men struggling with their own equipment. One kept pulling at his collar, another repeatedly shifted his pack, while a third held his shield awkwardly to keep its edge from striking his leg.
 
-Ahead lay a road he had never travelled, and a place he knew only by name.
+Darrin walked beside him, talking whenever the opportunity presented itself.
 
-**The thought brought a flicker of anticipation. He had left Eastwood with little idea of what awaited him. Now, for the first time since returning to this world, he was travelling beyond the small stretch of land he had come to know. The uncertainty was still there, but so was the possibility of seeing something new.**
+"Not quite the pleasant stroll I imagined."
 
-The column stretched along the road. Soldiers walked at the front and rear, with others moving along the sides. A pair of wagons carried supplies, their wheels groaning whenever they crossed a rut.
+"You imagined a pleasant stroll?" Tomas asked.
 
-Eric kept his eyes ahead.
+"I was being optimistic."
 
-The pace was steady, neither hurried nor leisurely. It seemed manageable at first.
+"You're carrying the same things as everyone else."
 
-That changed after the first hour.
+"Exactly. A terrible arrangement."
 
-The pack pressed against his shoulders. The armour shifted whenever he moved, and the straps rubbed along his collarbones. The shield added weight to his already loaded pack, and the leather vest made it harder to move freely.
+Eric smiled faintly but kept his attention on the road.
 
-He had walked a great deal since arriving in this world. He had spent days helping around Eastwood, carrying wood, moving sacks and working in the fields.
+The landscape gradually opened around them. Fields gave way to stretches of rough ground, scattered trees and low hills. The road was wide enough for the column and the wagons, though the edges were uneven.
 
-But this was different.
+The countryside had the quiet look of a place between seasons. Most of the fields had already been harvested, leaving bare earth and stubble beneath the pale morning sky. A few trees still held their leaves, though many had begun to turn brown and fall.
 
-He had never walked for hours with a loaded pack and armour, keeping pace with a column of men who had been ordered to reach a destination by a set time.
+They passed a small settlement later in the morning. A few people watched from outside their homes as the column went by. Some stopped working to look. Others barely glanced up.
 
-**The edges of the armour rubbed against his sides. One shoulder piece kept slipping out of position, and the vest pressed uncomfortably against his ribs. He adjusted the straps once, then again, but the discomfort only moved elsewhere.**
+Darrin raised a hand towards them.
 
-**His boots rubbed against his heels. At first it was only an uncomfortable pressure, easy enough to ignore. Then came a sharper sting with every few steps. His shoulders ached beneath the straps, and the muscles across his back began to tighten.**
+"Think they'll miss us?"
 
-Darrin walked a short distance ahead, talking to another recruit. His voice carried back whenever the column slowed.
+"Probably not," Tomas said.
 
-Tomas remained close to Eric, saying little.
+"You're very encouraging."
 
-By midmorning, the cold had given way to the warmth of exertion. Eric's shirt clung to his back beneath his outer clothing. His lips felt dry, and when he ran his tongue over them, he tasted the faint sting of cracked skin.
+"They don't know us."
 
-He took a drink from his waterskin during a brief pause.
+"That has never stopped people from missing me."
 
-"First time marching?" a voice asked.
+Tomas shook his head.
 
-Eric turned.
+Eric watched the settlement disappear behind them. It was the first time since leaving Eastwood that he had seen another place from the road. It was not much larger than the village, but it was different enough to hold his attention.
 
-The man beside him was older than most of the recruits, perhaps around forty. His face was weathered, with deep lines around his eyes. His clothes were plain, and he carried his pack without appearing particularly troubled by it.
+He wondered how many such settlements lay between here and the places he had yet to see.
 
-"Yes," Eric said.
+The thought brought a little energy back to his steps.
 
-The man gave a short grunt.
+By midmorning, the column began to show signs of strain.
 
-"Thought so."
+The air had warmed slightly, but the march was making its own demands. Men rolled their shoulders beneath their packs, shifted their shields from one hand to the other, and tugged at straps that had begun to rub. Some had pushed their gloves into their belts, while others kept them on despite the discomfort of gripping their equipment.
 
-Darrin had drifted back towards them. "You've done this before?"
+Eric's shoulders were beginning to ache. His legs felt heavy, and the repeated movement of the shield had started to irritate his arm.
 
-The older man glanced at him.
+He glanced at the men around him. They were not doing much better.
 
-"Served before."
+An older recruit walked a short distance ahead. He was broad through the chest, with a weathered face and a few lines of grey in his hair. Unlike most of the others, he seemed to have settled into the rhythm of the march.
+
+Darrin noticed him too.
+
+"He's not struggling much," he said.
+
+"Maybe he's used to it," Tomas replied.
+
+The older man turned his head slightly.
+
+"Used to it doesn't mean it gets easier."
+
+Darrin blinked, then grinned.
+
+"Fair enough."
+
+The man faced forward again.
+
+"Name's Garran," he said after a moment.
+
+"Darrin."
+
+"Tomas."
+
+Eric gave his name as well.
+
+Garran nodded once.
+
+"You served before?" Darrin asked.
+
+"Yes."
 
 "How long?"
 
 "Long enough."
 
-Darrin waited, but the man offered nothing more.
+Darrin waited for more, but none came.
 
-"That's helpful," Darrin said.
+"Did you finish your service?" he asked.
 
-The older man looked ahead. "Garran."
+"I did."
 
-It took a moment for Eric to understand that he was giving them his name.
-
-"Darrin," Darrin replied, gesturing towards himself. "That's Tomas. And Eric."
-
-Garran nodded once.
-
-The column continued.
-
-For a while, there was only the sound of boots and wagon wheels.
-
-Then Darrin spoke again.
-
-"So they called you back?"
-
-Garran's expression did not change.
+"Then why are you here again?"
 
 "Here I am."
 
-"After you'd already served?"
+Darrin frowned. "That doesn't answer the question."
 
-"Yes."
+"It answers enough."
 
-Darrin frowned. "What's the point of finishing your service if they can send for you again?"
+The older man continued walking.
 
-"Ask the men who write the orders."
+Tomas looked at Darrin as if to tell him to leave it alone, but Darrin only shrugged.
 
-"Would they answer?"
+"Just curious."
 
-"Not to you."
+"Ask the men who write the orders," Garran said.
 
-Darrin gave a humourless laugh. "Wonderful."
+"Did they tell you why?"
 
-**Eric listened without joining in. Garran's presence raised more questions than it answered, but the older man did not seem interested in explaining himself. Whatever his previous service had involved, it was clear that he had not come back by choice.**
+"No."
 
-The road passed between fields and patches of woodland. Here and there, small farms stood apart from one another, their buildings low and their fences weathered. Smoke rose from a few chimneys.
+That seemed to end the conversation.
 
-Eric watched the landscape change as they walked. The fields were broader than those around Eastwood, and the road itself seemed better travelled. There were occasional carts heading in the opposite direction, their drivers moving aside to let the column pass.
+The first halt came not long afterwards.
 
-He wondered how far the road continued.
+The soldiers called for the column to stop, and the recruits moved off the road. Some lowered themselves onto the ground immediately. Others remained standing, stretching their backs and legs.
 
-He wondered what the training station would look like.
+Eric placed his shield beside him and eased his pack off his shoulders.
 
-He wondered whether the people there would know anything about the place he had come from.
+The relief was immediate.
 
-The thoughts came and went with his steps.
+He flexed his fingers, which had begun to feel stiff inside his gloves. When he pulled them off, the cool air touched his skin. He rubbed his hands together, then worked at the strap across his shoulder. Around him, men were doing much the same. A few had already begun checking their feet.
 
-By the time the column stopped for its first proper rest, his feet were hurting in several places.
+One recruit sat with his boot off, examining a reddened heel.
 
-The soldiers gave them a short break. Men lowered their packs, stretched their legs and drank from their waterskins. A few sat on the roadside. Others remained standing, as if they were afraid their legs would refuse to move again if they bent them.
+"Already?" another man asked.
 
-Eric eased his pack onto the ground.
+"These boots don't fit."
 
-His shoulders felt strangely light without it, though the soreness remained.
+"Then you should have said something before we left."
 
-He sat on a patch of grass and pulled off one boot.
+"I didn't know they'd be this bad."
 
-**The skin around his heel was red and tender. A small patch had begun to rub raw. He pressed the area lightly, then let out a quiet breath through his teeth. It was not a serious injury, but it was going to make the rest of the march unpleasant.**
+Garran glanced at the man's foot.
 
-"Bad?"
+"Keep them dry when you can. Change your socks at night. If you let your feet stay wet, they'll be worse tomorrow."
 
-Tomas had sat down beside him.
+The recruit looked at him.
 
-"Not too bad."
+"That's all?"
 
-Tomas looked at the heel, then at his own boots. "Mine are rubbing too."
+"That's what you've got."
 
-Darrin dropped down on Eric's other side. "Mine aren't. At least, not yet."
+The soldier supervising the halt called for them to finish eating and prepare to move again.
 
-"You'll be complaining by afternoon," Tomas said.
+Eric ate a portion of the food Kael had packed. It was plain, but filling. He drank from his water flask and looked down the road.
 
-"I don't complain."
+The landscape seemed larger now that he was no longer walking through it. The road stretched ahead between low hills, with scattered trees marking the edges of the fields.
 
-Tomas gave him a look.
+Darrin sat beside him.
 
-Darrin smiled. "Not much."
+"How far do you think we've gone?"
 
-Eric pulled his boot back on, taking care to settle his heel properly. There was no point making the problem worse.
+"Not far enough," Tomas said.
 
-A little farther away, Garran was drinking water. He noticed Eric adjusting his boot.
+"You're beginning to sound like Garran."
 
-"Change your socks if you've got another pair," he said.
+Garran, who was standing nearby, gave him a brief look.
 
-Eric looked up. "I don't."
+"That's not a compliment."
 
-"Then keep the boots dry when you can."
+Darrin laughed.
 
-Garran returned his attention to his waterskin.
+The call to move came before they could settle for long.
 
-That was all.
+They gathered their equipment again and returned to the road.
 
-The break ended sooner than Eric would have liked.
+The march continued.
 
-The column formed up again, and the march resumed.
+The road became rougher as they moved away from the settled fields. In places, the ground had been churned by carts and hooves. The wagons slowed where the ruts grew deep, and the column had to adjust its pace.
 
-The road became rougher as they moved through a stretch of woodland. The ground was damp beneath the trees, and the wheels of the supply wagons sank into softer patches of earth. The recruits had to keep their spacing as the column narrowed.
+The morning's dry road had become softer in places, especially where the ground was shaded by trees. Eric's boots picked up mud along the edges. The road was not difficult to follow, but its uneven surface made the weight of his equipment more tiring.
 
-Not everyone managed it.
+The column stretched out over time. Some recruits were better at keeping pace than others. The soldiers occasionally called for them to close the gaps.
 
-A young man near the middle of the column began to fall behind. He stopped briefly to adjust his footwear, and the gap between him and the men ahead widened.
+A young man a few places ahead began to fall behind. He stopped briefly to adjust his footwear, allowing the distance between himself and the man in front to grow.
 
-"Keep moving!" a soldier shouted.
+A soldier noticed.
 
-"My foot's bleeding!"
+"Keep moving!"
 
-"Then deal with it at the next halt. Move!"
+"My boot's coming loose!"
 
-The recruit hesitated.
+"Fix it at the halt!"
 
-The soldier came closer. "You can tend to it when we stop. You don't stop the column."
+"It's slipping!"
 
-The young man muttered something under his breath, but he hurried to catch up.
+"Then keep your place and deal with it when we stop!"
 
-The soldier remained beside him until he had regained his place.
+The recruit hurried forward, looking frustrated.
 
-Darrin watched them pass.
+Darrin watched him.
 
-"Could have given him a moment," he said.
+"They could have given him a moment."
 
-"Then the men behind him would have stopped too," Tomas replied.
+Tomas looked back along the column.
+
+"Then the men behind him would have stopped too."
 
 "Still."
 
-Garran walked a few steps ahead of them. "He'll learn."
+Garran kept his eyes on the road.
 
-Darrin looked at him. "Learn what? To march with bleeding feet?"
+"He'll learn."
 
-"To keep up."
+"To keep up?" Darrin asked.
 
-The answer was blunt enough to end the conversation.
+"To know when to fix his boots."
 
-**Eric glanced at the recruit. The man was walking awkwardly now, favouring one foot. It bothered him to see it, but he understood the problem. A column could not move if every person stopped whenever something hurt. That did not make the order feel any kinder.**
+Darrin looked unconvinced, but said nothing more.
 
-The afternoon wore on.
+Eric understood the soldier's reasoning, even if he did not like the way it had been handled. The column could not stop every time someone had a problem. That did not make the recruit's discomfort any less real.
 
-The road climbed gradually, then dipped into another stretch of open country. The wind picked up across the fields. It dried the sweat on Eric's clothes and made his cracked lips sting.
+As the afternoon wore on, the warmth of the day began to fade. The sun lowered behind a bank of cloud, and a damp wind swept across the road. Eric pulled his cloak closer around himself. It helped, though the armour made it difficult to wrap properly.
 
-His feet hurt more with every mile.
+Other recruits were beginning to look increasingly uncomfortable. Some had loosened their collars to ease the pressure of their clothing, only to pull them tight again when the wind picked up. A few rubbed their hands against their coats. One man kept trying to shift his shield so it would stop knocking against his leg.
 
-The discomfort was no longer confined to his heels. The soles of his feet felt bruised, and the pressure beneath his toes had become a dull, constant ache. His legs were heavy. His shoulders and back throbbed beneath the pack and armour.
+The march slowed briefly as the wagons passed through a muddy stretch. The recruits waited, their formation becoming uneven.
 
-He tried shifting the straps again.
+A man near the rear stumbled on the road. He caught himself before falling, but his next few steps were unsteady.
 
-It helped for a little while.
+A soldier moved towards him.
 
-Then the pain returned.
+"Can you continue?"
 
-He stopped thinking about how far they had travelled. It was easier not to know.
+The man nodded, though his face was pale.
 
-At the next halt, the recruits were given time to eat.
+"Then keep moving. We'll look at it at the next halt."
 
-Eric sat on a fallen log and took out part of the food Kael had packed. The bread was firm, and the preserved meat was salty, but he was hungry enough not to care.
+The soldier stayed near him for a little while before returning to his position.
 
-Darrin sat opposite him, chewing with enthusiasm.
+No one offered to carry his equipment. They were all struggling with their own.
 
-"That smells better than what they gave us in Grayford."
+The day began to fade.
 
-"Most things do," Tomas said.
+When the soldiers finally called for camp, the recruits moved away from the road with obvious relief. Some dropped their packs immediately. Others took a moment to remove their shields and armour.
 
-"Not the bread."
+Eric lowered himself onto a patch of ground and stretched his legs.
 
-"You complained about that too."
+His shoulders hurt. His feet ached inside his boots, and his back felt stiff from carrying the pack.
 
-"Because it was hard enough to break a tooth."
+The chill became more noticeable as soon as they stopped. The movement that had kept them warm was gone, and the damp wind found its way beneath their cloaks. Men hurried to gather around the campfires once they were lit. Others sat close to their packs, rubbing their hands and trying to ease the stiffness from their fingers.
 
-Garran sat nearby, eating quietly.
+The soldiers organised the camp. Recruits were told where to place their belongings and where they could gather firewood. There was little freedom to wander.
 
-Darrin looked towards him. "What did they feed you when you served?"
+Eric helped gather some wood with Darrin and Tomas. They returned with an armful of branches and placed them near the fire.
 
-"Food."
+"That was a long day," Darrin said, rubbing his shoulder.
 
-Darrin stared at him.
+"You said that an hour ago," Tomas replied.
 
-"You're a difficult man to talk to."
+"And it was true then too."
 
-"Then stop talking."
+Garran sat on the other side of the fire, checking the straps on his equipment.
 
-Tomas lowered his head, hiding a small smile.
+Darrin lowered himself beside him.
 
-For a moment, even Eric smiled.
+"How many days did you march when you served before?"
 
-The conversation drifted towards their villages.
+"Depends."
 
-Darrin spoke about his home, a settlement with a mill and several farms spread along a shallow valley. His family worked a small piece of land, though most of the harvest went towards their obligations and keeping the household supplied.
+"On what?"
 
-Tomas's family lived in a smaller village. His father worked land that belonged to another household, and his mother kept a few animals.
+"Where we were going."
 
-"My father says we're fortunate," Tomas said. "The family has worked the same land for years. We know what we owe, and the steward usually leaves us alone."
+Darrin waited.
 
-"That doesn't sound fortunate," Darrin said.
+Garran glanced at him. "Some marches were longer than this. Some were shorter."
 
-"It's better than being moved."
+"Did you get used to it?"
 
-"Can they do that?"
+"You get better at carrying what you need. You learn where the straps rub. You learn when to eat and when to rest."
 
-"Not without reason."
+Darrin looked down at his own equipment.
 
-Darrin shrugged. "My uncle says some people can be sent wherever the landowner wants."
+"Doesn't sound very exciting."
 
-"Your uncle says a lot of things."
+"It isn't meant to be."
 
-"He knows more than you."
+Tomas sat quietly, turning his hands towards the fire.
 
-"He thinks the world ends at the next village."
+Eric took off his gloves and examined his fingers. They were red from the cold and the constant handling of his equipment.
 
-Darrin opened his mouth, then closed it again.
+He removed his boots to check his feet. The socks were damp, and he changed into a dry pair before wrapping the used ones near the fire. He remembered Garran's advice. A small thing, but perhaps an important one.
 
-Garran wiped his hands on a piece of cloth.
+Darrin noticed the wooden pendant at Tomas's neck when he leaned forward.
 
-"Depends on the land and the agreement," he said. "Some families have more freedom than others."
+"What's that?"
 
-Darrin looked at him. "So which of us is right?"
+Tomas touched it instinctively.
 
-"Neither of you knows enough to argue."
+"Nothing."
 
-Darrin leaned back. "That's not much of an answer."
+"Doesn't look like nothing."
 
-"It's the one you've got."
+"It's from my mother."
 
-**Eric listened, piecing together what he could. The rules around land seemed to vary from place to place, and even the people living under them did not always understand where their rights began or ended. He had heard enough to know that a person's home and livelihood could be tied to obligations they had little power to change.**
+Darrin nodded, his expression softening a little.
 
-Tomas reached into his coat and touched something beneath the fabric.
+"She made it?"
 
-Darrin noticed.
+"Yes. A long time ago."
 
-"You keep checking that."
+Tomas tucked it beneath his shirt again.
 
-Tomas's hand paused.
+Darrin did not press him.
 
-"What is it?"
+The conversation moved on to their villages. Darrin spoke about the fields near his home and the work his family did. Tomas occasionally corrected him when he exaggerated something.
 
-After a moment, Tomas pulled out a small wooden pendant. It was simple, shaped by hand and worn smooth around the edges. A cord passed through a hole at the top.
+They talked about land, harvests and the agreements their families had with those who owned the fields.
 
-"My mother made it," he said.
+"Some people have more freedom than others," Garran said when the conversation turned towards obligations.
 
-Darrin leaned closer. "She carved it?"
+Darrin looked at him. "You mean serfs?"
 
-"Yes."
+"Some are. Some aren't. Depends on the land and the agreement."
 
-"Looks old."
+"So how do you know?"
 
-"It is."
+"You ask the people who live there."
 
-Tomas turned it over between his fingers. His thumb moved over the smooth surface.
+Darrin gave a small laugh. "That's helpful."
 
-"She gave it to me before I left."
+"It's the truth."
 
-Darrin nodded. His usual easy expression softened a little.
+Tomas looked into the fire.
 
-"Good thing to bring, then."
+"My family rents our plot. We pay part of what we grow."
 
-Tomas tucked it away again.
+"Then you know what you owe," Garran said.
 
-The break ended.
+"Most years."
 
-They rose, shouldered their packs and returned to the road.
+"Most years?"
 
-By late afternoon, the column had grown quieter. Even Darrin had stopped talking so much. The road seemed longer than it had that morning, and the men around Eric walked with their heads lowered.
+Tomas shrugged. "Bad harvests make things difficult."
 
-The soldiers kept the pace.
+Garran nodded, as if that was familiar enough.
 
-Eric concentrated on the ground ahead of him.
+Eric listened. He knew little about the arrangements that governed these villages. What he heard was not a complete explanation, but it gave him a better sense of how different households lived.
 
-One step.
+The fire burned lower as the evening passed.
 
-Then another.
+The soldiers distributed food. It was plain and not especially plentiful, but warm. Eric ate slowly, letting the heat settle in his stomach.
 
-His feet had become a collection of aches and sharp little stings. His shoulders burned. The muscles along his back tightened whenever the pack shifted. The armour rubbed against his sides, and his knees had begun to complain.
+Around him, men spoke in low voices. Some complained about their feet or shoulders. Others were already lying down, too tired to talk.
 
-**He had expected the march to be tiring. He had not expected the effort to become so constant. There was no single moment when he could say he had reached his limit. The discomfort simply accumulated, step after step, until even small movements required attention.**
+A few recruits tried to dry their gloves and socks near the fire. One man had wrapped his hands around a cup and refused to let go. Another pulled his cloak over his shoulders and sat with his back to the flames, trying to keep the wind from reaching him.
 
-He shortened his stride slightly, trying to avoid putting too much pressure on his heels. It made the pace harder to maintain, but the alternative was worse.
+Eric checked the straps on his pack and made sure the knife was still secure. Then he settled down with his blanket.
 
-He did not want to fall behind.
+The ground was hard, and the blanket was not particularly thick. It was still better than sleeping without one.
 
-When the soldiers finally called the column to a halt, the light was already fading.
+He kept his cloak close around himself and drew the blanket over his shoulders. The fire gave off some warmth, though the night air remained cool beyond its reach.
 
-The first day's march was over.
+Darrin shifted nearby.
 
-The recruits were led to a clearing not far from the road. The wagons were brought in, and the soldiers began organising the camp. There were no proper buildings, only open ground, a few trees and enough space for the men to sleep.
+"Tomorrow will be better."
 
-Eric lowered his pack.
+Tomas gave him a tired look. "Why?"
 
-For several seconds, he simply stood there.
+"Because we'll have done it once already."
 
-Then he sat down.
+"That doesn't make it easier."
 
-His legs trembled faintly as he stretched them out.
+"It might."
 
-Darrin dropped beside him with a groan.
+Garran spoke without looking up.
 
-"I've decided I hate walking."
+"Sleep. You'll need it."
 
-Tomas eased himself down more carefully. "You said that before we left Grayford."
+That ended the conversation.
 
-"Now I mean it."
+Eric lay back and looked up at the darkening sky. The stars were beginning to appear between the clouds.
 
-Eric leaned back against a tree. His shoulders ached even without the pack.
+His body ached, but his thoughts were no longer entirely occupied by the pain.
 
-Garran walked past them, carrying a bundle of firewood.
+He had left Eastwood. The village was now behind him, along with the people who had given him shelter and a place to recover. Ahead lay the training station and whatever waited there.
 
-"Get something to eat," he said. "You'll feel worse if you don't."
+He wondered what the training would be like. Whether he would learn to use a weapon properly. Whether he would be able to keep up with the others. Whether he could become strong enough to face the things that lived beyond the roads and settlements.
 
-Darrin looked up. "Does everything hurt this much after the first day?"
+The thought of learning something new brought a faint spark of anticipation. The march had been difficult, but it had also taken him somewhere he had never been. He had seen unfamiliar fields, settlements and people. The world beyond Eastwood was beginning to open before him, one stretch of road at a time.
 
-Garran stopped.
+He closed his eyes.
 
-"Usually."
-
-"That's encouraging."
-
-"Didn't say it was meant to be."
-
-He continued towards the soldiers.
-
-The recruits were given food, though it was plain and not especially plentiful. Eric ate slowly. His stomach was empty enough that the meal tasted better than it should have.
-
-Afterwards, he checked his feet again.
-
-The skin around his heels was sore, and one spot had begun to blister. He cleaned it as best he could and adjusted his socks before putting his boots back on.
-
-There was little else he could do.
-
-Night settled over the clearing.
-
-The soldiers arranged watches, and the recruits were told where to sleep. Eric spread his blanket on the ground, choosing a place that seemed relatively sheltered from the wind.
-
-The cold came quickly once he stopped moving.
-
-He drew his blanket around himself and lay down.
-
-The ground was hard. A small stone pressed against his hip, and the blanket did little to keep the chill from seeping through beneath him.
-
-He shifted once, then again.
-
-Eventually, he found a position that was uncomfortable in a slightly different way.
-
-Nearby, Darrin was still awake.
-
-"Think the station has proper beds?" he asked.
-
-Tomas answered from beneath his blanket. "I hope so."
-
-"Real beds. With mattresses."
-
-"Don't expect too much."
-
-"I can hope."
-
-Eric looked up at the dark branches above them.
-
-He wondered what the training station would be like. He had pictured a yard, buildings and soldiers drilling with weapons, but he had no real idea what awaited them.
-
-He was curious.
-
-He was also tired enough that the thought did not last long.
-
-The sounds of the camp gradually faded. Men shifted beneath blankets. Someone coughed. A horse stamped near the wagons.
-
-Eric closed his eyes.
-
-Sleep came slowly.
+The first day was over.
 
 ---
 
-Morning arrived with cold air and stiff limbs.
+The second morning was colder.
 
-Eric woke before the soldiers called them up. For a moment, he did not move. His body seemed reluctant to leave the ground.
+Eric woke before the soldiers called them. The air beneath his cloak was chilly, and he was reluctant to move. Around him, men stirred and groaned. One recruit sat up and immediately began rubbing his hands together. Another pulled his boots closer, checking whether they had dried overnight.
 
-Then he tried to sit.
+Eric sat up slowly. His shoulders were stiff, and his legs protested when he stood.
 
-**Pain travelled through his shoulders and back. His legs felt tight, and when he shifted his feet, the tender spots around his heels reminded him of the previous day's march. He flexed his ankles carefully. Even that hurt.**
+Darrin looked even less cheerful than the day before.
 
-He sat up and rubbed his face.
-
-His lips were still dry. The wind had left them cracked, and he resisted the urge to pick at the skin.
-
-Around him, the recruits were beginning to wake. Some looked as tired as he felt. Others were already packing their belongings.
-
-Darrin sat nearby, staring at his boots.
-
-"Not moving," he muttered.
-
-Tomas was tying his own.
-
-"Your feet?"
-
-"My entire body."
-
-"Then I suppose you'll have to carry it."
-
-Darrin looked at him. "You have a cruel streak."
-
-Tomas gave a small shrug.
-
-Eric pulled on his boots. The first pressure against his heels made him wince.
-
-**He considered how much of the day's march remained, then stopped himself. Thinking about the distance would not make it shorter. He tightened the laces, adjusted his pack and focused on getting to his feet.**
-
-Breakfast was brief. The food was cold, and the water was colder. The soldiers gave the recruits little time to linger.
-
-Soon the column was moving again.
-
-The first few minutes were miserable.
-
-Eric's legs felt stiff, and his feet seemed worse than they had the night before. Every step brought a reminder of the blisters and bruised soles. His shoulders were sore beneath the straps, and his back had not recovered from the previous day.
-
-He kept walking.
-
-After a while, the stiffness eased. The pain did not disappear, but his body began to settle into the movement.
-
-The second day's march was harder.
-
-The road rose and fell through open country, with long stretches exposed to the wind. The ground was uneven, and the column occasionally slowed when the wagons struggled through muddy patches.
-
-The recruits spoke less.
-
-Darrin made a few complaints early in the morning, but even he eventually fell silent. Tomas walked with his head lowered, one hand occasionally touching the pendant beneath his clothes.
-
-Eric watched the road.
-
-The landscape changed gradually. Fields gave way to rougher ground, then to scattered trees and low hills. Once, they passed a small settlement set back from the road. A few people watched the column from outside their homes, but nobody approached.
-
-He wondered how many other villages lay along this route.
-
-How many people had watched men like them pass?
-
-The thought stayed with him for a while, then faded beneath the rhythm of walking.
-
-At the next rest stop, he drank deeply from his waterskin.
-
-His mouth was dry again. His lips stung when he pressed them together.
-
-Darrin sat on a low rock and stretched one leg.
-
-"I don't remember agreeing to this much walking."
-
-Tomas lowered himself beside him. "You volunteered."
-
-"I agreed to serve. Nobody mentioned the walking."
-
-Garran stood a short distance away, checking the strap on his pack.
-
-"There's more of it ahead."
+"Still think today will be better?" Tomas asked.
 
 Darrin stared at him.
 
-"Do you ever say anything encouraging?"
+"I've changed my mind."
 
-"No."
+Garran was already on his feet, checking his equipment.
 
-Darrin shook his head and took a drink.
+"Then stop wasting time."
 
-Eric sat quietly, rubbing one foot through his boot. He had stopped expecting the discomfort to go away. He only hoped it would not become worse.
+They packed their belongings and gathered with the others.
 
-When the soldiers called them back, he stood and lifted his pack.
+The cool morning made the preparations slower. Men struggled with buckles and straps, their fingers stiff from the night air. Some had slept poorly, and the discomfort of the previous day showed in the way they moved. A few rubbed their backs or stretched their legs while waiting for the order to form up.
 
-The weight settled against his shoulders.
+The soldiers checked the column before they set off.
 
-He took a breath and joined the column.
+Once again, the road stretched ahead.
 
-The day continued.
+The second day was harder.
 
-**By midday, Eric had stopped trying to judge how far they had travelled. His thoughts had narrowed to simpler things: keep his pace, avoid the worst of the ruts, shift the pack when his shoulders began to burn, and drink whenever they were allowed to stop.**
+The first day's march had left its mark. Eric's feet hurt earlier than before, and his shoulders began aching soon after they started. The pack seemed heavier, though he knew it had not changed.
 
-He was not the only one struggling.
+He focused on keeping his pace steady.
 
-A recruit farther ahead stumbled on a patch of loose ground and nearly fell. Another man had begun walking with an uneven step. The soldiers kept the column moving, though they allowed the injured man to ride on one of the wagons after inspecting his foot.
+Darrin talked less than he had the day before. When he did speak, it was usually to complain about the road or make some remark about the soldiers.
 
-Eric watched him climb aboard.
+Tomas was quieter still.
 
-For a brief moment, he envied him.
+Garran walked at a steady pace, occasionally glancing back to see how the others were doing.
 
-Then the wagon moved on, and Eric returned his attention to the road.
+As the morning passed, the cold gradually gave way to the effort of marching. Eric's body warmed, but his hands remained uncomfortable whenever he had to adjust his equipment. The gloves helped against the wind, yet the leather made it harder to grip the shield properly. He found himself taking them off whenever he needed to tighten a strap, then putting them back on again.
 
-The afternoon brought a change in the landscape.
+The road climbed through low hills. From the higher ground, Eric could see farther across the countryside.
 
-The road widened, and the scattered trees gave way to open ground. There were more signs of regular travel now: wheel ruts pressed deep into the earth, markers beside the road and occasional buildings that seemed to serve travellers.
+There were fewer fields now. Trees gathered in thicker patches, and the road passed through stretches of woodland before opening again onto rough grassland.
 
-The soldiers at the front began speaking more frequently among themselves.
+He tried to remember the route, but the turns and hills began to blur together.
 
-Darrin noticed.
+At midday, the column halted.
 
-"Must be getting close."
+The recruits were allowed to rest and eat. Some sat down immediately. Others remained standing, stretching their legs or checking their equipment.
 
-Garran glanced ahead. "Getting closer."
+Eric lowered his pack and rolled his shoulders.
 
-"That's not the same thing."
+Darrin dropped beside him.
 
-"No."
+"I don't think my legs belong to me anymore."
 
-Darrin sighed. "You really are determined to make every conversation difficult."
+"They're still moving," Tomas said.
 
-Garran said nothing.
+"That doesn't prove anything."
 
-Tomas looked ahead, trying to see beyond the rise in the road.
+Garran sat nearby.
 
-"Do you think the station is large?"
+"Drink."
 
-Darrin shrugged. "Bigger than Eastwood, I hope."
+Darrin looked at him.
 
-"Most places are."
+"What?"
 
-"Not the ones I've seen."
+"Drink before you start complaining again."
 
-Tomas gave him a sideways look. "You've seen two villages and Grayford."
+Darrin took a swallow from his flask.
 
-"Three villages."
+"You're full of useful advice."
 
-"Your aunt's farm doesn't count."
+"Someone has to be."
 
-"It has a barn."
+Tomas gave a quiet laugh.
 
-Eric let their conversation pass around him. It was easier to listen than to speak.
+Eric ate and drank, then checked his feet. They were sore, but the socks had stayed mostly dry. He adjusted the laces on his boots and stood again.
 
-He was tired, but the thought of arriving had begun to push its way through the exhaustion. Whatever waited at the station, it would be different from the road. A place to sleep, perhaps. Food. Instructions. A chance to understand what they were expected to do.
+Around them, the other recruits were showing the same signs of fatigue. One man had wrapped a strip of cloth around his palm where the shield handle had rubbed it raw. Another was rubbing his lower back. Several had loosened their armour straps during the halt, only to tighten them again before setting off.
 
-He was not sure he wanted the training itself.
+The soldiers gave them little time to rest.
 
-But he wanted to know what came next.
+They were soon back on the road.
 
-The column continued over the rise.
+The afternoon passed slowly.
 
-The road dipped gently, opening the view ahead.
+The column moved through another stretch of woodland, where the road was shaded and the air felt cooler. The ground was softer beneath the trees, and the wagons left deep tracks in the earth.
 
-At first, Eric saw only a cluster of rooftops and a line of wooden structures. Then the rest of the compound came into view.
+The weather began to turn. Clouds gathered overhead, and a light drizzle started, little more than a fine mist at first. It gathered on Eric's cloak and darkened the leather of his armour.
 
-The training station stood on a broad stretch of open ground. It was surrounded by a sturdy fence, with a gate wide enough for the supply wagons. Several long buildings stood within the enclosure. A large yard occupied the centre, and beyond it Eric could make out a storehouse and a row of smaller structures.
+The recruits pulled their hoods up and continued walking.
 
-Men were moving through the yard.
+Darrin looked at the sky.
 
-Some carried bundles of equipment. Others stood in groups while soldiers spoke to them. A few were practising with wooden weapons, their movements visible even from a distance.
+"Of course."
 
-It was not a fortress.
+Tomas glanced at him. "What?"
 
-It was not a town.
+"Nothing. Just appreciating the weather."
 
-It was a place built for the work waiting for them.
+"Then stop looking at it."
 
-Darrin straightened as he saw it.
+Darrin laughed, though it sounded tired.
+
+The drizzle did not last long, but the damp air remained. The road began to rise again, and the soldiers urged the column to keep moving.
+
+Eric's attention narrowed to the man in front of him, the next step, and the next.
+
+His shoulders hurt. His legs felt heavy. His feet had begun to rub against his boots, and the armour seemed to press harder with every passing hour.
+
+He tried not to think about how much farther they had to go.
+
+The soldiers called for another short halt near the end of the afternoon.
+
+A recruit near the rear had fallen behind. He was breathing hard, and one of the soldiers walked beside him for a time.
+
+"Can you keep going?"
+
+The recruit nodded.
+
+"Then stay close."
+
+The soldier remained with him until the column began moving again.
+
+No one had the strength to offer to carry his pack. Most of the men were struggling to carry their own.
+
+Eric looked towards the road ahead.
+
+The land beyond the trees rose gently. Something stood at the top of the slope, partly hidden by the fading light.
+
+He could not make it out at first.
+
+Then the column climbed higher, and the view opened.
+
+The training station stood in the distance.
+
+It was not a grand fortress. It was a collection of long buildings surrounded by a timber enclosure, with a broad yard and several smaller structures nearby. A storehouse stood close to the main buildings. Beyond the fence, Eric could make out figures moving across the open ground.
+
+Even from a distance, he could see that the place was active. Men moved across the yard, some carrying equipment, others gathered in groups. A few appeared to be practising with wooden weapons. The sight stirred something in him that the long march had nearly buried.
+
+Darrin noticed it too.
 
 "That's it?"
 
-Tomas looked at the buildings. "Looks bigger than I expected."
+Garran glanced towards the station.
+
+"That's it."
+
+"Looks smaller than I expected."
+
+"Good. Less walking once we're inside."
+
+Darrin laughed weakly.
+
+Tomas looked at the buildings, then at the road.
+
+"Do you think they'll make us start training tomorrow?"
 
 Garran adjusted his pack.
 
-"Keep walking."
+"Probably."
 
-The soldiers at the front called for the column to close ranks.
+Darrin groaned.
 
-Eric looked at the station again.
+Eric said nothing. He was watching the station.
 
-**His feet still hurt. His shoulders ached, and every part of him wanted to stop walking. Yet the sight ahead stirred something beneath the exhaustion. Curiosity, perhaps. Anticipation. Whatever happened there, it would be the beginning of something he had never experienced before.**
+For two days, the road had carried them away from the lives they knew. Now they were almost at the place where the next part would begin.
 
-He shifted his pack and kept moving.
+His body was tired, his shoulders sore, and his feet hurt with every step.
+
+But beneath the exhaustion, curiosity was returning.
+
+He wanted to see what happened inside those walls. He wanted to know what they would teach him, what he would be expected to do, and how much he could learn.
+
+The column continued forward.
 
 The training station drew closer with every step.
