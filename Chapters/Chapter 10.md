@@ -114,13 +114,7 @@ When Eric's turn came, he stepped forward.
 
 "Eric."
 
-"Family name?"
-
-Eric hesitated.
-
-"Vane."
-
-The clerk looked up briefly, then wrote it down.
+The clerk looked down at his paper.
 
 "Age?"
 
@@ -164,15 +158,61 @@ The clerk looked him over, then marked something on the paper.
 
 "Go to the medical station. They will check you before you're assigned."
 
+**He reached for a token, then paused as his eyes moved to another sheet on the table.**
+
+"One more thing. Have you been told your pay?"
+
+Eric shook his head.
+
+The clerk gave a small sigh, as though he had already answered the same question too many times that day.
+
+"Fifteen Silver Marks a month while in service. Five Marks are paid out to you each month. The remaining ten are held until you complete your term."
+
+**He tapped the paper with his quill.**
+
+"Food, lodging, standard equipment and basic treatment are provided. You don't pay for those out of your wages. If you die while serving, your outstanding pay and the compensation due will be paid to your registered next of kin. Make sure the name on that record is correct."
+
+Eric listened carefully. Fifteen Silver Marks sounded like a considerable amount compared with the small sums he had seen exchanged in Eastwood. But he would only receive a portion of it each month.
+
+"How long is the term?" he asked.
+
+The clerk looked at him.
+
+"That depends on the order under which you've been called. Your term and conditions are written here. Read them when you have time. Next."
+
 He reached into the wooden box and handed Eric a small token. A number had been carved into one side.
 
 "Keep this. You may be asked for it. Do not lose it."
 
 Eric took the token and stepped aside.
 
-The next recruit approached.
+**As he moved away from the table, something pale drifted past his face. He looked up. A small white flake descended through the air before disappearing against the dark sleeve of his tunic.**
 
-Darrin was called forward shortly after him. Tomas followed.
+**Another followed. Then another.**
+
+**Snow.**
+
+**Eric held out his hand. A few flakes settled against his skin, melting almost immediately. He had expected the weather to turn colder, but he hadn't thought winter would arrive so soon.**
+
+**Around the yard, a few soldiers glanced towards the sky. One pulled his cloak tighter while another continued carrying a crate as if nothing had happened.**
+
+**"First snow," Darrin said behind him.**
+
+**Eric turned. Darrin had just finished registering and was looking up at the falling flakes.**
+
+**"Looks like winter's caught up with us," he added.**
+
+**Tomas stepped out from the table after him, brushing a flake from his sleeve.**
+
+**"It'll probably stop soon."**
+
+**"You sound disappointed."**
+
+**"I'm thinking about the road we just walked."**
+
+**Darrin glanced at his boots. "Fair enough."**
+
+The next recruit approached.
 
 When they had all finished, the recruits were directed towards a smaller building at the far end of the yard.
 
@@ -232,6 +272,22 @@ Darrin looked down at his boots.
 
 Garran stood a short distance away, listening without joining in.
 
+**Beyond the yard, the snowfall had become steadier, though the flakes were still small. A pair of soldiers crossed between the storehouse and the main building, speaking to each other as they walked.**
+
+**"...another report from the southern road," one of them said.**
+
+**"Already?"**
+
+**"Tracks near the farms. The patrol found them this morning."**
+
+**"This far out?"**
+
+**"That's what the report says."**
+
+**The second soldier glanced towards the recruits before lowering his voice. They continued towards the storehouse.**
+
+**Eric looked after them for a moment. He couldn't make out the rest of their conversation.**
+
 A soldier came to collect them.
 
 "Come on. Equipment issue."
@@ -289,6 +345,8 @@ He pointed towards the equipment.
 Eric looked down at the items in his hands.
 
 The station seemed to be preparing for the same change in weather as Eastwood. The mornings were already cold, and the evenings were becoming shorter. It would not be long before the chill became something more difficult to ignore.
+
+**Outside, the first snow continued to fall. It gathered briefly along the edges of the buildings and on the wooden fence, though much of it melted against the ground.**
 
 The recruits were directed towards the barracks.
 
@@ -494,6 +552,20 @@ The station was not large, but there was more to it than Eric had first imagined
 
 Even the men moving supplies worked with a sense of routine.
 
+**As they crossed the yard, Eric noticed a pair of soldiers speaking beside the training shelter. One had a narrow strip of parchment in his hand.**
+
+**"...the patrol from the eastern farms?"**
+
+**"They've been called back in. Something's been moving closer to the road."**
+
+**"Already? The cold has barely started."**
+
+**"I don't know. That's not for us to decide."**
+
+**Their conversation ended as an instructor called one of them over.**
+
+**Eric glanced towards the fence. Beyond it, the falling snow softened the outlines of the surrounding fields. He wondered what had been moving out there, but the soldier leading the recruits was already calling them forward.**
+
 The soldier brought them back to the barracks.
 
 "Keep your equipment in order. Do not leave belongings lying around. You will have time to wash and settle before lights out. First formation is at dawn."
@@ -583,6 +655,10 @@ He simply did not want to be helpless again.
 The memory of the creature from his childhood remained buried somewhere in his mind. He could not remember everything about it, but he remembered the fear. He remembered being unable to do anything.
 
 He had spent years in a world where such things were impossible, or at least distant enough to feel unreal. Now he was back in a place where monsters existed beyond the safety of village walls.
+
+**The soldiers' brief conversation returned to him. Reports from the farms. Something moving closer to the road. He did not know whether it was connected to the monsters he remembered, or whether it was simply another part of life in this world.**
+
+**But the first snow had come earlier than he expected, and the men here seemed to have more to worry about than the changing weather.**
 
 If he wanted to survive, he needed to learn.
 
