@@ -178,7 +178,7 @@ Someone pulled a blanket over him.
 
 “His feet are in a terrible state.”
 
-“He walked here?”
+“He walked here? Barefeet? Naked?”
 
 “Looks like it.”
 
@@ -644,7 +644,9 @@ Kael's expression remained steady.
 
 The older man looked at Eric one last time.
 
-“My name is Aldric. I'm one of the village elders. You can stay here for now, but don't mistake that for an invitation to do as you please. We have little to spare, and we don't take kindly to trouble.”
+“I'm Aldric. The elder here. You can stay for now, but don't take that to mean you can do as you please.
+
+We've little to spare, and we don't need any more trouble”
 
 Eric caught only parts of it.
 

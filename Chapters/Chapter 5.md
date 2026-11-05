@@ -2,79 +2,87 @@
 
 Eric woke to the smell of smoke.
 
-For a few moments, he lay still beneath the blanket, staring at the wooden ceiling. The room was quiet, save for the occasional creak of the house and the faint sounds of movement downstairs.
+For a moment, he lay still beneath the blanket, listening to the familiar creaks of the house and the faint sounds of movement downstairs.
 
-His knee still ached. Not as badly as before, but enough to remind him that he wasn't quite back to normal.
-
-He shifted beneath the blanket and winced.
+His knee still ached, though not nearly as badly as before. He shifted carefully, testing it, then slowly sat up.
 
 "Careful with that leg."
 
-Kael's voice came from the doorway.
+Kael stood in the doorway, holding a small bundle of firewood.
 
-Eric turned his head. The older man stood there holding a small bundle of firewood.
+"Morning," Eric greeted him.
 
-"Morning," Eric said.
-
-The word came more easily now. He still had to think before speaking, but the sounds and meanings were beginning to settle into place.
+The word came more easily now. He still had to think before speaking, but he was beginning to get used to the language.
 
 Kael nodded. "How's the knee?"
 
-Eric considered it before answering. "Better. Still hurts."
+"Better. Still hurts."
 
-"Then don't push it."
+"Then don't push it. You'll have plenty of work when you're better."
 
-Kael set the wood beside the wall. "There's no need to rush. You'll have plenty of work when you're better."
+Eric wasn't sure whether that was meant to reassure him.
 
-Eric wasn't sure whether that was meant to be reassuring.
+Kael placed the firewood beside the wall before heading downstairs. Eric rubbed his face and looked around the room.
 
-After Kael left, he sat up slowly and rubbed his face.
-
-His body felt stiff. His knee was sore, his shoulders ached, and he was beginning to suspect that sleeping on a proper bed had spoiled him more than he realised.
-
-Still, it was a bed.
-
-A roof.
-
-A warm room.
+A bed. A roof. A warm place to sleep.
 
 He wasn't about to complain.
 
-At least, not seriously.
-
 ***
 
-The next few days passed quietly.
+The following days passed quietly.
 
-Eric's knee improved little by little. Kael checked the wound and changed the bandage when necessary, never making much of it. Lena helped him with ordinary words and phrases, repeating them patiently when he struggled.
+Eric's knee improved enough for him to walk around without much difficulty. Kael eventually allowed him to help with small tasks, starting with carrying things around the house and bringing water inside.
 
-He learned where the cups were kept, which bowl belonged to whom, and how to ask for things without having to point at them.
+He also continued learning the language with Lena's help.
 
-His speech was still awkward. He could follow most simple conversations if people spoke slowly, but longer sentences often escaped him. Sometimes he understood the individual words without understanding what they meant together.
+He was getting better at understanding everyday conversations, though longer sentences could still trip him up. Sometimes he understood every word but somehow missed the meaning entirely.
 
-Lena seemed to find that amusing.
+Lena found this particularly entertaining.
 
-"You understood that," she said one morning after he'd answered a question incorrectly.
+"Take that over there," she told him one morning, pointing towards a shelf.
+
+Eric picked up the object and carried it to the wrong side of the room.
+
+"Not there!"
+
+He stopped and looked at her.
+
+"You understood me, didn't you?"
 
 "I understood the words."
 
-"Then why did you do the wrong thing?"
+"Then how did you manage that?"
 
-Eric looked at the object in his hands, then back at her.
+Eric glanced at the object in his hands.
 
-He didn't have an answer.
+He had no answer.
 
-Lena smiled and explained it again.
+Lena laughed, then came over to show him where it belonged.
 
-As his knee recovered, Kael allowed him to take on small tasks. At first, these were little more than carrying things from one room to another or helping bring water inside. Later, he was trusted with heavier work, though Kael still watched to make sure he didn't overdo it.
+"Here. This one goes over there. The other one goes on that shelf."
 
-Eric discovered that ordinary life in Eastwood required considerably more effort than he was used to.
+Eric nodded.
 
-There was no tap to turn when someone needed water. No switch to bring light into a room. No refrigerator to keep food fresh, no stove that could be turned on with a simple twist.
+"See? Easy."
+
+He gave her a doubtful look.
+
+She grinned. "Well, it is now."
+
+As the days went by, he learned where things were kept, which bowl belonged to whom, and how to ask for what he needed without pointing at everything. His pronunciation was still rough, but he could manage simple conversations.
+
+And with his knee finally recovering, there was no shortage of work waiting for him.
+
+***
+
+Eric soon discovered that ordinary life in Eastwood required considerably more effort than he was used to.
+
+There was no tap to turn when someone needed water. No switch to bring light into a room. No refrigerator to keep food fresh.
 
 Even keeping warm required planning.
 
-Firewood had to be gathered, split, stacked, and kept dry. Water had to be carried. Meals took time to prepare. Once the sun went down, the house grew dim unless someone kept the fire going or lit a lamp.
+Firewood had to be gathered, split, stacked, and kept dry. Water needed to be carried. Meals took time to prepare, and once the sun went down, the house grew dim unless someone kept the fire going or lit a lamp.
 
 He missed convenience.
 
@@ -82,73 +90,57 @@ He missed it a lot.
 
 One morning, while carrying a bucket of water, he caught himself thinking about hot showers.
 
-Not washing with a basin. Not pouring warm water over himself while trying to avoid wasting any.
+Not washing with a basin. Not pouring warm water over himself while trying not to waste too much.
 
 An actual shower.
 
 Hot water whenever he wanted it.
 
-He almost laughed at himself.
+He almost laughed.
 
 He had never thought something so ordinary could become a luxury.
 
-***
+By the time he could walk without favouring his knee, the mornings had grown noticeably colder. Frost sometimes clung to the grass outside the village, and smoke rose steadily from the chimneys.
 
-By the time Eric could walk without favouring his knee, the mornings had grown noticeably colder.
+Winter was approaching, and Eastwood was preparing for it.
 
-The change was difficult to miss.
-
-A thin layer of frost sometimes clung to the grass outside the village. People wore thicker clothing, and smoke rose steadily from the chimneys of the houses. The days seemed shorter, too. By late afternoon, the sunlight had already begun to fade.
-
-Winter was approaching.
-
-Eastwood was preparing for it.
-
-Eric noticed the changes first through the work.
-
-There was more firewood to collect and stack. Sacks of grain were carried into storage. Vegetables were sorted, cleaned, and put away. Some were dried, while others were preserved for later use. Hay was moved beneath shelter, roofs were inspected, and fences were checked for loose boards.
+There was more firewood to collect and stack. Sacks of grain were carried into storage, vegetables were sorted and preserved, and hay was moved beneath shelter. Roofs and fences were checked before the weather turned.
 
 Nobody seemed particularly surprised by the amount of work.
 
-It was simply what needed to be done before the weather turned.
+It was simply what needed to be done.
 
-Eric, on the other hand, was beginning to understand why people in this world had to plan so far ahead.
-
-Back on Earth, winter meant putting on a thicker jacket, turning up the heater, and perhaps buying a few extra groceries.
-
-Here, winter meant making sure there was enough food, enough firewood, and enough supplies to last until the weather improved.
+Eric was beginning to understand why people here had to plan so far ahead. Back on Earth, winter meant putting on a thicker jacket and turning up the heater. Here, it meant making sure there was enough food, firewood, and supplies to last until the weather improved.
 
 There was no running to the nearest convenience store if something ran out.
 
 He missed those, too.
 
-A little more than twenty houses stood within Eastwood's wooden palisade. They were scattered along narrow dirt paths, with small yards and sheds between them. Some were larger than others, but none looked particularly wealthy.
+Eastwood itself was small. A little more than twenty houses stood within its wooden palisade, scattered along narrow dirt paths. Most had small yards and sheds, and none looked particularly wealthy.
 
-Near the middle of the village stood a broad communal building. It served several purposes: a place for gatherings and meetings, a storehouse for shared supplies, and somewhere villagers could come together when the need arose.
+Near the middle of the village stood a broad communal building. It served as a gathering place, a storehouse for shared supplies, and somewhere villagers could meet when the need arose. A well stood nearby, along with livestock pens and a few smaller storage sheds.
 
-There was a well not far from it, along with livestock pens, storage sheds, and a few areas where people worked together.
-
-Beyond the palisade lay small fields and patches of farmland.
+Beyond the palisade lay patches of farmland.
 
 It wasn't much of a village by the standards Eric remembered from Earth.
 
-But people seemed to know one another. They greeted each other as they passed, stopped to exchange news, and often lent a hand when someone needed help.
+But people seemed to know one another. They greeted each other as they passed, stopped to exchange news, and lent a hand whenever someone needed help.
 
 There was a rhythm to it all.
 
-And, slowly, Eric was becoming part of it.
+And slowly, Eric was becoming part of it.
 
 ***
 
-Most of his work involved helping Kael.
+Most of Eric's work involved helping Kael.
 
-The older man was practical and rarely wasted words. He showed Eric what needed doing, explained how to do it, and corrected him when he got something wrong.
+The older man was practical and rarely wasted words. He showed Eric what needed doing, explained how to do it, and corrected him whenever he got something wrong.
 
 Splitting firewood proved harder than Eric expected.
 
 His first few attempts were embarrassing. The axe struck awkwardly, the wood shifted, and one particularly stubborn log refused to split no matter how many times he tried.
 
-Kael watched him struggle for a while before stepping closer.
+Kael watched him struggle before stepping closer.
 
 "You're forcing it."
 
@@ -162,47 +154,87 @@ The wood separated cleanly.
 
 Eric stared at it.
 
-"Again," Kael said, handing the axe back.
+"Again."
 
 Eric sighed inwardly.
 
 So much for a simple afternoon.
 
-He adjusted his grip and tried again.
+He adjusted his grip and tried again. This time, the blade struck closer to the centre. The log split, though not quite as cleanly as Kael's.
 
-The next attempt was better. Not good, but better.
+"Better," Kael said.
 
-By the time they finished, his palms were sore and his shoulders felt as though they'd been worked over with a hammer.
+It was a small word, but Eric found himself taking it as a victory.
 
-He looked at the remaining pile.
+By the time they finished, his palms were sore and his shoulders ached. There was still a considerable pile left to stack, too.
 
-There was still a lot left.
+Kael showed him how to arrange the wood with enough space between the pieces for air to circulate. Eric followed his instructions, occasionally having to rearrange sections when Kael pointed out that he'd packed them too tightly.
 
-Wonderful.
+It wasn't complicated work, but it required more care than he'd expected.
 
-At least he was getting better.
+Knowing how something should be done and actually doing it were two very different things.
 
-Kael showed him how to stack the split wood with enough space between the pieces for air to circulate. Eric followed his instructions, occasionally having to rearrange sections when Kael pointed out that he'd packed them too tightly.
+As he stacked another piece of wood, Eric glanced towards the forest beyond the village.
 
-It was not complicated work, but it required more care than Eric had expected.
+"Kael?"
 
-He was beginning to realise that knowing how something should be done and actually doing it were two very different things.
+"Hm?"
+
+"Are there... monsters here?"
+
+Kael paused briefly, looking at him.
+
+"Of course. Why do you ask?"
+
+Eric hesitated.
+
+"I... thought I saw something. A long time ago. When I was little."
+
+He looked down at the piece of wood in his hands.
+
+"Maybe I remember wrong."
+
+Kael studied him for a moment before answering.
+
+"You probably didn't. There are plenty of creatures in the woods that people would call monsters."
+
+Eric looked up.
+
+"So they're real?"
+
+Kael gave him a puzzled look.
+
+"Of course they're real."
+
+He returned to stacking the firewood.
+
+"Most keep to the woods. But some wander closer to settlements, especially when food becomes scarce."
+
+Eric glanced towards the palisade.
+
+"Have they attacked the village before?"
+
+"Once or twice over the years. Nothing too serious lately."
+
+Kael placed another log on the pile.
+
+"Still, we keep the gates secured at night and watch the surrounding woods. Better to be prepared than caught sleeping."
+
+Eric looked towards the forest again.
+
+He wasn't sure what to make of that.
 
 ***
 
 The rest of the village was just as busy.
 
-Eric helped carry baskets of vegetables, move sacks of grain, and bring hay into storage. Sometimes he was sent to help clean livestock bedding or carry materials for someone repairing a fence.
-
-He was still learning, and the villagers knew it.
-
-A few offered instructions. Others simply handed him a task and corrected him when he made a mistake.
+Eric helped carry baskets of vegetables, move sacks of grain, and bring hay into storage. Sometimes he was sent to help clean livestock bedding or hold materials while someone repaired a fence.
 
 Nobody expected him to be particularly good at anything.
 
 That was probably for the best.
 
-One afternoon, he was helping an older farmer hold a length of timber in place while the man repaired a section of fencing. Eric struggled to keep it steady as the farmer worked.
+One afternoon, he was helping an older farmer hold a length of timber in place while the man repaired a section of fencing.
 
 "Hold it higher."
 
@@ -220,11 +252,9 @@ The farmer paused and looked at him.
 
 "Have you ever done this before?"
 
-Eric considered the question.
-
 "No."
 
-The farmer grunted. "I can tell."
+"I can tell."
 
 Eric wasn't sure whether to be offended.
 
@@ -240,39 +270,43 @@ He was learning that food seemed to taste better when he'd spent half the day ea
 
 Lena was busy in her own way.
 
-She helped prepare food, carried messages between houses, assisted with sewing, and spent time at the communal storehouse helping organise supplies.
+She helped prepare food, carried messages between houses, assisted with sewing, and spent time at the communal storehouse organising supplies. She always seemed to have somewhere to be or someone to talk to.
 
 Eric occasionally worked alongside her, though their tasks rarely overlapped for long.
 
-Their conversations had become easier.
+Their conversations had become easier, too.
 
-Lena no longer needed to repeat every word, and Eric could now understand most everyday instructions. He still struggled with unfamiliar expressions and longer explanations, but he was getting better.
+One afternoon, while they were carrying supplies back from the communal building, Lena noticed him struggling to pronounce a word.
 
-Sometimes she corrected his pronunciation.
-
-Sometimes he corrected himself.
-
-And sometimes he said something so badly that she had to turn away to hide her laughter.
-
-"You said that wrong," she told him one afternoon.
+"You're saying it wrong."
 
 "I know."
 
-"You know?"
+She looked at him. "You know?"
 
 "I knew after you laughed."
 
-Lena grinned.
+Lena tried to hold back a smile, but failed.
+
+"Well, you did say it rather strangely."
 
 Eric shook his head.
 
+"I'm starting to think you enjoy this."
+
+"Enjoy what?"
+
+"Correcting me."
+
+"Of course I do. You're very entertaining."
+
+She said it so casually that Eric couldn't help laughing.
+
 He was beginning to suspect she enjoyed correcting him more than she needed to.
 
-Still, he didn't mind.
+Still, he didn't mind. It was easier to learn when someone was willing to be patient with him, even if that patience came with the occasional laugh.
 
-It was easier to learn when someone was willing to be patient with him.
-
-One afternoon, while they were carrying supplies back from the communal building, Eric noticed Lena struggling with a basket that was heavier than it looked.
+A little later, he noticed Lena struggling with a basket that was heavier than it looked.
 
 "Here."
 
@@ -286,17 +320,53 @@ He reached for it.
 
 "Because I can carry it too."
 
-She looked at him for a moment before letting him take the basket.
+She stared at him for a moment before giving a small smile and letting him take it.
+
+"Fine. But don't drop it. There's food in there."
 
 Eric adjusted his grip.
 
 It was heavier than expected.
 
-He said nothing.
+Lena noticed his expression.
 
-Lena noticed anyway.
+"What's wrong? Changed your mind?"
 
-She smiled but didn't comment.
+"No."
+
+"Good. I was about to make you carry the rest, too."
+
+He gave her a look.
+
+She laughed and continued walking.
+
+Later, while they were putting away the supplies, Eric remembered their earlier conversation with Kael.
+
+"Do you ever get scared of monsters?" he asked.
+
+Lena looked at him, slightly surprised.
+
+"Sometimes. Why?"
+
+"I was wondering."
+
+She shrugged. "They're not something we see every day. Usually, the hunters notice them before they get anywhere near the village."
+
+"And if they don't?"
+
+"Then Father and the others deal with it."
+
+She said it rather casually, then gave him a small smile.
+
+"Besides, we have the palisade. It's not much, but it'll keep most things out."
+
+Eric glanced towards the wooden walls.
+
+He wasn't entirely convinced.
+
+Lena noticed his expression and laughed.
+
+"Don't worry. It's been quiet for a while."
 
 ***
 
@@ -308,87 +378,59 @@ The animals were laid out near one of the sheds. A few people came over to help,
 
 It seemed like an ordinary hunting trip.
 
-Eric watched as one of the hunters spoke with Kael.
+Until Eric overheard one of the hunters speaking with Kael.
 
 "Found tracks farther north," the man said. "Large ones."
 
-Kael glanced toward the forest beyond the fields. "Anything following them?"
+Kael glanced towards the forest beyond the fields. "Anything following them?"
 
 "Couldn't tell. The ground was too hard in places."
 
-"Could be something passing through."
+"How far?"
 
-"Could be."
+"Not too far from the usual hunting grounds."
 
-The conversation didn't seem to alarm either man.
+Kael frowned slightly.
 
-Eric waited until the hunter had moved away before asking Kael about it.
+"Keep an eye out next time you're there. Don't follow them if you find more."
 
-"What tracks?"
+"Wasn't planning to."
 
-"Something large in the woods."
+The hunter gave a short laugh before moving away.
 
-"What kind?"
+Eric waited until he was gone.
 
-Kael shrugged. "Hard to know without seeing them."
+"Something dangerous?"
 
-Eric looked toward the forest.
+"Possibly."
 
-He still wasn't used to the idea that creatures unlike anything he'd known on Earth lived beyond the village.
+"Monsters?"
 
-He had heard people talk about monsters before. The word still sounded strange to him, even though he was beginning to understand that it covered a great many different things.
+Kael nodded. "Could be."
 
-Kael noticed his expression.
+Eric looked towards the forest.
 
-"Not everything out there hunts people," he said. "Most creatures keep away from us. They have their own places, their own food."
+"Should we be worried?"
 
-"And the dangerous ones?"
+"Not yet. Tracks don't mean it's coming here."
 
-"We watch for them."
+Kael picked up another piece of firewood.
 
-Kael returned to stacking the wood.
+"But we'll keep the gate secured and have someone watch the surroundings. That's what we do."
 
-The hunters knew the surrounding forest better than most. They understood the tracks, the sounds, and the signs that indicated when something dangerous was nearby. They hunted ordinary game for food, but they also kept an eye out for creatures that might threaten the village.
+Eric remembered what Kael had told him before. Monsters occasionally wandered close to settlements, particularly when food became scarce. It wasn't something that happened often, but it wasn't unheard of either.
 
-A few villagers took turns watching the palisade and the surrounding paths. Someone was usually stationed near the gate, while the modest watchtower provided a better view of the nearby fields and woodland.
-
-The palisade wasn't much of a fortress. It was a simple wooden barrier, built to slow animals and discourage anything from wandering too close. The gate could be closed when needed, and the watchtower offered an early warning if something approached.
-
-Beyond that, the Empire's patrols helped keep the area reasonably safe.
-
-Mounted soldiers travelled through the region, inspecting roads and settlements, investigating sightings, and occasionally clearing dangerous creatures from nearby routes.
-
-Eric had seen one of these patrols a few days earlier.
-
-They had passed along the road without stopping for long. The villagers had greeted them, exchanged a few words, and gone back to their work.
-
-It had been surprisingly ordinary.
-
-He had expected a world filled with monsters to be considerably more chaotic.
-
-But people here had learned to live alongside them. They understood the dangers, watched for signs, and took precautions.
-
-The forest wasn't safe.
-
-It simply wasn't constantly trying to kill them.
-
-That distinction made him feel a little better.
+The villagers had their precautions for a reason.
 
 ***
 
 The weather continued to grow colder.
 
-Eric found himself spending more time near the hearth whenever he had the chance.
-
-He was beginning to understand why Kael kept such a careful supply of firewood. A warm room was one of the few comforts that could make the cold bearable, and keeping it that way took constant effort.
+Eric found himself spending more time near the hearth whenever he had the chance. He was beginning to understand why Kael kept such a careful supply of firewood. A warm room was one of the few comforts that could make the cold bearable, and keeping it that way took constant effort.
 
 One evening, after helping Lena carry supplies, he sat near the fire and stretched his legs.
 
-His hands were sore.
-
-His shoulders ached.
-
-His stomach was full.
+His hands were sore. His shoulders ached. His stomach was full.
 
 He watched the flames shift and flicker.
 
@@ -412,19 +454,19 @@ For now, there was nothing he could do.
 
 He could only keep going.
 
-"You're staring at the fire."
+"You're staring at the fire again."
 
 Eric looked up.
 
-Lena was standing nearby with a small bundle of folded clothes.
+Lena stood nearby, carrying a small bundle of folded clothes.
 
 "Am I?"
 
-"Yes."
+"Quite a lot, actually. I was starting to wonder if you'd fallen asleep sitting there."
 
 "Just thinking."
 
-She placed the clothes beside him. "Father says you'll be helping with the storehouse tomorrow."
+She placed the clothes beside him. "Father says you'll be helping at the storehouse tomorrow."
 
 Eric glanced at the bundle. "More work?"
 
@@ -432,11 +474,17 @@ Eric glanced at the bundle. "More work?"
 
 He gave a quiet sigh.
 
-Lena smiled. "You'll get used to it."
+Lena smiled. "Don't look so miserable. It's not that bad."
 
 "I hope not."
 
-She laughed and left him by the fire.
+"Besides, I'll be there for part of the morning. I'll make sure you don't put anything in the wrong place."
+
+"Very reassuring."
+
+"You're welcome."
+
+She gave him a cheerful little wave before heading upstairs.
 
 Eric looked back at the flames.
 
@@ -448,9 +496,7 @@ The days settled into a familiar rhythm.
 
 Eric woke, ate, worked, and returned to Kael's house in the evening. His language improved through repetition, and he gradually became more comfortable speaking with the villagers.
 
-He was no longer completely dependent on Lena to understand what people wanted from him.
-
-He could ask questions, follow instructions, and hold simple conversations without having to carefully arrange every word in his head.
+He was no longer completely dependent on Lena to understand what people wanted from him. He could ask questions, follow instructions, and hold simple conversations without carefully arranging every word in his head.
 
 There were still moments when he misunderstood something, but those were becoming less frequent.
 
@@ -464,7 +510,7 @@ The children who sometimes followed him around, curious about the stranger who s
 
 The way Kael checked the doors before going to bed.
 
-The way Lena always seemed to have something to do.
+The way Lena always seemed to have something to do, yet somehow found time to stop and chat with anyone she passed.
 
 They were small details, but they made Eastwood feel less like a place he had stumbled into and more like somewhere people lived their lives.
 
@@ -506,9 +552,9 @@ Lena passed him another.
 
 "I know."
 
-He carried it to the washing area and began cleaning the dishes.
+"Just checking."
 
-The work was simple, though his fingers didn't particularly enjoy the cold water. He rinsed each bowl and placed it beside the others to dry.
+Eric carried the bowls to the washing area and began cleaning them. The work was simple, though his fingers didn't particularly enjoy the cold water. He rinsed each bowl and placed it beside the others to dry.
 
 By the time he finished, the fire had burned lower.
 

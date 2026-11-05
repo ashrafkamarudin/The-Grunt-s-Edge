@@ -413,7 +413,7 @@ The stars seemed impossibly bright.
 
 A quiet laugh escaped him, though there was little humour in it.
 
-"Fourteen years," he muttered. "And this is how I get back?"
+"Fourteen years," he muttered. "And this is how I get back? Haha ... shit."
 
 He rubbed his arms and turned toward the sound of the river.
 

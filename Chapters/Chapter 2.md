@@ -234,8 +234,6 @@ The ash was old and damp. He crouched beside it, touched one of the blackened st
 
 Someone had made a fire here. Perhaps days ago. Perhaps longer.
 
-It was not proof that people lived nearby, but it was proof that someone had been here.
-
 He looked around again.
 
 This time, the forest seemed a little less endless.

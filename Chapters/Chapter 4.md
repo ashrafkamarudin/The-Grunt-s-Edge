@@ -24,7 +24,7 @@ The door opened.
 
 A girl stood in the doorway with a bundle of folded clothes in her arms. She looked to be in her mid-teens, with dark hair loosely tied behind her head. She stopped when she saw him sitting up.
 
-"You're awake."
+"Oh! look who'se finally woken up!"
 
 Eric recognised the words. He thought he understood them, at least.
 
@@ -38,7 +38,7 @@ Eric looked at the clothes. A plain shirt, trousers, and a belt. They were old b
 
 "For me?"
 
-She nodded. "They're spare clothes. The trousers might be a little long."
+She nodded. "mhmm... They're spare clothes. The trousers might be a abit long for you though hehe."
 
 He touched the shirt, unsure what to say.
 
@@ -46,7 +46,7 @@ He touched the shirt, unsure what to say.
 
 The words came more easily now. He had heard them often enough yesterday, and the meaning had settled into place.
 
-The girl gave a small nod. "There's water by the door. Wash first. Breakfast is nearly ready."
+The girl gave him a cheerful smile. "There's water by the door. Wash first. Breakfast is almost ready!"
 
 She turned to leave.
 
@@ -64,11 +64,11 @@ The girl blinked, then seemed to understand.
 
 He repeated it quietly. "Lena."
 
-"And yours is Eric."
+"And you are ... Eric?"
 
 He nodded.
 
-She studied him for a moment, then smiled faintly. "You remember that much, at least."
+She studied him for a moment, then smiled. "Good. You remember that much, at least."
 
 The door closed behind her.
 
@@ -134,7 +134,7 @@ Eric looked down. He had nearly finished.
 
 "Sorry."
 
-She shook her head. "You don't need to be."
+She shook her head. "Glad you like it."
 
 Kael ate in silence. When he finished, he stood and took his bowl to the basin.
 
@@ -192,11 +192,11 @@ She looked at his knee. "What are you doing?"
 
 "I rested."
 
-She glanced toward the door, then back at him. "Can you carry that?"
+She glanced toward the door, then back at him. "Really ? Can you carry that?"
 
 Eric looked at the basket. It contained several folded cloths and a handful of small items. Nothing heavy.
 
-"Yes."
+"Yeah"
 
 Lena hesitated before handing it over.
 
@@ -220,17 +220,27 @@ Life continued.
 
 Lena pointed toward a low building beside the house.
 
-"Put it there."
+"Over there! You can put it on that bench."
 
-Eric followed her instructions and set the basket down on a bench.
+Eric followed her instructions and set the basket down.
 
-"Good."
+"Good! There we go."
 
-He waited, uncertain whether he should return inside.
+She gave the basket a quick glance before turning back to him.
 
-Lena was already collecting the cloths. "Come. I'll show you where the water is."
+"Come on. I'll show you where we keep the water."
 
-She led him around the side of the house to a covered well. A wooden bucket hung from a rope. She demonstrated how to lower it and pull it back up, then handed him the rope.
+She was already walking ahead when she looked over her shoulder.
+
+"Don't fall behind!"
+
+She led him around the side of the house to a covered well. A wooden bucket hung from a rope.
+
+"Here! This is where we get our water."
+
+She demonstrated how to lower the bucket and pull it back up, then handed him the rope.
+
+"Your turn!"
 
 Eric tried.
 
@@ -238,19 +248,25 @@ The bucket dropped too quickly, striking the water with a loud splash. He pulled
 
 Lena watched him struggle.
 
-"Not so fast."
+"Whoa, slow down! The water isn't going anywhere."
 
 "I know."
 
 He did not know.
 
-She took the rope and showed him again, this time letting it slide through her hands in a controlled manner.
+She giggled before taking the rope from him.
+
+"Here, let me show you again."
+
+This time, she let the rope slide through her hands in a controlled manner, explaining as she went.
+
+"See? Just let it down slowly. Like this."
 
 Eric tried a second time.
 
 The bucket reached the water without a splash. Pulling it up was harder, but he managed.
 
-"Better," she said.
+"There! Much better!"
 
 He handed her the bucket.
 
@@ -258,7 +274,7 @@ It was a small thing. A simple task. Yet he felt a quiet satisfaction at having 
 
 Lena poured the water into a container.
 
-"Do you remember anything?" she asked.
+"So..." She glanced at him. "Do you remember anything?"
 
 Eric looked at her.
 
@@ -288,9 +304,13 @@ Eric looked down at his hands.
 
 She seemed to understand that he did not want to say more.
 
-"All right."
+"Oh... I see."
 
-She carried the water back toward the house.
+She didn't press him further.
+
+"Come on. Let's get this inside."
+
+She picked up the container and started back toward the house.
 
 He followed.
 
@@ -414,17 +434,19 @@ She pointed toward the door. "Door."
 
 "Door."
 
+"Good! You're getting the hang of it."
+
 Some words were easier than others. A few sounded familiar enough that he could guess their meanings, while others seemed to have no connection to anything he knew.
 
-Lena corrected his pronunciation when it was wrong.
+Lena corrected his pronunciation whenever he got it wrong.
 
-He repeated the words until he could say them without hesitation.
+Sometimes she'd repeat the word slowly. Other times, she'd make him try again until he got it right.
 
 "Food," she said, pointing at the loaf of bread.
 
 Eric looked at it. "Food."
 
-"Yes."
+"Yes! That's right."
 
 He pointed at the bread. "Bread?"
 
@@ -432,9 +454,11 @@ Lena smiled. "Bread."
 
 He repeated it.
 
+"Very good!"
+
 The lesson continued.
 
-At first, she seemed amused by how slowly he learned. Then she became more patient, waiting for him to work through unfamiliar sounds rather than supplying the answer immediately.
+At first, she seemed amused by how slowly he learned. Every now and then, she'd giggle when he stumbled over an unfamiliar sound. But she never made him feel bad about it. Instead, she patiently waited for him to try again.
 
 It reminded him of learning a language at school, though the circumstances were considerably stranger.
 
@@ -446,13 +470,13 @@ Lena's needle stopped.
 
 She looked at him.
 
-Then she gave him the word.
+"Family?" she repeated, then gave him the word.
 
 He repeated it.
 
 She corrected him once, then again. The third attempt was close enough.
 
-"Good."
+"There! You got it!"
 
 Eric nodded, committing the word to memory.
 
@@ -468,7 +492,7 @@ He pointed at her.
 
 "Lena."
 
-She smiled. "Yes."
+She smiled. "That's me!"
 
 He pointed toward the doorway, where Kael was visible outside.
 
@@ -482,7 +506,7 @@ She pointed toward Kael again. "My father."
 
 Eric repeated the word. "Father."
 
-"That's right."
+"That's right!"
 
 He tried the sentence. "Lena's father."
 
@@ -490,7 +514,7 @@ She nodded, pleased.
 
 He looked toward the doorway again. "Kael."
 
-Lena smiled. "You can call him Kael. He's used to it."
+Lena giggled. "You can call him Kael. He's used to it."
 
 Eric gave a small nod. That was one less thing to worry about.
 
@@ -510,7 +534,7 @@ He paused.
 
 "Help."
 
-Lena looked at him for a moment, then returned to her sewing.
+Lena looked at him for a moment, then smiled.
 
 "You're welcome."
 
@@ -674,7 +698,7 @@ Still, he had done something.
 
 Lena placed a bowl in front of him.
 
-"Eat."
+"let's Eat."
 
 He smiled faintly.
 
@@ -702,7 +726,7 @@ When the meal was finished, Eric carried his bowl to the basin.
 
 Kael glanced at him but said nothing.
 
-Lena gave him a small nod.
+Lena gave him a small smile.
 
 It was an ordinary gesture. Almost nothing.
 
