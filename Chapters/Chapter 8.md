@@ -1,517 +1,353 @@
 # Chapter 8: The Road Ahead
 
-Morning came quietly to Eastwood.
+Eric woke earlier than usual the following morning.
 
-Eric woke before the household stirred. For a moment, he lay beneath the blanket, staring at the ceiling and listening to the faint sounds of the house. The decision from the previous day returned to him before he had even sat up.
+For a moment, he lay still, staring at the wooden ceiling. The events of the previous day came back to him, along with the knowledge that he would soon be leaving Eastwood.
 
-He was leaving.
+He had known it was coming when he volunteered, but the reality of it felt different now. He had spent weeks in the village, slowly recovering, learning the language, and getting used to the people around him. It had become familiar in a way he hadn't expected.
 
-The thought felt different in the morning. Yesterday, standing among the villagers, the words had come out more easily than he expected. He had weighed the choices, considered what the village could afford to lose, and decided that going was the most practical answer.
+And now he was going to leave it behind.
 
-Now there was time to think about what that meant.
+When he came downstairs, Kael was already preparing breakfast. Lena sat near the fire, rubbing her hands together to warm them.
 
-He would leave the only place he had known since waking in this world. He would leave Kael and Lena, the people who had taken him in when they had every reason not to. He would travel to Greybridge, enter the king's service, and discover what awaited him beyond it.
+She looked up as he entered.
 
-He had no idea what that would look like.
-
-Eric pushed the blanket aside and got up.
-
-The hearth downstairs was already lit. Kael sat at the table, eating a simple breakfast. Lena was near the hearth, preparing another portion.
-
-"You're up early," Kael said.
+"You're up early."
 
 "Couldn't sleep much."
 
-Kael gave a small nod, as if he understood, then returned to his food.
-
-Lena placed a bowl on the table. "Eat before it gets cold."
-
-Eric sat down. The three of them ate together, but the conversation was quieter than usual. There were things they could have said, perhaps, but none of them seemed sure where to begin.
-
-After breakfast, Eric helped Kael with the woodpile.
-
-There was still work to do before winter, and leaving did not mean the work would disappear. He carried logs from the shed and stacked them beside the house. Kael checked the arrangement once, moved two pieces that had been placed poorly, and continued working without comment.
-
-Eric watched, then adjusted the next few himself.
-
-He had learned enough over the past weeks to recognise some of his earlier mistakes. He still wasn't particularly good at this sort of work, but at least he no longer needed someone to show him every step.
-
-They worked until the pile was nearly finished.
-
-"That should do," Kael said.
-
-Eric wiped his hands against his trousers. "I'll be able to finish the rest before I leave."
-
-"There's no need to rush."
-
-"I know."
-
-Kael looked at him briefly, then picked up another log.
-
-They continued without saying much.
-
-The rest of the day passed in a similar fashion. Eric helped where he could, carrying supplies, moving things around the communal building, and finishing small tasks that would otherwise have been left for someone else.
-
-A few villagers stopped to speak with him. Some wished him well. Others simply gave him a nod or a brief word of encouragement. A few seemed uncomfortable, perhaps still unsure how to treat someone who had volunteered to leave in their place.
-
-Aldric approached him near the storehouse in the afternoon.
-
-"You're keeping busy."
-
-"There's plenty to do."
-
-"Always is."
-
-Aldric stood beside him for a moment, watching the villagers move between the buildings.
-
-"Kael doesn't usually take strangers into his house," he said.
-
-Eric paused. "He told me he had room."
-
-"That's not quite the same thing."
-
-Eric waited.
-
-Aldric folded his arms. "His son died ten years ago. Lena was still young. After that, Kael kept mostly to himself. He did what needed doing for the village, looked after his daughter, and didn't invite people into his affairs."
-
-Eric glanced towards the house.
-
-"I didn't know."
-
-"There's no reason you would."
-
-Aldric's expression remained difficult to read. "When he found you outside the palisade, you were half-dead. He could have handed you over to the village and left it at that. Instead, he brought you home."
-
-Eric looked down at his hands.
-
-"Do you know why?"
-
-"No." Aldric shook his head. "I know Kael. I know he doesn't make decisions lightly. But I can't tell you what was in his mind."
-
-He paused.
-
-"Perhaps he simply couldn't leave an injured young man lying in the dirt."
-
-Eric wasn't sure what to say.
-
-Aldric looked at him again. "Whatever the reason, don't mistake his silence for indifference. He doesn't always say what he means."
-
-"I've noticed."
-
-Aldric gave a short, almost amused breath.
-
-"Then you've learned something."
-
-He started to leave, then stopped.
-
-"You've helped this village more than we expected when you first arrived. I know yesterday wasn't easy for everyone."
-
-Eric nodded. "I understand."
-
-"Good. Then take care of yourself."
-
-Aldric walked away before Eric could find a proper answer.
-
-**The conversation stayed with Eric for the rest of the afternoon. He had wondered before why Kael had taken him in, but he had never asked. Perhaps he had been afraid of making the kindness feel like something that needed explaining.**
-
-**He looked towards the house again. Whatever had prompted Kael to help him, Eric was grateful. He only hoped he had given something back, even if it was only a few weeks of work.**
-
-By evening, the house had settled into its familiar routine.
-
-Lena was putting away the last of the day's supplies when Eric entered. She glanced at him, then disappeared into the small room where she kept her things.
-
-She returned carrying a folded piece of cloth.
-
-"I made this for you."
-
-Eric looked at it. It was a small pouch, sewn from sturdy brown fabric, with a cord that could be pulled tight at the top.
-
-"For what?"
-
-"Your things. Whatever you take with you."
-
-He accepted it carefully. "Thank you. It'll be useful."
-
-"You don't have much to carry, but you'll probably collect things along the way."
-
-"Probably."
-
-Lena hesitated, then reached into the pouch and took out a small knife.
-
-It was simple, with a worn wooden handle and a narrow blade. The metal had been sharpened many times, and the handle showed years of use.
-
-"This too," she said.
-
-Eric looked at the knife. "Are you sure?"
-
-She nodded. "You'll need one on the road."
-
-He took it, turning it over in his hand. It was light, but felt solid.
-
-"Your brother's?"
-
-Lena looked up, a little surprised.
-
-"He used to carry it," she said.
-
-**"Aldric told me about him," Eric said. "Only that he died ten years ago. I'm sorry. I didn't know."**
-
-Lena was quiet for a moment. Her fingers rested against the edge of the folded cloth.
-
-"It's all right," she said eventually. "It was a long time ago."
-
-She held the knife out again.
-
-"It's been sitting unused for years. It should be with someone who can use it."
-
-Eric looked at the knife once more before accepting it properly.
-
-"Thank you, Lena. I'll take care of it."
-
-Kael, who had been sitting near the hearth, glanced over.
-
-"Keep it sharp."
-
-"I will."
-
-Lena returned to putting away the supplies. She didn't say anything more about her brother, and Eric didn't press her.
-
-He slipped the knife into the pouch and tied the cord.
-
-It was a small gift, but it carried a weight he hadn't expected. He had arrived in Eastwood with nothing. Now he was leaving with something that had belonged to someone who had once lived here, someone whose place in the household was still quietly felt.
-
-He wondered how many things in this world carried stories he would never know.
-
-That night, Kael prepared a bundle of food for the journey. Dried bread, a portion of smoked meat, and a small wrapped piece of cheese. He added a strip of clean cloth and checked that the bundle was tied securely.
-
-"Keep the food dry," Kael said. "And don't eat everything at once."
-
-"I'll try not to."
-
-Kael handed him the bundle.
-
-Eric accepted it. "Thank you. For everything."
-
-Kael gave a small nod and returned to the table.
-
-There was no long speech, no attempt to make the moment easier with words. That was simply how Kael was.
-
-Eric found that he didn't mind.
-
-He went to bed earlier than usual. The house was quiet, but sleep did not come quickly.
-
-He thought about the road ahead. Greybridge was a place he had never seen. Beyond it lay the king's service, and beyond that, a world he still understood very little.
-
-He was afraid of what might happen. He would have been foolish not to be.
-
-But there was also a part of him that wanted to know what waited beyond the village. He had spent weeks learning how to live here, how to understand its people and customs. Now he would be forced to see more of it.
-
-He wondered whether the road might bring him closer to answers about his past.
-
-Then he thought of Kael and Lena, and the warmth of the house around him.
-
-He turned onto his side and closed his eyes.
-
-Tomorrow, he would leave.
-
-***
-
-The morning was cold.
-
-Eric dressed in the clothes Kael had given him and checked the small pouch at his waist. The knife was inside, along with a few things he had gathered during his time in Eastwood.
-
-Kael carried the food bundle. Lena stood by the door, holding her cloak closed against the wind.
-
-They ate breakfast together, though no one seemed particularly hungry.
-
-When it was time to go, Kael handed Eric the bundle.
-
-"Here."
-
-"Thanks."
-
-Kael checked the strap once, making sure it would hold.
-
-Then the three of them stepped outside.
-
-A few villagers had gathered near the road. Some had come to see him off, while others had simply been passing by and stopped when they saw the group.
-
-Eric recognised several faces from the weeks he had spent working alongside them. The farmer whose fence he had helped repair. The woman who had shown him how to sort vegetables for storage. The hunters who had returned with the deer. The people who had shared meals and ordinary conversations with him.
-
-They had all become familiar in a way he hadn't expected.
-
-The walk to the village gate was short.
-
-The wooden palisade stood ahead, its gate open to the road beyond. Eric stopped just before passing through.
-
-For a moment, he couldn't find anything to say.
-
-He looked at the villagers gathered there, then at Kael and Lena.
-
-"I've been trying to think of what to say," he began. His voice sounded quieter than he intended. "I don't think I've found the right words."
-
-No one interrupted.
-
-"When I first came here, I didn't know where I was. I didn't know anyone, and I could barely understand what people were saying. I had nowhere to go and no idea what I was supposed to do."
-
-He looked at Kael.
-
-"You took me in. You gave me food, a place to sleep, and time to recover. You could have turned me away, but you didn't."
-
-Then he looked at Lena.
-
-"You helped me understand things I couldn't even begin to ask about. You were patient with me, even when I kept getting words wrong."
-
-Lena lowered her eyes, but she was listening.
-
-Eric took a breath.
-
-"I don't know what happens after we leave Greybridge. I don't know where they'll send us or how long I'll be away. But I'll do my best to stay safe. I'll take care of myself."
-
-He paused, searching for the rest of what he wanted to say.
-
-"And I won't forget this place. Or either of you. Whatever happens, I'll remember what you've done for me."
-
-For a moment, nobody spoke.
-
-Lena's eyes had reddened. She nodded, pressing her lips together as if trying to keep herself from saying something.
-
-Kael looked at Eric.
-
-"Then take care of yourself."
-
-"I will."
-
-Eric wanted to say more, but there was nothing else that wouldn't sound like he was trying to stretch the moment out.
-
-He gave them one last look, then turned towards the road.
-
-The first few steps were difficult. He had imagined leaving Eastwood several times since volunteering, but the reality of walking away was different.
-
-He didn't look back immediately.
-
-When he finally did, Kael and Lena were still standing by the gate.
-
-Eric raised a hand.
-
-Lena raised hers in return.
-
-Then he turned and continued down the road.
-
-***
-
-The journey to Greybridge took two days.
-
-The soldiers travelling with them kept a steady pace, stopping at intervals to rest and eat. Eric walked with the other recruits, his food bundle secured over one shoulder and his pouch tied at his waist.
-
-He was not the only one who had been collected from a village.
-
-Two young men from Oakfell had already been taken before the soldiers reached Eastwood. Their names were Darrin and Tomas. Both were eighteen, and they had known each other since childhood.
-
-Darrin was broad-shouldered and spoke easily, filling the quiet whenever it settled for too long. Tomas was narrower and quieter, often keeping his hands close to his body. He had a habit of touching something inside his pocket whenever he seemed nervous.
-
-They had travelled with the soldiers to Eastwood and would continue with Eric to Greybridge.
-
-"So you're from Eastwood?" Darrin asked as they walked.
-
-"Yes."
-
-"Never been there."
-
-"There's not much to see."
-
-"That's what people say about Oakfell."
-
-Tomas glanced at him. "There isn't."
-
-Darrin grinned. "See? He agrees with me."
-
-Eric gave a small smile.
-
-"How many did they take from your village?" he asked.
-
-"Just us," Darrin said. "One from Oakfell was enough."
-
-"Same as Eastwood."
-
-"Then I suppose we're all in the same boat."
-
-Tomas looked down at the road. "I don't know if that's a good thing."
-
-Darrin shrugged. "Better than travelling alone."
-
-They continued walking.
-
-The road wound through fields and patches of woodland. The countryside was familiar in some ways, though Eric still found himself looking at things he couldn't quite name. The fields were divided by low fences and stone markers. Small streams crossed the road in places, and distant hills rose beyond the farmland.
-
-At times, he tried to imagine what lay further ahead.
-
-He had spent so much of his time in Eastwood learning how to live that he had rarely thought about what existed beyond it. Now the world was opening in front of him, though not quite in the way he would have chosen.
-
-The soldiers did not encourage much conversation. They kept watch over the recruits and made sure no one fell too far behind. They were not cruel, but neither did they treat the journey as an adventure.
-
-It was a task to be completed.
-
-By the first evening, the recruits were tired. They stopped near a small stream, where the soldiers made camp and prepared a simple meal.
-
-Eric sat with Darrin and Tomas a little away from the main group.
-
-Darrin had already started talking about what might happen once they reached Greybridge.
-
-"Maybe they'll put us together," he said. "Wouldn't be so bad."
-
-"Maybe," Tomas replied.
-
-"You always say maybe."
-
-"Because I don't know."
-
-Darrin laughed and leaned back against a fallen log.
-
-Eric listened while taking out the small knife Lena had given him. He had collected a few dry twigs and was trying to prepare them for a fire.
-
-The first attempt failed. The wood was too damp.
-
-He tried again, separating the thinner pieces and arranging them more carefully.
-
-Darrin watched him.
-
-"Trying to start a fire?"
-
-"Yes."
-
-"Need help?"
-
-"I think I've got it."
-
-The next attempt caught, though the flame was small. Eric shielded it from the breeze and fed it carefully until it began to grow.
-
-It took longer than he expected, but eventually he had a steady little fire.
-
-Darrin gave an approving nod.
-
-"Not bad."
-
-Eric looked at the knife in his hand.
-
-"Lena gave it to me."
-
-"Someone from your village?"
-
-"Yes. Her brother used to carry it."
-
-Tomas glanced at the knife, then looked away.
-
-"That's a good thing to take with you," he said quietly.
+"Thinking about tomorrow?"
 
 Eric nodded.
 
-He wiped the blade clean and returned it to its sheath.
+Lena gave him a small smile. "Well, at least you'll have something to do today. Father would probably find a hundred things to make you carry if you stayed."
 
-The fire crackled between them. Around the camp, the soldiers spoke in low voices, while other recruits settled down for the night.
+Kael glanced at her. "There's plenty to do."
 
-For a while, Eric watched the flames.
+"See? A hundred things."
 
-He thought about Lena, and the way she had offered the knife without making a great deal of it. He thought about Kael checking the food bundle one last time. He remembered the village gate, the faces gathered there, and the road stretching beyond it.
+Eric chuckled and took a seat. The conversation moved on to breakfast, though Lena seemed a little quieter than usual. She still joined in whenever Kael or Eric spoke, but her usual teasing came less often.
 
-He had known he would miss Eastwood.
+After eating, Eric spent most of the day helping around the village. There were still things to be done before winter settled in, and nobody was about to let a pair of working hands go unused simply because he was leaving the next morning.
 
-He hadn't realised how much until he was already leaving it behind.
+He helped move supplies near the storehouse, carried firewood, and assisted with a few repairs around the village. Some of the villagers thanked him for his help, while others simply nodded or called out a few words as he passed.
+
+During the afternoon, Aldric approached him while he was helping stack timber.
+
+"Got a moment?"
+
+Eric put down the piece of wood he was carrying.
+
+Aldric stood beside the pile, watching the other villagers work before turning to him.
+
+"You've done a fair bit for this village since you arrived."
+
+"I was just helping."
+
+"Still counts."
+
+Aldric paused, then looked towards Kael's house.
+
+"Kael doesn't usually let strangers stay with him. Not for long, anyway."
+
+Eric wasn't sure what to say.
+
+"His son died about ten years ago," Aldric continued. "After that, he kept to himself. Worked, came home, and hardly spoke to anyone unless he had to."
+
+Eric listened quietly.
+
+"Then he found you outside the palisade, half-dead and in no shape to look after yourself. I suppose he saw something familiar in that."
+
+Aldric gave a slight shrug.
+
+"Don't go telling him I said any of this. He wouldn't appreciate it."
+
+"I won't."
+
+"Good. Now get back to work before someone decides you're standing around."
+
+Eric picked up the timber again, but Aldric's words stayed with him.
+
+He had known Kael was a reserved man, but he hadn't realised just how much had happened before they met. It made the man's decision to take him in feel even more significant.
+
+Later, when Eric returned to the house, Lena was waiting near the doorway. She had a small brown cloth pouch in her hands.
+
+"Here. I want you to have this."
+
+Eric looked at it before taking it from her.
+
+"What's inside?"
+
+"Something useful. Open it."
+
+He loosened the cord and looked inside. There were a few small things packed into it, along with a worn knife.
+
+Eric lifted the knife carefully. Its handle was old and its blade had seen plenty of use, but it was still in good condition.
+
+"Is this yours?"
+
+"It belonged to my brother."
+
+Eric looked at her.
+
+"Aldric told me about him," he said. "He said he died ten years ago."
+
+Lena nodded. For a moment, her expression softened.
+
+"He was always teasing me. He'd take things from me and hide them, then act like he had no idea where they'd gone." She gave a quiet laugh. "Once, he hid my shoes just before I had to go help Father. I was furious."
+
+She looked down at the knife.
+
+"He carried this around quite often. Father kept it after he died."
+
+Eric held the knife carefully. "Are you sure you want me to have it?"
+
+"Yes. It's just been sitting around for years. You might actually get some use out of it."
+
+"Thank you, Lena. I'll take good care of it."
+
+"You'd better. I don't want you losing it on the road."
+
+"I'll try not to."
+
+She smiled, though it didn't quite reach her eyes.
+
+That evening, Kael began preparing Eric's supplies for the journey. He packed dried bread, smoked meat, and a small piece of cheese, wrapping everything in cloth before placing it inside a travel bundle. He also added another piece of cloth and checked the straps to make sure they would hold.
+
+"How long will the journey take?" Eric asked.
+
+"Two days to Greybridge, if the road is clear. You'll be travelling with the soldiers, so keep up and do as they say."
+
+Eric nodded.
+
+"Once you reach Greybridge, they'll check the recruits and decide what happens next. You'll likely be sent on with the others after that."
+
+"Will they start training us there?"
+
+"Eventually. First, they'll decide where you're needed."
+
+Kael tightened one of the straps.
+
+"You're joining the Imperial Army now. Don't expect it to be easy."
+
+"I know."
+
+"Knowing and experiencing it are different things."
+
+Eric looked at the packed supplies. "I'll manage."
+
+Kael gave a brief nod and continued preparing the bundle.
+
+There wasn't much else to say. Eric had made his decision, and Kael wasn't the sort of man to fill the evening with speeches.
+
+The next morning arrived quickly.
+
+The village was still quiet when Eric finished preparing. He checked the pouch Lena had given him and made sure the knife was secured before slinging his bundle over his shoulder.
+
+Kael waited outside the house, already dressed for the cold. Lena stood beside him, her hands tucked into her sleeves.
+
+They walked together towards the village gate.
+
+A few villagers had gathered there to see him off. Some had worked alongside him over the past weeks, while others had only spoken to him occasionally. Even so, they had come to wish him well.
+
+Eric thanked them one by one. He wasn't sure how many of their names he could remember, but he recognised their faces. They had given him work when he needed something to do, food when he was hungry, and a place where he could recover.
+
+When he finally turned to Kael, he struggled to find the right words.
+
+"Thank you," he said. "For taking me in. For the food, the shelter, and everything else. I wouldn't have made it without you."
+
+Kael looked at him for a moment.
+
+"Just take care of yourself. Don't do anything stupid."
+
+Eric smiled. "I'll try."
+
+"Trying isn't always enough."
+
+"I'll keep that in mind."
+
+Kael reached out and placed a hand on his shoulder.
+
+"Keep your head down, listen to your instructors, and don't pick fights you can't win. The army has enough ways to make your life difficult without you adding to them."
+
+"I understand."
+
+"Good."
+
+Eric turned to Lena.
+
+She had been quiet for most of the morning. Now that the moment had come, she seemed unsure what to say. She looked at him, then glanced away towards the road beyond the gate.
+
+"Well," she began, forcing a small smile. "You'd better come back."
+
+"I'll do my best."
+
+"You have to. I still have plenty of words to teach you, and you haven't even learned all the ones I taught you already."
+
+Eric laughed. "I'll have to keep practising, then."
+
+"You'd better. Otherwise, all that teaching will have gone to waste."
+
+Her smile lingered for a moment before fading. She looked down at her hands, then back at him.
+
+"Take care of yourself, Eric."
+
+"I will."
+
+"And don't forget to eat. Father packed enough food, but I know how you are. You'll probably forget once you're busy."
+
+"I won't forget."
+
+"Good."
+
+She hesitated before stepping forward and giving him a brief hug. Eric returned it, surprised by the gesture.
+
+When she stepped back, her eyes were a little red, though she quickly looked away.
+
+"Go on," she said. "Before I change my mind and make you stay."
+
+Eric smiled, but his throat felt tight.
+
+He gave Kael one last nod, then stepped through the gate.
+
+The soldiers were waiting along the road with the other recruits. Eric adjusted his bundle and joined them, looking back once before they set off.
+
+Lena was still standing beside her father. She raised a hand in farewell, and Eric waved back.
+
+The road ahead stretched into the cold morning, leading away from the only place in this strange world that had begun to feel like home.
+
+He turned forward and continued walking.
+
+***
+
+The group travelled at a steady pace, following the road through open fields and stretches of woodland. The soldiers kept the recruits together, occasionally calling for them to move faster whenever the line began to slow.
+
+There were several others travelling with them, though Eric soon found himself walking near two young men from another village.
+
+One was broad-shouldered and had an easy smile. He seemed comfortable around strangers and had already started chatting with the soldiers whenever he got the chance. The other was slimmer and quieter, keeping mostly to himself. He occasionally reached into his pocket and touched something inside before letting his hand fall again.
+
+The broad-shouldered one eventually turned towards Eric.
+
+"You're from Eastwood, right?"
+
+"Yes."
+
+"I'm Darrin. This is Tomas. We're from Oakfell."
+
+Eric introduced himself.
+
+"Eric. Nice to meet you."
+
+Darrin grinned. "Same here. So, you volunteered?"
+
+"Yes. What about you two?"
+
+"We did." Darrin glanced at Tomas. "We've been talking about joining for a while. Figured it was time to stop talking and actually do something."
+
+Tomas gave a small nod. "Our village needed men too."
+
+Darrin shrugged. "Either way, here we are. Three lads from two villages. Not a bad start."
+
+Eric smiled at his enthusiasm.
+
+"Have either of you been to Greybridge before?" he asked.
+
+"No," Darrin replied. "But I've heard plenty about it. It's a proper town, with stone walls and a military garrison. Much bigger than Oakfell, that's for sure."
+
+"You're making it sound like we're going sightseeing," Tomas said quietly.
+
+"Well, we might as well look around if we get the chance."
+
+"Assuming they let us."
+
+Darrin laughed. "There's no harm in hoping."
+
+The journey continued through the afternoon. Darrin filled much of the walking time with conversation, asking Eric about Eastwood and sharing stories about Oakfell. Tomas spoke less, but he occasionally added something when the conversation turned to their villages.
+
+As the light began to fade, the soldiers led them to a suitable spot beside the road. They would camp there for the night and continue towards Greybridge in the morning.
+
+The recruits were told to gather wood and help prepare the camp. Eric took out Lena's knife and used it to cut smaller branches from the fallen timber. Darrin watched him work.
+
+"That's a decent knife."
+
+"Someone gave it to me before I left."
+
+"Good. You'll want to keep hold of it. Never know when something like that might come in handy."
+
+Eric nodded and continued preparing the wood.
+
+Once the fire was going, the three of them settled nearby with their food. The soldiers kept watch around the camp while the recruits ate and talked in quieter voices.
+
+Darrin seemed in particularly good spirits.
+
+"Just think," he said, looking at the fire. "A few months from now, we could be proper soldiers."
+
+"Assuming we make it through training," Tomas replied.
+
+"Then we'll make it through training."
+
+"You make it sound easy."
+
+"Didn't say it would be easy. Just said we'll get through it."
+
+Eric listened as Darrin spoke about what he hoped to achieve. He wanted to become a capable soldier, earn a place in the army, and eventually take part in something important. He spoke with the confidence of someone who had spent a long time imagining what lay ahead.
+
+Eric couldn't help but wonder whether he would feel the same once they had actually experienced military life.
+
+Still, Darrin's enthusiasm was infectious.
+
+"Well, if we're going to do it, we might as well make something of it," Eric said.
+
+"Exactly!" Darrin replied, pleased to hear it.
+
+Tomas shook his head, though a faint smile appeared on his face.
+
+They talked for a while longer before the soldiers ordered everyone to get some rest. The next day's journey would take them to Greybridge.
+
+Eric lay down with his bundle beside him, using his cloak for warmth. The fire slowly burned lower, and the camp settled into silence.
+
+He thought of Eastwood, of Kael and Lena, and of the people he had left behind. His fingers brushed against the pouch at his side, where the worn knife rested.
+
+He wondered what awaited him in Greybridge.
 
 ***
 
 They reached Greybridge the following afternoon.
 
-Eric saw the settlement before they arrived. It was larger than Eastwood, with a proper wall surrounding its central buildings and a steady flow of people moving along the road outside.
+The town stood behind tall stone walls, its gates watched by armed guards. It was larger than anything Eric had seen since arriving in this world. Buildings rose beyond the walls, and the steady movement of people and carts around the entrance gave the place a sense of activity that Eastwood could never match.
 
-But the soldiers did not lead them through the main gate.
+Darrin stared at it with open interest.
 
-Instead, they followed the road towards an open area beyond the walls.
+"That's Greybridge?"
 
-Wagons stood in several rows. Tents had been raised near the edge of the field, and fires burned in a few places where people were preparing food. Recruits gathered in small groups, some arriving with soldiers, others already waiting.
+"Looks like it," Eric replied.
 
-There were more people than Eric expected.
+"Not bad at all."
 
-Some looked young, perhaps around his age. Others were older, with weathered faces and rough hands. A few stood alone, while others spoke quietly among themselves.
+Tomas glanced towards the soldiers. "Keep moving. They'll tell us where to go."
 
-The soldiers led the group towards a table where several men were checking names against a document.
+Rather than entering the town, the recruits were led towards an assembly area outside the walls. More groups had gathered there, some arriving from nearby villages and others from farther away. Soldiers moved between them, checking names and directing people into lines.
 
-One of them looked up.
+The recruits were told to wait while their names were checked against the records.
 
-"Names?"
+Eric stood with Darrin and Tomas as the soldiers worked through the groups. There were more recruits than he had expected, and the noise of so many people gathered in one place made it difficult to hear what was happening.
 
-The soldier accompanying them handed over the list.
+Eventually, a soldier approached their group and called out for them to remain where they were.
 
-The man scanned it, then looked at the recruits.
+They would spend the night at the assembly area. The march would begin the following morning.
 
-"Darrin?"
-
-"Here."
-
-"Tomas?"
-
-Tomas raised a hand.
-
-"Eric?"
-
-"Here."
-
-The clerk marked something on the page.
-
-"Stay in the assembly area. You'll be told where to go when the rest have arrived."
-
-That was all.
-
-No speeches. No grand welcome. Just a name checked against a list and an instruction to wait.
-
-Eric stepped away from the table with the others.
-
-Greybridge was busy, but the open area had an unsettled feeling to it. People were still arriving. Soldiers moved between the wagons and tents, carrying supplies and speaking to one another. Recruits were directed towards different groups, though Eric had no idea what determined where they went.
-
-He saw a few men who looked as uncertain as he felt.
-
-Darrin stretched his shoulders.
+Darrin looked around, still taking everything in.
 
 "Well, we're here."
 
-Tomas said nothing.
+Eric adjusted the strap of his bundle. "Looks like it."
 
-Eric looked towards the settlement walls. Beyond them, people continued with their ordinary lives. Carts passed through the gate. Someone called to a merchant. A pair of children ran along the roadside before being pulled back by an older woman.
+"Tomorrow, then."
 
-The world had not stopped because a group of men had been gathered for service.
+Tomas gave a quiet nod.
 
-That thought stayed with him.
+Beyond the walls, Greybridge continued with its usual business, seemingly unaware of the recruits gathered outside. For Eric, however, the journey from Eastwood had brought him to the beginning of something entirely new.
 
-They were shown where to leave their belongings and where to collect their evening meal. There were no formal arrangements beyond that. The soldiers seemed more concerned with getting everyone accounted for than explaining what came next.
+He had left the village behind.
 
-As the afternoon faded, more recruits arrived.
-
-Some had travelled farther than Eric. Others came from villages he had never heard of. He listened to the names as they were called, trying to remember them, but there were too many.
-
-Darrin found a place near one of the fires and settled down. Tomas sat beside him, quieter than before.
-
-Eric took out the food Kael had packed for him and ate a little. He kept the rest for the following day.
-
-The knife remained in its pouch.
-
-When night came, the assembly area grew quieter. Fires burned lower, and conversations faded into scattered murmurs. The recruits settled wherever there was space, some inside tents and others beneath the open sky.
-
-Eric lay down with his cloak pulled close.
-
-The ground was hard. The air was cold. It was nothing like the bed in Kael's house.
-
-He turned onto his side and looked towards the dark outline of Greybridge's walls.
-
-Tomorrow, they would begin the march.
-
-He didn't know where it would take him, what kind of people he would meet, or what the king's service would demand of him. He knew only that the road ahead was no longer something he could imagine from a distance.
-
-He was on it now.
-
-**His thoughts returned to Eastwood one last time. To the house, the hearth, Lena's voice, and Kael's quiet presence. He hoped they were settling back into their ordinary routines. He hoped the winter would be kind to them.**
-
-**Then he reached for the pouch at his waist, feeling the familiar shape of the knife through the cloth.**
-
-He let his hand rest there for a moment before closing his eyes.
-
-The march would begin in the morning.
+Now, he would find out what serving the Empire truly meant.

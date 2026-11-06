@@ -12,16 +12,6 @@ Eric watched them as the column drew closer.
 
 This was where they would be staying.
 
-"Looks busier than I expected," Darrin said.
-
-"There's a lot of people here," Tomas replied.
-
-"More than our villages, anyway."
-
-Garran adjusted the strap across his shoulder.
-
-"Keep your eyes forward. We're nearly there."
-
 The soldiers leading the column called for them to close their ranks. The recruits shuffled into position, tired legs carrying them through the final stretch.
 
 At the gate, a guard stepped forward and raised his hand.
@@ -158,7 +148,7 @@ The clerk looked him over, then marked something on the paper.
 
 "Go to the medical station. They will check you before you're assigned."
 
-**He reached for a token, then paused as his eyes moved to another sheet on the table.**
+He reached for a token, then paused as his eyes moved to another sheet on the table.
 
 "One more thing. Have you been told your pay?"
 
@@ -168,7 +158,7 @@ The clerk gave a small sigh, as though he had already answered the same question
 
 "Fifteen Silver Marks a month while in service. Five Marks are paid out to you each month. The remaining ten are held until you complete your term."
 
-**He tapped the paper with his quill.**
+He tapped the paper with his quill.
 
 "Food, lodging, standard equipment and basic treatment are provided. You don't pay for those out of your wages. If you die while serving, your outstanding pay and the compensation due will be paid to your registered next of kin. Make sure the name on that record is correct."
 
@@ -186,31 +176,31 @@ He reached into the wooden box and handed Eric a small token. A number had been 
 
 Eric took the token and stepped aside.
 
-**As he moved away from the table, something pale drifted past his face. He looked up. A small white flake descended through the air before disappearing against the dark sleeve of his tunic.**
+As he moved away from the table, something pale drifted past his face. He looked up. A small white flake descended through the air before disappearing against the dark sleeve of his tunic.
 
-**Another followed. Then another.**
+Another followed. Then another.
 
-**Snow.**
+Snow.
 
-**Eric held out his hand. A few flakes settled against his skin, melting almost immediately. He had expected the weather to turn colder, but he hadn't thought winter would arrive so soon.**
+Eric held out his hand. A few flakes settled against his skin, melting almost immediately. He had expected the weather to turn colder, but he hadn't thought winter would arrive so soon.
 
-**Around the yard, a few soldiers glanced towards the sky. One pulled his cloak tighter while another continued carrying a crate as if nothing had happened.**
+Around the yard, a few soldiers glanced towards the sky. One pulled his cloak tighter while another continued carrying a crate as if nothing had happened.
 
-**"First snow," Darrin said behind him.**
+"First snow," Darrin said behind him.
 
-**Eric turned. Darrin had just finished registering and was looking up at the falling flakes.**
+Eric turned. Darrin had just finished registering and was looking up at the falling flakes.
 
-**"Looks like winter's caught up with us," he added.**
+"Looks like winter's caught up with us," he added.
 
-**Tomas stepped out from the table after him, brushing a flake from his sleeve.**
+Tomas stepped out from the table after him, brushing a flake from his sleeve.
 
-**"It'll probably stop soon."**
+"It'll probably stop soon."
 
-**"You sound disappointed."**
+"You sound disappointed."
 
-**"I'm thinking about the road we just walked."**
+"I'm thinking about the road we just walked."
 
-**Darrin glanced at his boots. "Fair enough."**
+Darrin glanced at his boots. "Fair enough."
 
 The next recruit approached.
 
@@ -246,47 +236,7 @@ The man marked something on a small sheet and handed it to him.
 
 Eric left the building.
 
-Darrin was waiting nearby, sitting on a low wooden bench.
-
-"How bad?"
-
-"Nothing serious."
-
-"Good. I thought they might send you straight back."
-
-Tomas sat beside him.
-
-"Did they check your feet?"
-
-"Yes."
-
-"Mine too. One of the blisters opened."
-
-Darrin looked down at his boots.
-
-"I should have said something earlier."
-
-"You were complaining about them yesterday," Tomas said.
-
-"Complaining isn't the same as asking for help."
-
-Garran stood a short distance away, listening without joining in.
-
-**Beyond the yard, the snowfall had become steadier, though the flakes were still small. A pair of soldiers crossed between the storehouse and the main building, speaking to each other as they walked.**
-
-**"...another report from the southern road," one of them said.**
-
-**"Already?"**
-
-**"Tracks near the farms. The patrol found them this morning."**
-
-**"This far out?"**
-
-**"That's what the report says."**
-
-**The second soldier glanced towards the recruits before lowering his voice. They continued towards the storehouse.**
-
-**Eric looked after them for a moment. He couldn't make out the rest of their conversation.**
+A few recruits were waiting nearby, some sitting on a low bench while others stood around checking their belongings. Eric handed the sheet to the clerk before joining the others.
 
 A soldier came to collect them.
 
@@ -324,15 +274,13 @@ Eric examined the supplies.
 
 He stepped aside to make room for the next recruit.
 
-Darrin looked over his own pile.
+The recruits continued collecting their supplies. Darrin glanced over his own pile.
 
 "That's a lot of things to carry."
 
-"Better than having nothing," Tomas said.
+"Better than having nothing," Tomas replied.
 
 "I didn't say it wasn't."
-
-Garran checked his blanket and socks, then folded them into his pack.
 
 A soldier walked along the line, making sure the recruits had received the correct supplies.
 
@@ -346,7 +294,7 @@ Eric looked down at the items in his hands.
 
 The station seemed to be preparing for the same change in weather as Eastwood. The mornings were already cold, and the evenings were becoming shorter. It would not be long before the chill became something more difficult to ignore.
 
-**Outside, the first snow continued to fall. It gathered briefly along the edges of the buildings and on the wooden fence, though much of it melted against the ground.**
+Outside, the first snow continued to fall. It gathered briefly along the edges of the buildings and on the wooden fence, though much of it melted against the ground.
 
 The recruits were directed towards the barracks.
 
@@ -362,13 +310,29 @@ He began reading.
 
 The recruits were divided between several barracks. Eric was assigned to Barracks C, in the west hall.
 
-Darrin was placed nearby, and Tomas was assigned a bunk only a few spaces away. Garran was in the same hall.
-
-Eric found his place. It was an upper bunk, with a narrow ladder fixed to the side. He placed his belongings beneath it and set the new blanket on the mattress.
+He found his place. It was an upper bunk, with a narrow ladder fixed to the side. He placed his belongings beneath it and set the new blanket on the mattress.
 
 It was not comfortable, but it was better than the ground.
 
-Darrin climbed onto the bunk below him and dropped his pack with a heavy thud.
+A moment later, Darrin came over, looking between the assigned bunks.
+
+"Wait. You're in C too?"
+
+Eric checked the mark on his token. "Looks like it."
+
+Darrin's expression brightened.
+
+"Wow, we got the same barrack!"
+
+It was the first time since leaving the road that he seemed genuinely excited about something.
+
+Tomas arrived shortly after, checking the spaces around them.
+
+"Looks like I'm here too."
+
+Eric gave a small nod. He was glad not to be surrounded entirely by strangers, though he still barely knew either of them.
+
+Darrin climbed onto the bunk below Eric's and dropped his pack with a heavy thud.
 
 "At least we have a roof."
 
@@ -378,23 +342,7 @@ Tomas placed his things neatly beside his bed.
 
 "I'm not. I like the roof."
 
-Garran set his equipment down and checked the space beneath his bunk.
-
-"Keep your things together. You'll have less trouble finding them."
-
-Darrin looked at him.
-
-"Do you have advice for everything?"
-
-"No."
-
-"What don't you have advice for?"
-
-"Talking less."
-
-Tomas laughed quietly.
-
-Before Darrin could answer, a voice sounded from the entrance.
+Before they could settle further, a voice sounded from the entrance.
 
 "All recruits. Stand outside."
 
@@ -460,19 +408,11 @@ Eric realised how hungry he was.
 
 The recruits were given bowls of porridge, slices of dark bread and a small portion of dried meat. It was plain food, but warm and filling.
 
-Darrin sat beside him and began eating immediately.
+He sat with the others from his barracks and began eating. Darrin was already halfway through his bowl, while Tomas broke off a piece of bread.
 
-"Better than the road."
+"Better than the road," Darrin said.
 
-Tomas broke off a piece of bread.
-
-"Everything is better than the road."
-
-"Even the barracks?"
-
-"Especially the barracks."
-
-Eric ate quietly. The food was not particularly good, but he had no reason to complain. The long march had left him hungry, and the warmth of the meal was welcome.
+Eric couldn't disagree. The long march had left him hungry, and the warmth of the meal was welcome.
 
 A soldier walked between the tables.
 
@@ -528,21 +468,7 @@ The movements seemed simple at first. Raise the shield. Step forward. Strike. Mo
 
 But the men repeated each action carefully, and the instructor corrected even small mistakes.
 
-Darrin leaned towards him.
-
-"Think we'll be doing that tomorrow?"
-
-"Probably," Tomas said.
-
-Darrin watched the men again.
-
-"Looks easier than carrying a pack."
-
-Garran gave him a sideways glance.
-
-"Wait until someone hits you."
-
-Darrin's smile faded slightly.
+Eric found himself watching their feet more than their weapons. The men had to move together, each step matching the others. A single person falling out of position could leave a gap in the line.
 
 The soldier leading them continued the tour.
 
@@ -552,19 +478,19 @@ The station was not large, but there was more to it than Eric had first imagined
 
 Even the men moving supplies worked with a sense of routine.
 
-**As they crossed the yard, Eric noticed a pair of soldiers speaking beside the training shelter. One had a narrow strip of parchment in his hand.**
+As they crossed the yard, Eric noticed a pair of soldiers speaking beside the training shelter. One had a narrow strip of parchment in his hand.
 
-**"...the patrol from the eastern farms?"**
+"...the patrol from the eastern farms?"
 
-**"They've been called back in. Something's been moving closer to the road."**
+"They've been called back in. Something's been moving closer to the road."
 
-**"Already? The cold has barely started."**
+"Already? The cold has barely started."
 
-**"I don't know. That's not for us to decide."**
+"I don't know. That's not for us to decide."
 
-**Their conversation ended as an instructor called one of them over.**
+Their conversation ended as an instructor called one of them over.
 
-**Eric glanced towards the fence. Beyond it, the falling snow softened the outlines of the surrounding fields. He wondered what had been moving out there, but the soldier leading the recruits was already calling them forward.**
+Eric glanced towards the fence. Beyond it, the falling snow softened the outlines of the surrounding fields. He wondered what had been moving out there, but the soldier leading the recruits was already calling them forward.
 
 The soldier brought them back to the barracks.
 
@@ -586,13 +512,13 @@ Darrin was struggling with one of his armour straps.
 
 "How does this thing go?"
 
-Garran looked over.
+Tomas glanced over.
 
 "Which part?"
 
 "This."
 
-Garran came closer, examined the strap and adjusted it.
+Tomas came closer, examined the strap and adjusted it.
 
 "You're pulling it the wrong way."
 
@@ -608,7 +534,7 @@ Darrin watched carefully.
 
 Darrin shook his head, but there was a smile on his face.
 
-Tomas had already arranged his belongings. He sat on his bunk, turning the wooden pendant in his fingers.
+Tomas returned to his bunk and arranged his belongings. He sat down, turning the wooden pendant in his fingers.
 
 "Are you nervous?" Darrin asked him.
 
@@ -626,9 +552,11 @@ Darrin leaned back against the wall.
 
 "That's encouraging."
 
-Garran was checking the edge of his equipment.
+A soldier entered the barracks.
 
-"Get some sleep. You'll find out soon enough."
+"Half an hour until lights out. Finish what you're doing."
+
+The men began settling down.
 
 Eric looked towards the narrow window.
 
@@ -648,7 +576,7 @@ He was here now.
 
 Tomorrow, he would begin learning how to fight.
 
-Not because he wanted to serve the king. Not because he had any particular desire to become a soldier.
+Not because he wanted to serve the Empire. Not because he had any particular desire to become a soldier.
 
 He simply did not want to be helpless again.
 
@@ -656,9 +584,9 @@ The memory of the creature from his childhood remained buried somewhere in his m
 
 He had spent years in a world where such things were impossible, or at least distant enough to feel unreal. Now he was back in a place where monsters existed beyond the safety of village walls.
 
-**The soldiers' brief conversation returned to him. Reports from the farms. Something moving closer to the road. He did not know whether it was connected to the monsters he remembered, or whether it was simply another part of life in this world.**
+The soldiers' brief conversation returned to him. Reports from the farms. Something moving closer to the road. He did not know whether it was connected to the monsters he remembered, or whether it was simply another part of life in this world.
 
-**But the first snow had come earlier than he expected, and the men here seemed to have more to worry about than the changing weather.**
+But the first snow had come earlier than he expected, and the men here seemed to have more to worry about than the changing weather.
 
 If he wanted to survive, he needed to learn.
 
@@ -667,12 +595,6 @@ He looked at his hands. They were still rough from the march, with small scratch
 They were not the hands of a fighter.
 
 Not yet.
-
-A soldier entered the barracks.
-
-"Half an hour until lights out. Finish what you're doing."
-
-The men began settling down.
 
 Eric climbed onto his bunk and pulled the blanket over himself. The mattress was thin, and the building was not especially warm, but it offered shelter from the wind.
 
